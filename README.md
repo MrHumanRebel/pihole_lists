@@ -1,3 +1,3 @@
 # PiHole Adlist Collection
 
-<img src="https://github.com/MrHumanRebel/sze_programozas/blob/main/Repo/c%2B%2B.jpg" alt="Programozás" width="500" height="277">
+<img src="https://github.com/MrHumanRebel/pihole_lists/blob/main/Repo/pi.webp" alt="Pi" width="500" height="510">
