@@ -74,8 +74,6 @@ https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt
 
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt		
 
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/kees1958.txt		
-
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt		
 
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt		
@@ -112,10 +110,6 @@ https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/Hungarian%20sca
 
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/Scammer%20sites.txt		
 
-https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/domain-list.json		
-
-https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/suspicious-list.json		
-
 https://raw.githubusercontent.com/DevSpen/scam-links/master/src/links.txt		
 
 https://raw.githubusercontent.com/BuildBot42/discord-scam-links/main/list.txt		
@@ -130,4 +124,6 @@ https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt
 
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt		
 
-https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list		
+
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/Discord%20phishing.txt
