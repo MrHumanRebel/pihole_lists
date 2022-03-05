@@ -108,3 +108,18 @@ https://v.firebog.net/hosts/Prigent-Malware.txt
 
 https://v.firebog.net/hosts/Shalla-mal.txt		
 
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/Hungarian%20scam%20pages.txt		
+
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/Scammer%20sites.txt		
+
+https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/domain-list.json		
+
+https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/suspicious-list.json		
+
+https://raw.githubusercontent.com/DevSpen/scam-links/master/src/links.txt		
+
+https://raw.githubusercontent.com/BuildBot42/discord-scam-links/main/list.txt		
+
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-spam.txt		
+
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware-malicious.txt
