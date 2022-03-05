@@ -122,4 +122,12 @@ https://raw.githubusercontent.com/BuildBot42/discord-scam-links/main/list.txt
 
 https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-spam.txt		
 
-https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware-malicious.txt
+https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware-malicious.txt		
+
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/MS%20Telemetry.txt		
+
+https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt		
+
+https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt		
+
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
