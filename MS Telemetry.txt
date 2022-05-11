@@ -105,7 +105,7 @@ survey.watson.microsoft.com
 telecommand.telemetry.microsoft.com
 telecommand.telemetry.microsoft.com.nsatc.net
 telemetry.appex.bing.net
-telemetry.appex.bing.net:443
+telemetry.appex.bing.net
 telemetry.microsoft.com
 telemetry.urs.microsoft.com
 ui.skype.com
