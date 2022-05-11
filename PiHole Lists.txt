@@ -126,4 +126,16 @@ https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
 
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list		
 
-https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/Discord%20phishing.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/Discord%20phishing.txt		
+
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt		
+
+https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt		
+
+https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt		
+
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/Xiomi%20Block		
+
+https://raw.githubusercontent.com/deep-bhatt/huawei-block-list/master/huawei-block-host.txt		
+
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/Basic%20Adblock
