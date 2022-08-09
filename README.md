@@ -1,4 +1,4 @@
-# PiHole Blocklist Collection
+# Pi-hole blocklist collection
 
 <img src="https://github.com/MrHumanRebel/pihole_lists/blob/main/Repo/pi.webp" alt="Pi" width="300" height="310">
 
