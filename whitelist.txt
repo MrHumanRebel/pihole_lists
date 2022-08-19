@@ -192,8 +192,6 @@ www.msftconnecttest.com
 internetbank.dtbank.hu	
 (\.|^)internetbank\.dtbank\.hu$	
 twitter.com	
-pihole	
--w	
 clients2.google.compihole	
 youtubei.googleapis.com	
 oauthaccountmanager.googleapis.com	
@@ -296,4 +294,4 @@ gs-loc.apple.com
 stackoverflow.com	
 coin360.com	
 secure.barion.com	
-(\.|^)secure\.barion\.com$	
+(\.|^)secure\.barion\.com$
