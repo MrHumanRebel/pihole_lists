@@ -1,0 +1,17 @@
+	(\.|^)internetbank\.dtbank\.hu$	
+
+(\.|^)onlineszamla\.nav\.gov\.hu$	
+
+(\.|^)ingatlanbazar\.hu$	
+
+(\.|^)repo\.jellyfin\.org$	
+
+(\.|^)kau\.gov\.hu$	
+
+(\.|^)ebev\.nav\.gov\.hu$	
+
+(\.|^)idp\.gov\.hu$	
+
+(\.|^)secure\.barion\.com$	
+
+^(.*\.)*(dpd|ups|dhl|safelinking|githubusercontent|researchintel|intel|github|foldingathome|sysctl|apple-dns|apple|icloud|windowsupdate|samsung(electronics|otn|acr|cloudsolution|qbe)|plex|office|msftncsi|microsoftonline|dropbox|pr0gramm|solvemedia|microsoft|tnt-digital|fedex|creative)\.([a-z]{2,3}\.)*[a-z]{2,6}$
