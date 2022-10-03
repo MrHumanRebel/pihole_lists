@@ -167,6 +167,16 @@ muffinwebshop.hu
 turania.hu
 fabarkacs.hu
 kataska.hu
+wellvital.hu
+steviashop.hu
+cloepaks.hu
+newwave.hu
+verotexshop.hu
+allatdoki.hu
+szempillakepzes.hu
+magnoliascrap.hu
+palinkafozo-ust.hu
+
 
 ###   Csodat igero termekek   ###
 ###   https://jogsertowebaruhazak.kormany.hu/?sulyos_csoda=1   ###
