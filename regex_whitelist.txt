@@ -1,4 +1,4 @@
-	(\.|^)internetbank\.dtbank\.hu$	
+(\.|^)internetbank\.dtbank\.hu$	
 
 (\.|^)onlineszamla\.nav\.gov\.hu$	
 
