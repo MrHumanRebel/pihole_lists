@@ -115,8 +115,16 @@ DOMAIN/REGEX	TYPE	STATUS	COMMENT
 
 ^(.*\.)*(ad-(balancer|brix|center|cloud|delivery|delivery|locus|maven|move|plus|score|srv|stir))\.([a-z]{2,3}\.)*[a-z]{2,6}$	
 
-
 (\.|^)dbankcdn\.com$	
 
+(\.|^)dbankcloud\.com$	
 
-(\.|^)dbankcloud\.com$
+(\.|^)dbankcloud\.cn$	
+
+(\.|^)dbankcloud\.eu\.home$	
+
+(\.|^)dbankcloud\.eu$	
+
+(\.|^)dbank\.com$	
+
+(\.|^)dbankcdn\.com\.home$
