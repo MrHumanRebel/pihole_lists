@@ -1,4 +1,4 @@
-### https://mediabiasfactcheck.com/fake-news ###
+### https://mediabiasfactcheck.com/fake-news/ ###
 
 4chan.org
 12minutos.com
@@ -7,6 +7,7 @@
 2020conservative.com
 aapsonline.org
 acpeds.org
+acting-man.com
 activistmommy.com
 adamscountytimes.com
 adareporter.com
@@ -46,7 +47,7 @@ annarbortimes.com
 annearundeltoday.com
 antelopevalleytoday.com
 arabnews.com
-archaeology
+archaeology-world.com
 arizonaindependent.com
 aroostooknews.com
 athensreporter.com
@@ -128,7 +129,7 @@ cair.com
 caixinglobal.com
 caldronpool.com
 canadafreepress.com
-cap
+cap-news.com
 capecodledger.com
 carbondalereporter.com
 cdareporter.com
@@ -180,7 +181,7 @@ conservativerevival.com
 conservativeundergroundnews.com
 constative.com
 constitutionstatenews.com
-corona
+corona-transition.org
 councilforthenationalinterest.org
 cowgernation.com
 culturewatchnews.com
@@ -257,7 +258,7 @@ elizabethtowntimes.com
 elkharttimes.com
 emeraldcoasttimes.com
 emirates247.com
-en
+en-volve.com
 en.bbarta24.net
 en.granma.cu
 en.hawarnews.com
@@ -272,7 +273,7 @@ eng.majalla.com
 english.alarabiya.net
 english.almanar.com.lb
 english.cctv.com
-europe
+europe-israel.org
 everytown.org
 evil.news
 facebook.com
@@ -301,7 +302,7 @@ fr24news.com
 fr.sputniknews.com
 frankspeech.com
 frc.org
-free
+free-speechfront.info
 freedomfirstnetwork.com
 freedomnewsreport.com
 freedomproject media
@@ -363,7 +364,7 @@ hoggwatch.com
 hollandreporter.com
 home.nra.org
 honolulureporter.com
-hoodsite
+hoodsite-usa crime
 hoosierstatetoday.com
 hopkinsvilletimes.com
 hotspringstimes.com
@@ -402,7 +403,7 @@ jocotoday.com
 joerogan.com
 jonesborotimes.com
 jordanbpeterson.com
-journal
+journal-neo.org
 judicialwatch.org
 justthefacts.org
 justthenews.com
@@ -662,7 +663,7 @@ pjmedia.com
 plymouthreporter.com
 pmnightlynews.com
 pocatellotimes.com
-political
+political-discussion.com
 politicalanimalnews.com
 politicalflare.com
 politicalstate.org
@@ -732,7 +733,7 @@ rudaw.net
 rumble.com
 ruptly.tv
 rushlimbaugh.com
-russia
+russia-insider.com
 ruthinstitute.org
 sacramentostandard.com
 salemnewswire.com
@@ -821,7 +822,7 @@ southsfbaynews.com
 southsfvtoday.com
 southsgvnews.com
 southwichitanews.com
-speech
+speech-point.com
 springfieldcitywire.com
 springstimes.com
 sputniknews.com
@@ -834,7 +835,7 @@ steadfastdaily.com
 stonecoldtruth.com
 stoppingsocialism.com
 stpetestandard.com
-strategic
+strategic-culture.org
 summit news
 sumtertimes.com
 sunflowerstatenews.com
@@ -859,7 +860,7 @@ swlouisiananews.com
 swriversidenews.com
 swvalleytimes.com
 syria news
-syriana
+syriana-analysis.com
 takimag.com
 tallahasseesun.com
 tamparepublic.com
@@ -967,7 +968,7 @@ uschronicle.com
 uslibertywire.club
 uslibertywire.com
 usnationalnews.org
-usright
+usright-left.com
 ussanews.com
 vancouvertimes.org
 vdare.com
