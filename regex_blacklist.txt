@@ -89,3 +89,11 @@
 (\.|^)dbank\.com$	
 
 (\.|^)dbankcdn\.com\.home$
+
+(\.|^)v\.ht$	
+
+(\.|^)akty\.xn$	
+
+(\.|^)akty\.xn--qei$	
+
+(\.|^)6c\.gs$
