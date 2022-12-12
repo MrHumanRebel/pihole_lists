@@ -14,5 +14,7 @@
 (\.|^)epicgames\.com$
 (\.|^)rockstargames\.com$
 (\.|^)xbox\.com$
-(\.|^)xbox\.com$
 (\.|^)playstation\.net$
+(\.|^)ubisoft\.com$
+(\.|^)origin\.com$
+(\.|^)ea\.com$
