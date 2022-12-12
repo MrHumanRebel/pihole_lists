@@ -15,5 +15,4 @@
 (\.|^)rockstargames\.com$
 (\.|^)xbox\.com$
 (\.|^)xbox\.com$
-(\.|^)account.microsoft\.com$
 (\.|^)playstation\.net$
