@@ -1,15 +1,16 @@
 ### https://mediabiasfactcheck.com/fake-news/ ###
+# .+(\()
 
 secondamendmentdaily.com
-4chan.org
+4Chan.org
 100percentfedup.com
 12minutos.com
-24jours.com
+24Jours.com
 us24news.com/
 2020conservative.com
 avoiceformen.com
-acting-man.com
-action news 3
+Acting-man.com
+Action News 3
 activistmommy.com
 adareporter.com
 adamscountytimes.com
@@ -22,7 +23,7 @@ english.almanar.com.lb
 almasdarnews.com
 alohastatenews.com
 alphanewsmn.com
-alt-right tv
+Alt-Right TV
 youm7.com
 americamaxnews.com
 americaoutloud.com
@@ -54,6 +55,7 @@ andersonreporter.com
 annarbortimes.com
 annearundeltoday.com
 anokatimes.com
+anonymouswire.com
 antelopevalleytoday.com
 arabnews.com
 archaeology-world.com
@@ -73,7 +75,7 @@ battlecreektimes.com
 baystatenews.com
 bb4sp.com
 en.bbarta24.net
-bdnews24.com
+BDnews24.com
 beachbroadcastnews.com
 beantowntimes.com
 beckernews.com
@@ -88,51 +90,51 @@ bipartisanreport.com
 bitchute.com
 https://blackeyepolitics.com
 blackgenocide.org
-blacknews.com
+Blacknews.com
 blackpigeonspeaks.com
 bloomingtonleader.com
 bluegrasstimes.com
 bluestatebluesnews.com
 bluntforcetruth.com
 boisecitywire.com
-bongino.com
+Bongino.com
 bostonbroadside.com
 bowlinggreentoday.com
 bossip.com
 breaking911.com
 breakingchristiannews.com
 breakingfirst.com
-breakingnews247.net
+Breakingnews247.net
 breitbart.com
 brevardsun.com
 bridgeporttimes.com
 bristolreporter.com
-britain first
+Britain First
 buckscountystandard.com
-c19aspirin.com
-c19bromhexine.com
-c19budesonide.com
-c19colchicine.com
-c19curcumin.com
-c19ly.com – bamlanivimab
-c19favipiravir.com
-c19fluvoxamine.com
-c19hcq.com
-c19ic.com
-c19ivermectin.com
-c19melatonin.com
-c19mp.com – molnupiravir
-c19nitazoxanide.com
-c19ns.com – nigella sativa
-c19proxalutamide.com
-c19pvpi.com
-c19quercetin.com
-c19regn.com
-c19rmd.com – remdesivir
-c19sv.com – sotrovimab
-c19vitaminc.com
-c19vitamind.com
-c19zinc.com
+C19aspirin.com
+C19bromhexine.com
+C19budesonide.com
+C19colchicine.com
+C19curcumin.com
+c19ly.com – Bamlanivimab
+C19favipiravir.com
+C19fluvoxamine.com
+C19hcq.com
+C19ic.com
+C19ivermectin.com
+C19melatonin.com
+C19mp.com – Molnupiravir
+C19nitazoxanide.com
+C19ns.com – Nigella Sativa
+C19proxalutamide.com
+C19pvpi.com
+C19quercetin.com
+C19regn.com
+C19rmd.com – Remdesivir
+C19sv.com – Sotrovimab
+C19VitaminC.com
+C19VitaminD.com
+C19Zinc.com
 caixinglobal.com
 caldronpool.com
 canadafreepress.com
@@ -168,7 +170,7 @@ chicotimes.com
 chinadaily.com.cn
 america.cgtn.com/
 christianaction.org
-christians for truth
+Christians for Truth
 churchmilitant.com
 citizensjournal.us
 clarionproject.org
@@ -200,17 +202,18 @@ conservativerevival.com
 westernjournal.com
 
 conservativeundergroundnews.com
-constative.com
+Constative.com
 constitutionstatenews.com
 corona-transition.org
 cair.com
 councilforthenationalinterest.org
-council of conservative citizens
+Council of Conservative Citizens
 c19early.com
 cowgernation.com
 culturewatchnews.com
 dagospia.com
 dailybuzzlive.com
+dailycitizen.focusonthefamily.com
 dailyheadlines.net
 dailymail.co.uk
 dailypoliticalnewswire.com
@@ -218,7 +221,7 @@ dailystar.co.uk
 dailystormer.name
 dailysurge.com
 dakotatimes.com
-davidharrisjr.com
+DavidHarrisJr.com
 dcdirtylaundry.com
 debka.com
 decaturtimes.com
@@ -236,7 +239,7 @@ deplorablekel.com
 desmoinessun.com
 desantisdaily.com
 detroitcitywire.com
-diamondandsilkinc.com
+DiamondandSilkinc.com
 disclose.tv
 discoverthenetworks.org
 djhjmedia.com
@@ -276,6 +279,7 @@ echocheck.org
 ecgeorgianews.com
 ecindiananews.com
 eckansasnews.com
+ecmissnews.com
 elizabethtowntimes.com
 elkharttimes.com
 emeraldcoasttimes.com
@@ -283,8 +287,9 @@ emirates247.com
 en-volve.com
 endthefed.org
 europe-israel.org
+everetttimes.com 
 everytown.org/
-evil.news
+Evil.News
 factcheckingturkey.com
 frc.org
 familysurvivalheadlines.com
@@ -295,10 +300,10 @@ fayettevillestandard.com
 federalistpress.com
 femalista.com
 filmingcops.com
-fireboebert.com
+FireBoebert.com
 firstinfreedomdaily.com
 firststatetimes.com
-fl24.net
+FL24.net
 flagandcross.com
 usafortrumponline.com
 floridaparishnews.com
@@ -311,13 +316,14 @@ fr24news.com
 frankspeech.com
 freedomfirstnetwork.com
 freedomnewsreport.com
-freedomproject media
+FreedomProject Media
 free-speechfront.info
 freewestmedia.com
 fresnoleader.com
 friatider.se
 frontpagemag.com
 ftwaynetimes.com
+news.gab.com
 gadsdentoday.com
 galesburgreporter.com
 gatestoneinstitute.org
@@ -329,7 +335,7 @@ genzconservative.com
 geologyin.com
 georgiamountainnews.com
 gettr.com
-ghost.report
+Ghost.Report
 girlsjustwannahaveguns.com
 globemagazine.com
 gnews.org
@@ -344,18 +350,17 @@ grandjunctiontimes.com
 grandrapidsreporter.com
 en.granma.cu
 greatamericandaily.com
-https://greatamericanrepublic.com
 greatlakeswire.com
 greatreject.org
-gript.ie
+Gript.ie
 grundyreporter.com
-grunge.com
-gucmakale.com
+Grunge.com
+gtrtimes.com
+Gucmakale.com
 gulfnews.com
 hagmannreport.com
 halturnerradioshow.com
-hangthebankers.com
-hannity.com
+Hannity.com
 harfordnews.com
 hartfordreporter.com
 en.hawarnews.com
@@ -369,7 +374,7 @@ hindustantimes.com
 hoggwatch.com
 honolulureporter.com
 hollandreporter.com
-hoodsite-usa crime
+Hoodsite-USA Crime
 hoosierstatetoday.com
 hopkinsvilletimes.com
 hotspringstimes.com
@@ -380,7 +385,6 @@ huntsvilleleader.com
 hutchtoday.com
 iharare.com
 ihatethemedia.com
-ilovemyfreedom.org
 ihypocrite.net
 illegalaliencrimereport.com
 illicitinfo.com
@@ -406,14 +410,14 @@ jeffersonreporter.com
 jocotoday.com
 jbs.org
 jonesborotimes.com
-jordanbpeterson.com
+JordanBPeterson.com
 judicialwatch.org
 justthefacts.org
 justthenews.com
 kalamazootimes.com
 kanecountyreporter.com
 kankakeetimes.com
-katehon.com
+Katehon.com
 kauaisun.com
 kendallcountytimes.com
 kentcountytoday.com
@@ -422,11 +426,11 @@ kerncountytimes.com
 keywestreporter.com
 kingscountytimes.com
 knightstemplarinternational.com
-kokomostandard.com
-korean central news agency
-ladbible
+Kokomostandard.com
+Korean Central News Agency
+LADbible
 lafayettereporter.com
-lafayettetimes.com
+Lafayettetimes.com
 
 laharbornews.com
 lakecountygazette.com
@@ -444,7 +448,7 @@ lewrockwell.com
 libertybell.com
 libertyhangout.org
 libertytalk.fm
-liberty unyeilding
+Liberty Unyeilding
 libertywire.net
 lifenews.com
 lifesitenews.com
@@ -464,6 +468,7 @@ macontimes.com
 madworldnews.com
 magadailyreport.com
 magicvalleytimes.com
+magnoliastatenews.com
 mainedailynews.com
 mainehighlandsnews.com
 mainelakesnews.com
@@ -503,6 +508,9 @@ militarywatchmagazine.com
 minneapolisreview.com
 mnbusinessdaily.com
 minnesotastatewire.com
+mintpressnews.com
+msbusinessdaily.com
+msgulfnews.com
 mixi.media
 mobilecourant.com
 mohavetoday.com
@@ -511,11 +519,12 @@ monroereview.com
 montereytimes.com
 montgomerymdnews.com
 moonbattery.com
+moonofalabama.org
 morningpoll.com
 front.moveon.org
 mtonews.com
 munciereporter.com
-muskegonsun.com
+Muskegonsun.com
 nwiowanews.com
 myrightamerica.com
 naplesstandard.com
@@ -523,7 +532,7 @@ naturecoasttimes.com
 natall.com
 nationalenquirer.com
 nationalinsiders.com
-national policy institute
+National Policy Institute
 home.nra.org
 nrlc.org
 nationalvanguard.org
@@ -538,6 +547,7 @@ ncindiananews.com
 nckentuckynews.com
 ncmassnews.com
 ncminnesotanews.com
+ncmissnews.com
 nealabamanews.com
 neatlantanews.com
 necalinews.com
@@ -549,6 +559,7 @@ neiowanews.com
 nekansasnews.com
 nekentuckynews.com
 nelouisiananews.com
+nemissnews.com
 nesacramentonews.com
 nevalleytimes.com
 journal-neo.org
@@ -571,7 +582,7 @@ newsmax.com
 en.newsner.com
 newsview.gr
 newswars.com
-next news network
+Next News Network
 nolareporter.com
 noqreport.com
 nordicmonitor.com
@@ -587,6 +598,7 @@ ncarkansasnews.com
 northcoastcanews.com
 northcooknews.com
 northdsmnews.com
+northernwitimes.com
 northegyptnews.com
 northfultontoday.com
 northgwinnettnews.com
@@ -615,12 +627,13 @@ northsfvtoday.com
 northsgvnews.com
 northshorelanews.com
 nwwaynenews.com
+nwlaketimes.com
 northwichitanews.com
 notallowedto.com
 novitimes.com
 now8news.com
 nowthisnews.com
-npr.news
+NPR.News
 
 nationalrighttolifenews.org
 ntd.tv
@@ -635,6 +648,7 @@ nwkentuckynews.com
 nwlatimes.com
 nwlouisiananews.com
 nwminnesotanews.com
+nwmissnews.com
 nwriversidenews.com
 nwvalleytimes.com
 mydailyfreedom.com
@@ -648,6 +662,7 @@ origo.hu
 orlandostandard.com
 outragedpatriot.com
 overpassesforamerica.com
+oxfordreporter.com
 pacificpundit.com
 palmcoasttimes.com
 panamacityreporter.com
@@ -660,6 +675,7 @@ patriotnewsfeed.com
 patriotpulse.net
 patriotuproar.com
 patrioticviralnews.com
+peachtreegazette.com
 peachtreetimes.com
 pelicanstatenews.com
 pennsylvaniaindependent.com
@@ -667,9 +683,10 @@ pensacolatimes.com
 peoriastandard.com
 perezhilton.com
 personalinterpretation.com
-personal liberty
+Personal Liberty
 phxreporter.com
 pinaltoday.com
+pinebelttimes.com
 pinellastimes.com
 pinestatenews.com
 pjmedia.com
@@ -686,7 +703,7 @@ polktimes.com
 pomonavalleynews.com
 pontiacttimes.com
 pop.org
-populist.press
+Populist.Press
 portlandmainenews.com
 powderedwigsociety.com
 prageru.com
@@ -708,6 +725,7 @@ rairfoundation.com
 rationalground.com
 realconservativesunite.com
 goodsciencing.com
+redacted.inc
 reddingtoday.com
 redice.tv
 redorbit.com
@@ -724,13 +742,13 @@ renewedright.com
 republicandaily.net
 gop.com
 resistthemainsteam.org
-revolver.news
+Revolver.News
 ria.ru
 righterway.com
 rightnewswire.com
 rsbnetwork.com
 rightwingnews.com
-right wing tribune
+Right Wing Tribune
 ripostelaique.com
 riverbendtimes.com
 riverparishnews.com
@@ -738,7 +756,7 @@ riverregiontimes.com
 rivervalleytoday.com
 rockfordsun.com
 rockislandtoday.com
-north korea
+North Korea
 roguereview.net
 romereporter.com
 de.rt.com
@@ -746,7 +764,7 @@ rt.com
 rudaw.net
 rumble.com
 ruptly.tv
-rushlimbaugh.com
+RushLimbaugh.com
 russia-insider.com
 tass.com
 ruthinstitute.org
@@ -768,6 +786,7 @@ seatlantanews.com
 scconnnews.com
 sckansasnews.com
 scminnesotanews.com
+SCmissnews.com
 sealaskanews.com
 searizonanews.com
 secureamericanow.org
@@ -785,6 +804,7 @@ sekentuckynews.com
 selatimes.com
 seminnesotanews.com
 seoaklandnews.com
+setwincities.com
 sfvtoday.com
 sgvstandard.com
 shafaaq.com
@@ -797,7 +817,7 @@ sickchirpse.com
 siouxcitytimes.com
 skepticink.com
 sloreporter.com
-sohu.com
+Sohu.com
 solanosun.com
 southafricatoday.net
 southalamedanews.com
@@ -814,6 +834,7 @@ southernindianatoday.com
 southdsmnews.com
 southgeorgiatimes.com
 southgwinnettnews.com
+southhennepinnews.com
 southindynews.com
 southiowanews.com
 
@@ -844,11 +865,13 @@ stpetestandard.com
 stanislausnews.com
 staresattheworld.com
 stateofthenation.co
+stcloudsun.com
 steadfastandloyal.com
 steadfastclash.com
 steadfastdaily.com
 stonecoldtruth.com
 stoppingsocialism.com
+stpaulreporter.com
 southbirminghamtimes.com
 southfultontoday.com
 southoctimes.com
@@ -859,7 +882,7 @@ stclairtoday.com
 strategic-culture.org
 trumpstudents.org
 sturgiscoldwaternews.com
-summit news
+Summit News
 sumtertimes.com
 sunflowerstatenews.com
 sunshinesentinel.com
@@ -879,9 +902,11 @@ swindiananews.com
 swiowatimes.com
 swkansasnews.com
 swlouisiananews.com
+swminnesotatoday.com
+swmissnews.com
 swriversidenews.com
 swvalleytimes.com
-syria news
+Syria News
 syriana-analysis.com
 takimag.com
 tallahasseesun.com
@@ -893,7 +918,7 @@ teapartypatriots.org
 techstartups.com
 teddystick.com
 telesurtv.net
-the african exponent
+The African Exponent
 theamericanmirror.com
 angrypatriotmovement.com
 thebeardedpatriot.com
@@ -902,8 +927,8 @@ thebl.com
 theblacksphere.net
 theblaze.com
 thebluestateconservative.com
-the boston tribune
-the buffalo chronicle
+The Boston Tribune
+The Buffalo Chronicle
 thecoloradoherald.com
 theconservativebrief.com
 theconservativecentral.com
@@ -911,7 +936,7 @@ conservativepapers.com
 thecovidworld.com
 thecountersignal.com
 thedailybell.com
-dailyboulder.com
+DailyBoulder.com
 dcclothesline.com
 thedcpatriot.com
 thedesertreview.com
@@ -928,7 +953,7 @@ thefrisky.com
 thegatewaypundit.com
 thegrayzone.com
 thehornnews.com
-thejeffreylord.com
+Thejeffreylord.com
 thejewishvoice.com
 joerogan.com
 theconservativetreehouse.com
@@ -947,23 +972,23 @@ thenational.ae
 ohioindependent.com
 other98.com
 thepatriotnation.net
-the politics online
+The Politics Online
 thepostemail.com
 theproudliberal.org
 theragingpatriot.org
 rebelnews.com
-the red elephants
+The Red Elephants
 thereligionofpeace.com
 remnantnewspaper.com
 rfangle.com
 theregionnews.com
 therightscoop.com
 therightstuff.biz
-the science news reporter
+The Science News Reporter
 sciencetimes.com
 thescoop.us
-the sons of liberty media
-thespectator.info
+The Sons of Liberty Media
+TheSpectator.info
 tehrantimes.com
 digifection.com
 thetruedefender.com
@@ -972,13 +997,13 @@ thetruthvoice.net
 theunionjournal.com
 unz.com
 warrensun.com
+The Washington Standard
 wisconsinindependent.com
 thinkamericana.com
 thumbreporter.com
-toddstarnes.com
+ToddStarnes.com
 toofab.com
 topekasun.com
-toptopic.club
 townhall.com
 tplnews.com
 treasurecoastsun.com
@@ -996,7 +1021,7 @@ tucsonstandard.com
 tularetimes.com
 tpusa.com
 tuscaloosaleader.com
-uncoverdc.com
+UncoverDC.com
 understandingthethreat.com
 uniteamericafirst.com
 unitynewsnetwork.co.uk
@@ -1019,15 +1044,18 @@ visiontimes.com
 wallbuilders.com
 waronfakes.com
 warnerrobinstoday.com
+warroom.org
 washingtonsources.org
 washingtontimes.com
 waterfordtoday.com
 waterlootimes.com
-waynedupree.com
+WayneDupree.com
 wcgeorgianews.com
 wcindiananews.com
 wciowanews.com
-weibo.com
+wcminnesotanews.com
+wcmissnews.com
+Weibo.com
 welovetrump.com
 westatlantanews.com
 wethepeopledaily.com
@@ -1051,9 +1079,11 @@ westpennyroyalnews.com
 westsbvtimes.com
 westsfvtoday.com
 westsgvnews.com
+westtwincities.com
 westventuranews.com
 westvolusianews.com
 whatfinger.com
+Fake Fox News
 whatstheharm.net
 wichitastandard.com
 willcountygazette.com
@@ -1063,19 +1093,19 @@ wisconsinlaketimes.com
 thepublicdiscourse.com
 wndnewscenter.org
 womenarehuman.com
-facebook.com/womensrightsnews/
-worldgreynews.com
+facebook.com/WOMENSRIGHTSNEWS/
+WorldGreyNews.com
 wnd.com
 worldstarhiphop.com
 worldtribune.com
 wyandottetimes.com
-news.cn
+News.cn
 xinhuanet.com
 yavapainews.com
 yellowhammertimes.com
 yaliberty.org
 analyzingamerica.org/youngconservatives
 yc.news
-yournews.com
+YourNews.com
 yubasuttertimes.com
 z3news.com
