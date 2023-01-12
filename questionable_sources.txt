@@ -6,7 +6,7 @@ secondamendmentdaily.com
 100percentfedup.com
 12minutos.com
 24jours.com
-us24news.com/
+us24news.com
 2020conservative.com
 avoiceformen.com
 acting-man.com
@@ -46,7 +46,7 @@ tfp.org
 americanthinker.com
 awm.com
 americansarepissed.com
-https://americansfortruth.com
+https:americansfortruth.com
 americasnewssource.com
 amestoday.com
 amoskeagtimes.com
@@ -85,10 +85,10 @@ bjreview.com
 bentontimes.com
 bigislandtimes.com
 bigleaguepolitics.com
-http://billionbibles.org
+http:billionbibles.org
 bipartisanreport.com
 bitchute.com
-https://blackeyepolitics.com
+https:blackeyepolitics.com
 blackgenocide.org
 blacknews.com
 blackpigeonspeaks.com
@@ -101,6 +101,7 @@ bongino.com
 bostonbroadside.com
 bowlinggreentoday.com
 bossip.com
+bransontimes.com
 breaking911.com
 breakingchristiannews.com
 breakingfirst.com
@@ -141,6 +142,8 @@ canadafreepress.com
 cap-news.com
 capecodledger.com
 micapitolnews.com
+capemonews.com
+capstonereport.com
 carbondalereporter.com
 azcatholictribune.com
 flcatholictribune.com
@@ -161,14 +164,16 @@ centralgeorgianews.com
 centralidahotimes.com
 centraliowatimes.com
 centrallousiananews.com
+centralmissourinews.com
 centraloctimes.com
 centralpatimes.com
+centralstlnews.com
 cernovich.com
 chambabasun.com
 chicagocitywire.com
 chicotimes.com
 chinadaily.com.cn
-america.cgtn.com/
+america.cgtn.com
 christianaction.org
 christians for truth
 churchmilitant.com
@@ -176,19 +181,21 @@ citizensjournal.us
 clarionproject.org
 clashdaily.com
 claycotimes.com
-https://cloverchronicle.com
+clayreporter.com
+https:cloverchronicle.com
 cnsnews.com
 coachellatoday.com
 coastalganews.com
 cobbnewsga.com
 cobbreporter.com
 coconinonews.com
+columbianews.com
 colonews.org
 columbusstandard.com
 cei.org
 concernedwomen.org
 conservapedia.com
-conservativeammo.com/
+conservativeammo.com
 conservativebeaver.com
 conservativedailynews.com
 conservativedailypost.com
@@ -196,7 +203,7 @@ conservativefiringline.com
 conservativefreepress.com
 conservativematrix.com
 conservativeplaylist.com
-facebook.com/conservativepoliticstoday
+facebook.comconservativepoliticstoday
 conservativepost.com
 conservativerevival.com
 westernjournal.com
@@ -210,6 +217,7 @@ councilforthenationalinterest.org
 council of conservative citizens
 c19early.com
 cowgernation.com
+creativedestructionmedia.com
 culturewatchnews.com
 dagospia.com
 dailybuzzlive.com
@@ -288,7 +296,7 @@ en-volve.com
 endthefed.org
 europe-israel.org
 everetttimes.com 
-everytown.org/
+everytown.org
 evil.news
 factcheckingturkey.com
 frc.org
@@ -305,6 +313,7 @@ firstinfreedomdaily.com
 firststatetimes.com
 fl24.net
 flagandcross.com
+thecareerbg.com
 usafortrumponline.com
 floridaparishnews.com
 focusonthefamily.com
@@ -347,6 +356,7 @@ gop.gov
 gopusa.com
 grandcanyontimes.com
 grandjunctiontimes.com
+grandrapidsminews.com
 grandrapidsreporter.com
 en.granma.cu
 greatamericandaily.com
@@ -367,6 +377,7 @@ en.hawarnews.com
 hawkeyereporter.com
 headlineusa.com
 headtopics.com
+hendersontimes.org
 hereistheevidence.com
 hernandoreporter.com
 heartland.org
@@ -389,7 +400,6 @@ ihypocrite.net
 illegalaliencrimereport.com
 illicitinfo.com
 illinoisvalleytimes.com
-imowired.com
 imperialcanews.com
 infogalactic.com
 independentminute.com
@@ -406,6 +416,7 @@ iowacitytoday.com
 ipatriot.com
 ivmmeta.com
 jacksonpurchasenews.com
+jeffcitynews.com
 jeffersonreporter.com
 jocotoday.com
 jbs.org
@@ -439,7 +450,7 @@ lancastercourier.com
 lansingsun.com
 larimernews.com
 lastfrontiernews.com
-11/27/2021
+11272021
 laxleader.com
 leftaction.com
 leftexposed.org
@@ -461,7 +472,7 @@ londonwebnews.com
 louderwithcrowder.com
 louisvillecitywire.com
 lowedeltanews.com
-https://lucianne.com
+https:lucianne.com
 macombtoday.com
 maconreporter.com
 macontimes.com
@@ -498,16 +509,18 @@ miamistandard.news
 micdroppolitics.com
 mibusinessdaily.com
 micatholictribune.com
+themichiganstar.com
 midcoasttoday.com
-https://middleamericandemocrat.com
+https:middleamericandemocrat.com
 meforum.org
-mena.org.eg/en
+mena.org.egen
 memri.org
 midmassnews.com
 militarywatchmagazine.com
 minneapolisreview.com
 mnbusinessdaily.com
 minnesotastatewire.com
+theminnesotasun.com
 mintpressnews.com
 msbusinessdaily.com
 msgulfnews.com
@@ -697,7 +710,7 @@ politicalanimalnews.com
 political-discussion.com
 politicalflare.com
 thepoliticalinsider.com
-https://politicalstate.org/
+https:politicalstate.org
 politifact.news
 polktimes.com
 pomonavalleynews.com
@@ -716,7 +729,7 @@ presstv.com
 prntly.com
 projectveritas.com
 en.protothema.gr
-protrumpnews.com/
+protrumpnews.com
 pulaskitimes.com
 puppetstringnews.com
 quillette.com
@@ -735,7 +748,7 @@ redstatenation.com
 redstatewatcher.com
 redvoicemedia.com
 redwoodempirenews.com
-https://reedcooper.net
+https:reedcooper.net
 reformedmedia.net
 renewamerica.com
 renewedright.com
@@ -887,7 +900,7 @@ sumtertimes.com
 sunflowerstatenews.com
 sunshinesentinel.com
 supportisraelnow.com
-https://survivalblog.com/
+https:survivalblog.com
 sussexreview.com
 swampdrain.com
 swarajyamag.com
@@ -922,7 +935,7 @@ the african exponent
 theamericanmirror.com
 angrypatriotmovement.com
 thebeardedpatriot.com
-thebeltwayreport.com/
+thebeltwayreport.com
 thebl.com
 theblacksphere.net
 theblaze.com
@@ -970,6 +983,7 @@ thenationalpatriot.com
 thenationalpulse.com
 thenational.ae
 ohioindependent.com
+theohiostar.com
 other98.com
 thepatriotnation.net
 the politics online
@@ -989,6 +1003,7 @@ sciencetimes.com
 thescoop.us
 the sons of liberty media
 thespectator.info
+tennesseestar.com
 tehrantimes.com
 digifection.com
 thetruedefender.com
@@ -999,7 +1014,6 @@ unz.com
 warrensun.com
 the washington standard
 wisconsinindependent.com
-thinkamericana.com
 thumbreporter.com
 toddstarnes.com
 toofab.com
@@ -1008,6 +1022,8 @@ townhall.com
 tplnews.com
 treasurecoastsun.com
 treasurevalleytimes.com
+trendingpolitics.com
+trendingpoliticsnews.com
 tricitysun.com
 truthexam.com
 trueviralnews.com
@@ -1093,9 +1109,10 @@ wisconsinlaketimes.com
 thepublicdiscourse.com
 wndnewscenter.org
 womenarehuman.com
-facebook.com/womensrightsnews/
+facebook.comwomensrightsnews
 worldgreynews.com
 wnd.com
+wn.com
 worldstarhiphop.com
 worldtribune.com
 wyandottetimes.com
@@ -1104,7 +1121,7 @@ xinhuanet.com
 yavapainews.com
 yellowhammertimes.com
 yaliberty.org
-analyzingamerica.org/youngconservatives
+analyzingamerica.orgyoungconservatives
 yc.news
 yournews.com
 yubasuttertimes.com
