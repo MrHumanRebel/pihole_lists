@@ -46,7 +46,7 @@ tfp.org
 americanthinker.com
 awm.com
 americansarepissed.com
-https:americansfortruth.com
+americansfortruth.com
 americasnewssource.com
 amestoday.com
 amoskeagtimes.com
@@ -85,10 +85,10 @@ bjreview.com
 bentontimes.com
 bigislandtimes.com
 bigleaguepolitics.com
-http:billionbibles.org
+billionbibles.org
 bipartisanreport.com
 bitchute.com
-https:blackeyepolitics.com
+blackeyepolitics.com
 blackgenocide.org
 blacknews.com
 blackpigeonspeaks.com
@@ -182,7 +182,7 @@ clarionproject.org
 clashdaily.com
 claycotimes.com
 clayreporter.com
-https:cloverchronicle.com
+cloverchronicle.com
 cnsnews.com
 coachellatoday.com
 coastalganews.com
@@ -472,7 +472,7 @@ londonwebnews.com
 louderwithcrowder.com
 louisvillecitywire.com
 lowedeltanews.com
-https:lucianne.com
+lucianne.com
 macombtoday.com
 maconreporter.com
 macontimes.com
@@ -511,7 +511,7 @@ mibusinessdaily.com
 micatholictribune.com
 themichiganstar.com
 midcoasttoday.com
-https:middleamericandemocrat.com
+middleamericandemocrat.com
 meforum.org
 mena.org.egen
 memri.org
@@ -710,7 +710,7 @@ politicalanimalnews.com
 political-discussion.com
 politicalflare.com
 thepoliticalinsider.com
-https:politicalstate.org
+politicalstate.org
 politifact.news
 polktimes.com
 pomonavalleynews.com
@@ -748,7 +748,7 @@ redstatenation.com
 redstatewatcher.com
 redvoicemedia.com
 redwoodempirenews.com
-https:reedcooper.net
+reedcooper.net
 reformedmedia.net
 renewamerica.com
 renewedright.com
@@ -900,7 +900,7 @@ sumtertimes.com
 sunflowerstatenews.com
 sunshinesentinel.com
 supportisraelnow.com
-https:survivalblog.com
+survivalblog.com
 sussexreview.com
 swampdrain.com
 swarajyamag.com
