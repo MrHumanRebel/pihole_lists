@@ -1,7 +1,7 @@
 ### https://mediabiasfactcheck.com/fake-news/ ###
 # .+(\()
 
-secondamendmentdaily.com
+2secondamendmentdaily.com
 4chan.org
 100percentfedup.com
 12minutos.com
@@ -297,6 +297,7 @@ endthefed.org
 europe-israel.org
 everetttimes.com 
 everytown.org
+eviemagazine.com
 evil.news
 factcheckingturkey.com
 frc.org
@@ -343,6 +344,7 @@ geneseenews.com
 genzconservative.com
 geologyin.com
 georgiamountainnews.com
+georgiastarnews.com
 gettr.com
 ghost.report
 girlsjustwannahaveguns.com
@@ -417,6 +419,7 @@ ipatriot.com
 ivmmeta.com
 jacksonpurchasenews.com
 jeffcitynews.com
+jeffcotimes.com
 jeffersonreporter.com
 jocotoday.com
 jbs.org
@@ -430,6 +433,7 @@ kanecountyreporter.com
 kankakeetimes.com
 katehon.com
 kauaisun.com
+kcreporter.com
 kendallcountytimes.com
 kentcountytoday.com
 kentuckianatimes.com
@@ -439,6 +443,7 @@ kingscountytimes.com
 knightstemplarinternational.com
 kokomostandard.com
 korean central news agency
+lacrosseleader.org
 ladbible
 lafayettereporter.com
 lafayettetimes.com
@@ -454,6 +459,7 @@ lastfrontiernews.com
 laxleader.com
 leftaction.com
 leftexposed.org
+lehighnews.org
 lewistontimes.com
 lewrockwell.com
 libertybell.com
@@ -473,6 +479,7 @@ louderwithcrowder.com
 louisvillecitywire.com
 lowedeltanews.com
 lucianne.com
+macombjournal.com
 macombtoday.com
 maconreporter.com
 macontimes.com
@@ -524,6 +531,7 @@ theminnesotasun.com
 mintpressnews.com
 msbusinessdaily.com
 msgulfnews.com
+mobusinessdaily.com
 mixi.media
 mobilecourant.com
 mohavetoday.com
@@ -569,10 +577,12 @@ neconnnews.com
 nefloridanews.com
 neindiananews.com
 neiowanews.com
+nekansascitynews.com
 nekansasnews.com
 nekentuckynews.com
 nelouisiananews.com
 nemissnews.com
+nemissourinews.com
 nesacramentonews.com
 nevalleytimes.com
 journal-neo.org
@@ -639,6 +649,7 @@ northnewcastlenews.com
 northsfvtoday.com
 northsgvnews.com
 northshorelanews.com
+northstlnews.com
 nwwaynenews.com
 nwlaketimes.com
 northwichitanews.com
@@ -662,6 +673,7 @@ nwlatimes.com
 nwlouisiananews.com
 nwminnesotanews.com
 nwmissnews.com
+nwmissouritimes.com
 nwriversidenews.com
 nwvalleytimes.com
 mydailyfreedom.com
@@ -691,6 +703,7 @@ patrioticviralnews.com
 peachtreegazette.com
 peachtreetimes.com
 pelicanstatenews.com
+pennsylvaniadailystar.com
 pennsylvaniaindependent.com
 pensacolatimes.com
 peoriastandard.com
@@ -703,6 +716,7 @@ pinebelttimes.com
 pinellastimes.com
 pinestatenews.com
 pjmedia.com
+plattenews.com
 plymouthreporter.com
 pmnightlynews.com
 pocatellotimes.com
@@ -800,6 +814,7 @@ scconnnews.com
 sckansasnews.com
 scminnesotanews.com
 scmissnews.com
+scmissourinews.com
 sealaskanews.com
 searizonanews.com
 secureamericanow.org
@@ -813,9 +828,11 @@ seillinoisnews.com
 seindiananews.com
 seiowanews.com
 sekansasnews.com
+sekansascitynews.com
 sekentuckynews.com
 selatimes.com
 seminnesotanews.com
+semissourinews.com
 seoaklandnews.com
 setwincities.com
 sfvtoday.com
@@ -824,6 +841,7 @@ shafaaq.com
 shelbyreview.com
 shiawasseetimes.com
 shoalstoday.com
+showmestatetimes.com
 shreveportreporter.com
 shtfplan.com
 sickchirpse.com
@@ -852,6 +870,7 @@ southindynews.com
 southiowanews.com
 
 southjeffconews.com
+southkcnews.com
 southkentnews.com
 southlaketoday.com
 southlouisiananews.com
@@ -865,9 +884,11 @@ southpinellastimes.com
 southsactoday.com
 southsfbaynews.com
 southsgvnews.com
+southstlnews.com
 swillinoisnews.com
 southwichitanews.com
 springfieldcitywire.com
+springfieldstandard.com
 springstimes.com
 sputniknews.com
 fr.sputniknews.com
@@ -878,6 +899,7 @@ stpetestandard.com
 stanislausnews.com
 staresattheworld.com
 stateofthenation.co
+stcharlestimes.com
 stcloudsun.com
 steadfastandloyal.com
 steadfastclash.com
@@ -973,7 +995,6 @@ theconservativetreehouse.com
 lastresistance.com
 thelaughclub.net
 thelibertydaily.com
-thelibertyeagle.com
 thelibertyloft.com
 thelibertyrevolution.com
 eng.majalla.com
@@ -991,13 +1012,13 @@ thepostemail.com
 theproudliberal.org
 theragingpatriot.org
 rebelnews.com
-the red elephants
 thereligionofpeace.com
 remnantnewspaper.com
 rfangle.com
 theregionnews.com
 therightscoop.com
 therightstuff.biz
+ronpaulinstitute.org
 the science news reporter
 sciencetimes.com
 thescoop.us
@@ -1056,6 +1077,7 @@ verdugosnews.com
 victorvalleytimes.com
 vidmax.com
 viralcocaine.com
+thevirginiastar.com
 visiontimes.com
 wallbuilders.com
 waronfakes.com
