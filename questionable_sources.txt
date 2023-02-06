@@ -38,7 +38,7 @@ tfp.org
 americanthinker.com
 awm.com
 americansarepissed.com
-https://americansfortruth.com
+americansfortruth.com
 americasnewssource.com
 amestoday.com
 amoskeagtimes.com
@@ -79,7 +79,7 @@ bigleaguepolitics.com
 http://billionbibles.org
 bipartisanreport.com
 bitchute.com
-https://blackeyepolitics.com
+blackeyepolitics.com
 blackgenocide.org
 blackpigeonspeaks.com
 bloomingtonleader.com
@@ -144,7 +144,7 @@ clarionproject.org
 clashdaily.com
 claycotimes.com
 clayreporter.com
-https://cloverchronicle.com
+cloverchronicle.com
 cnsnews.com
 coachellatoday.com
 coastalganews.com
@@ -397,7 +397,6 @@ lancastercourier.com
 lansingsun.com
 larimernews.com
 lastfrontiernews.com
-11/27/2021
 laxleader.com
 leftaction.com
 leftexposed.org
@@ -419,7 +418,7 @@ londonwebnews.com
 louderwithcrowder.com
 louisvillecitywire.com
 lowedeltanews.com
-https://lucianne.com
+lucianne.com
 macombjournal.com
 macombtoday.com
 maconreporter.com
@@ -459,7 +458,7 @@ mibusinessdaily.com
 micatholictribune.com
 themichiganstar.com
 midcoasttoday.com
-https://middleamericandemocrat.com
+middleamericandemocrat.com
 meforum.org
 mena.org.eg/en
 memri.org
@@ -660,7 +659,7 @@ politicalanimalnews.com
 political-discussion.com
 politicalflare.com
 thepoliticalinsider.com
-https://politicalstate.org/
+politicalstate.org/
 politifact.news
 polktimes.com
 pomonavalleynews.com
@@ -697,7 +696,7 @@ redstatenation.com
 redstatewatcher.com
 redvoicemedia.com
 redwoodempirenews.com
-https://reedcooper.net
+reedcooper.net
 reformedmedia.net
 renewamerica.com
 renewedright.com
@@ -716,7 +715,6 @@ riverregiontimes.com
 rivervalleytoday.com
 rockfordsun.com
 rockislandtoday.com
-north korea
 roguereview.net
 romereporter.com
 de.rt.com
@@ -852,7 +850,7 @@ sumtertimes.com
 sunflowerstatenews.com
 sunshinesentinel.com
 supportisraelnow.com
-https://survivalblog.com/
+survivalblog.com/
 sussexreview.com
 swampdrain.com
 swarajyamag.com
@@ -1037,7 +1035,6 @@ westtwincities.com
 westventuranews.com
 westvolusianews.com
 whatfinger.com
-fake fox news
 whatstheharm.net
 wichitastandard.com
 willcountygazette.com
