@@ -24,7 +24,7 @@ for text in texts:
         cleaned_text = text
     try:
         index_bracket = cleaned_text.index("(")
-        cleaned_text = ""
+        cleaned_text = cleaned_text[index_bracket+1:]
     except ValueError:
         cleaned_texts.append(cleaned_text.strip())
 
