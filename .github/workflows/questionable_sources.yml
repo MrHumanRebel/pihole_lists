@@ -1,4 +1,4 @@
-name: WebScraper
+name: questionable_sources
 
 on:
   push:
