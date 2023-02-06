@@ -1,4 +1,4 @@
-name: refresh
+name: web scraper
 
 on:
   push:
@@ -8,23 +8,24 @@ on:
     - cron: "30 11 * * *"    #runs at 11:30 UTC everyday
 
 jobs:
-  getdataandrefreshmap:
+  web_scraper:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v3 # checkout the repository content to github runner.
+        uses: actions/checkout@v3
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.8 #install the python needed
+          python-version: 3.8
       - name: Install dependencies
         run: |
           if [ -f .github/workflows/requirements.txt ]; then pip install -r .github/workflows/requirements.txt; fi
       - name: execute py script
         run: |
           python .github/scripts/jogsertowebaruhazak_1.py
+          python .github/scripts/jogsertowebaruhazak_2.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "crongenerated"
+          git commit -m "auto refresh"
           git push
