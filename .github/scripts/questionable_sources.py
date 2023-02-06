@@ -12,8 +12,10 @@ response = requests.get(url)
 
 soup = BeautifulSoup(response.text, 'html.parser')
 
-with open('questionable_sources.txt', 'w') as file:
+with open('processed_link_names.txt', 'w') as file:
     for link in soup.find_all('a'):
         if '(' in link.text:
             link_name = link.text.split('(')[-1].replace(')', '').replace('www.', '').lower()
-            file.write(link_name + '\n')
+            if '.' in link_name:
+                link_name = link_name.replace('https://', '')
+                file.write(link_name + '\n')
