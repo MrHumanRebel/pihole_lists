@@ -43,9 +43,15 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
+          
+      - name: Merge all lists to one file
+        run: |
+          python .github/scripts/wrapper.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+      
       - name: Commit all changes
         run: |
           git commit -m "auto refresh"
-          git push
-          
-          
+          git push 
