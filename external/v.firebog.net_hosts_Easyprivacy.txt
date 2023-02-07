@@ -1949,7 +1949,6 @@ adtech-events.bookmyshow.com
 ad.tempstaff.co.jp
 ad.theatreacademy.jp
 adtmrs.delti.com
-ad-tracker-api.luizalabs.com
 adtrack.loracle.jp
 ad-track.paravi.jp
 ad.udition.jp
@@ -6857,7 +6856,6 @@ log.pinterest.com
 log.popin.cc
 logql.yahoo.co.jp
 log.quora.com
-log.rabobank.nl
 log.reformal.ru
 log.ren.tv
 log.rutube.ru
@@ -7474,7 +7472,6 @@ metrics.baitorupro.com
 metrics.bakeryandsnacks.com
 metrics.bakeryinfo.co.uk
 metrics.bangbros.com
-metrics.bankmonitor.hu
 metrics.barclaycardus.com
 metrics.bcbsnc.com
 metrics.beatsbydre.com
@@ -9095,7 +9092,6 @@ rigill.com
 rimxqx.slickdeals.net
 ringplant.com
 ringsrecord.com
-ring.staticmoly.me
 riovdv.mustit.co.kr
 ritzyveil.com
 riwkmo.spacemarket.com
@@ -14375,7 +14371,6 @@ vqp3.madeindesign.co.uk
 vry9.destinia.com
 v.shopify.com
 vstat.borderlessbd.com
-vstats.me
 vst.sibnet.ru
 vtf2f.banque-casino.fr
 vt.mak.com

@@ -1,5 +1,4 @@
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/adaway.org_hosts.txt
-https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/adblock.mahakala.is
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/bitbucket.org_ethanr_dns-blacklists_raw_8575c9f96e5b4a1308f2f12394abd86d0927a4a0_bad_lists_Mandiant_APT1_Report_Appendix_D.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/gitlab.com_quidsup_notrack-blocklists_raw_master_notrack-blocklist.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/gitlab.com_quidsup_notrack-blocklists_raw_master_notrack-malware.txt
