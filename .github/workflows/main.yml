@@ -24,33 +24,26 @@ jobs:
       - name: Icon badge
         uses: damienaicheh/icon-badge-action@v1.0.0
         with:
-          images-path: 'docs/refresh_button.png'
-      - name: Execute py script 1
+          images-path: 'https://github.com/MrHumanRebel/pihole_lists/blob/main/docs/refresh_button.png?raw=true'
+      - name: Execute jogsertowebaruhazak_1.py
         run: |
           python .github/scripts/jogsertowebaruhazak_1.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-      - name: Execute py script 2
+      - name: Execute jogsertowebaruhazak_2.py
         run: |
           python .github/scripts/jogsertowebaruhazak_2.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-      - name: Execute py script 3
+      - name: Execute questionable_sources.py
         run: |
           python .github/scripts/questionable_sources.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          
-      - name: Merge all lists to one file
-        run: |
-          python .github/scripts/wrapper.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-      
+               
       - name: Commit all changes
         run: |
           git commit -m "auto refresh"
