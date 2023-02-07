@@ -21,7 +21,7 @@ def main():
     
     addresses_to_block = get_addresses_to_block(urls)
     
-    with open("complete_blocklist.txt", "w+") as outfile:
+    with open("custom/complete_blocklist.txt", "w+") as outfile:
         for line in addresses_to_block:
             file.write(line)
         
