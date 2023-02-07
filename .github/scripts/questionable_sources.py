@@ -18,5 +18,5 @@ with open('temp/questionable_sources.txt', 'w') as file:
             link_name = link.text.split('(')[-1].replace(')', '').replace('www.', '').lower()
             if '.' in link_name:
                 link_name = link_name.replace('https://', '')
-                print(link_name + '\n')
+                print(link_name)
                 file.write(link_name + '\n')
