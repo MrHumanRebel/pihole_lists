@@ -33,4 +33,5 @@ for text in texts:
 
 with open("temp/jogsertowebaruhazak_1.txt", "w") as file:
     for text in cleaned_texts:
+        print(text)
         file.write(text + "\n")
