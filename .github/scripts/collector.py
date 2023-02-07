@@ -9,6 +9,7 @@ if not os.path.exists(parent_dir):
     os.makedirs(parent_dir)
 
 for url in urls:
+    url = url.replace("https:", "")
     filename = f"{parent_dir}/{url.replace('/', '_')}"
     with open(filename, "w") as f:
         response = requests.get(url)
