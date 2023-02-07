@@ -19,5 +19,5 @@ for url in urls:
         lines = f.readlines()
     with open(filename, "w") as f:
         for line in lines:
-            if not line.startswith("#"):
+            if not line.startswith("#") and "." in line:
                 f.write(line)
