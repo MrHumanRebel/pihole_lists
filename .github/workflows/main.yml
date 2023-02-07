@@ -1,4 +1,4 @@
-name: jogsertowebaruhazak_1
+name: Auto refresh
 
 on:
   push:
@@ -21,10 +21,6 @@ jobs:
       - name: Install dependencies
         run: |
           if [ -f .github/workflows/requirements.txt ]; then pip install -r .github/workflows/requirements.txt; fi
-      - name: Icon badge
-        uses: damienaicheh/icon-badge-action@v1.0.0
-        with:
-          images-path: 'https://github.com/MrHumanRebel/pihole_lists/blob/main/docs/refresh_button.png?raw=true'
       - name: Execute jogsertowebaruhazak_1.py
         run: |
           python .github/scripts/jogsertowebaruhazak_1.py

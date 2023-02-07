@@ -31,7 +31,7 @@ for text in texts:
     except ValueError:
         cleaned_texts.append(cleaned_text.strip())
 
-with open("temp/jogsertowebaruhazak_2.txt", "w") as file:
+with open("jogsertowebaruhazak_2.txt", "w") as file:
     for text in cleaned_texts:
         print(text)
         file.write(text + "\n")
