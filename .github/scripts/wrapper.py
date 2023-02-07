@@ -23,3 +23,5 @@ def main():
     
     with open("complete_blocklist.txt", "w") as outfile:
         outfile.write(addresses_to_block)
+        
+main()
