@@ -14,10 +14,6 @@ for url in urls:
     with open(filename, "w") as f:
         response = requests.get(url)
         f.write(response.text)
-
-for url in urls:
-    filename = f"{parent_dir}/{url.replace('/', '_')}"
-    filename = filename.replace("https:__", "")
     with open(filename, "r") as f:
         lines = f.readlines()
     with open(filename, "w") as f:
