@@ -10,7 +10,17 @@ if not os.path.exists(parent_dir):
 
 for url in urls:
     filename = f"{parent_dir}/{url.replace('/', '_')}"
-    filename = filename.replace("https:", "")
+    filename = filename.replace("https:__", "")
     with open(filename, "w") as f:
         response = requests.get(url)
         f.write(response.text)
+
+for url in urls:
+    filename = f"{parent_dir}/{url.replace('/', '_')}"
+    filename = filename.replace("https:__", "")
+    with open(filename, "r") as f:
+        lines = f.readlines()
+    with open(filename, "w") as f:
+        for line in lines:
+            if not line.startswith("#"):
+                f.write(line)
