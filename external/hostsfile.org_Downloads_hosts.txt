@@ -1,10 +1,4 @@
 127.0.0.1	localhost
-
-
-
-
-
-
 127.0.0.1	ammyy.com
 127.0.0.1	www.ammyy.com
 127.0.0.1	gotomypc.com
@@ -14,82 +8,46 @@
 127.0.0.1	secure.logmein.com
 127.0.0.1	splashtop.com
 127.0.0.1	www.splashtop.com
-
-
-
 127.0.0.1	fls.doubleclick.net
-
 127.0.0.1	ad.doubleclick.net
-
 127.0.0.1	ak1.abmr.net
 127.0.0.1	ak1s.abmr.net
-
 127.0.0.1	bs.serving-sys.com
-
-
-
 127.0.0.1	ads1.msn.com
 127.0.0.1	a.global.msads.net
 127.0.0.1	global.msads.net
 127.0.0.1	rmads.msn.com
-
 127.0.0.1	visit.webhosting.yahoo.com
-
 127.0.0.1	ads.thestar.com
-
-
-
-
 127.0.0.1	om.symantec.com
-
-
-
 127.0.0.1	google-analytics.com
 127.0.0.1	www.google-analytics.com
 127.0.0.1	ssl.google-analytics.com
-
-
 127.0.0.1	4.afs.googleadservices.com
 127.0.0.1	pagead2.googleadservices.com
-
 127.0.0.1	instantcheckmate.com
 127.0.0.1	www.instantcheckmate.com
 127.0.0.1	mylife.com
 127.0.0.1	www.mylife.com
 127.0.0.1	publicrecords360.com
 127.0.0.1	www.publicrecords360.com
-
 127.0.0.1	gscounters.gigya.com
 127.0.0.1	tracking.whattoexpect.com
-
-
-
-
-
 127.0.0.1	wdpbeta.iesnare.com
-
-
-
-
-
 127.0.0.1	counters.freewebs.com
 127.0.0.1	gscounters.eu1.gigya.com
 127.0.0.1	gscounters.us1.gigya.com
-
 127.0.0.1	ct1.addthis.com
 127.0.0.1	p.addthis.com
 127.0.0.1	l.sharethis.com
 127.0.0.1	seg.sharethis.com
-
 127.0.0.1	play.coker.com.au
-
 127.0.0.1	com.com
 127.0.0.1	www.com.com
 127.0.0.1	www.de
 127.0.0.1	www.fr
 127.0.0.1	www.gd
 127.0.0.1	www.im
-
 127.0.0.1	0rz.tw
 127.0.0.1	www.0rz.tw
 127.0.0.1	1url.com
@@ -267,7 +225,6 @@
 127.0.0.1	www.yyv.co
 127.0.0.1	zite.to
 127.0.0.1	www.zite.to
-
 127.0.0.1	0.r.msn.com
 127.0.0.1	005.free-counter.co.uk
 127.0.0.1	www.005.free-counter.co.uk

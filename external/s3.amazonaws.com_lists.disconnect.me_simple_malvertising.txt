@@ -1,5 +1,3 @@
-Malvertising list by Disconnect
-
 malware-check.disconnect.me
 101order.com
 123found.com

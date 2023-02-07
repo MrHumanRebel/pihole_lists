@@ -1134,9 +1134,7 @@
 0.0.0.0 stream.shuzilm.cn
 0.0.0.0 www.shuzilm.cn
 255.255.255.255	broadcasthost
-::1             localhost
 0.0.0.0 localhost
-::1             ip6-localhost
 0.0.0.0 XiaoQiang
 0.0.0.0 geo2.adobe.com
 0.0.0.0 www.2144.cn

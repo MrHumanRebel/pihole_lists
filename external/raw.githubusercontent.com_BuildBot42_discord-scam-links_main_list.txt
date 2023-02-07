@@ -5324,7 +5324,6 @@ nitro-discord.ru.com
 nitro-discord.space
 nitro-discord.website
 nitro-discord.xyz
-nitro-discordapp
 nitro-discordapp.com
 nitro-discordapp.xyz
 nitro-discorde.com
