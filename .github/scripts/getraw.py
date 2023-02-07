@@ -12,7 +12,7 @@ if response.status_code == 200:
         raw_urls.append(
             f"https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/{name}")
 
-    with open("raw_urls.txt", "w+") as file:
+    with open("external_raw_urls.txt", "w+") as file:
         for url in raw_urls:
             file.write(url + "\n")
 else:
@@ -31,7 +31,7 @@ if response.status_code == 200:
         raw_urls.append(
             f"https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/custom/{name}")
 
-    with open("raw_urls.txt", "w+") as file:
+    with open("custom_raw_urls.txt", "w+") as file:
         for url in raw_urls:
             file.write(url + "\n")
 else:
