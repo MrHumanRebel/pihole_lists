@@ -13,7 +13,8 @@ for url in urls:
     filename = filename.replace("https:__", "")
     with open(filename, "w") as f:
         response = requests.get(url)
-        f.write(response.text)
+        text = response.text.rstrip()
+        f.write(text)
     with open(filename, "r") as f:
         lines = f.readlines()
     with open(filename, "w") as f:
