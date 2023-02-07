@@ -31,24 +31,20 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "auto refresh"
-          git push
       - name: Execute py script 2
         run: |
-          git pull
           python .github/scripts/jogsertowebaruhazak_2.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "auto refresh"
-          git push
       - name: Execute py script 3
         run: |
-          git pull
           python .github/scripts/questionable_sources.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
+      - name: Commit all changes
+        run: |
           git commit -m "auto refresh"
           git push
           
