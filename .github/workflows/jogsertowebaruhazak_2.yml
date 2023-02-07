@@ -20,6 +20,10 @@ jobs:
       - name: Install dependencies
         run: |
           if [ -f .github/workflows/requirements.txt ]; then pip install -r .github/workflows/requirements.txt; fi
+      - name: Icon badge
+        uses: damienaicheh/icon-badge-action@v1.0.0
+        with:
+          images-path: 'docs/refresh_button.png'
       - name: Execute py script
         run: |
           python .github/scripts/jogsertowebaruhazak_2.py
