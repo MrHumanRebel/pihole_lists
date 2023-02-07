@@ -8,7 +8,7 @@ with open("docs/urls.txt") as file:
 
 for i, url in enumerate(urls):
     filename = f"external/{i+1}_{url.split('/')[-1]}.txt"
-    with open(filename, "w") as f:
+    with open(filename, "w+") as f:
         for url in urls:
             response = requests.get(url)
             with open(url.split("/")[-1], "w") as f:
