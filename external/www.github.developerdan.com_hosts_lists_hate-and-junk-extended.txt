@@ -706,7 +706,6 @@
 0.0.0.0 thefreedomarticles.com
 0.0.0.0 autodiscover.thefreedomarticles.com
 0.0.0.0 www.thefreedomarticles.com
-0.0.0.0 2c739728-c52a-11eb-8d30-005056834623.theqanon.com
 0.0.0.0 dev.theqanon.com
 0.0.0.0 old.theqanon.com
 0.0.0.0 shop.theqanon.com
