@@ -44,7 +44,7 @@ def cleanAdstr(string):
 		- excludes: wildcards, incomplete domains
 	'''
 	for n in range(0, len(string)):
-		if string[n] == ("*" or ".js" or "/"):
+		if string[n] == ("*" or ".js" or "/" or "~"):
 			break
 		if string[n] == "^":
 			return string[:n]
