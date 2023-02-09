@@ -1,5 +1,13 @@
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/adaway.org_hosts.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/annoyances.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/badware.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/bitbucket.org_ethanr_dns-blacklists_raw_8575c9f96e5b4a1308f2f12394abd86d0927a4a0_bad_lists_Mandiant_APT1_Report_Appendix_D.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/easylist.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/filters-2020.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/filters-2021.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/filters-2022.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/filters-2023.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/filters.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/gitlab.com_quidsup_notrack-blocklists_raw_master_notrack-blocklist.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/gitlab.com_quidsup_notrack-blocklists_raw_master_notrack-malware.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/hostfiles.frogeye.fr_firstparty-trackers-hosts.txt
@@ -12,6 +20,7 @@ https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/osint.
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/paulgb.github.io_BarbBlock_blacklists_hosts-file.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/pgl.yoyo.org_adservers_serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/phishing.army_download_phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/privacy.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/raw.githubusercontent.com_AssoEchap_stalkerware-indicators_master_generated_hosts
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/raw.githubusercontent.com_Bon-Appetit_porn-domains_master_block.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/raw.githubusercontent.com_BuildBot42_discord-scam-links_main_list.txt
@@ -55,6 +64,7 @@ https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/raw.gi
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/raw.githubusercontent.com_matomo-org_referrer-spam-blacklist_master_spammers.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/raw.githubusercontent.com_mhhakim_pihole-blocklist_master_porn.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/raw.githubusercontent.com_tg12_pihole-phishtank-list_master_list_phish_domains.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/resource-abuse.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/s3.amazonaws.com_lists.disconnect.me_simple_ad.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/s3.amazonaws.com_lists.disconnect.me_simple_malvertising.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/someonewhocares.org_hosts_zero_hosts
