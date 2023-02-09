@@ -85,4 +85,5 @@ https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/winhel
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/www.github.developerdan.com_hosts_lists_ads-and-tracking-extended.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/www.github.developerdan.com_hosts_lists_dating-services-extended.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/www.github.developerdan.com_hosts_lists_hate-and-junk-extended.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/www.github.developerdan.com_hosts_lists_tracking-aggressive-extended.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/external/zerodot1.gitlab.io_CoinBlockerLists_hosts_browser
