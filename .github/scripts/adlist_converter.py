@@ -118,10 +118,11 @@ def main():
           "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt",
           "https://easylist.to/easylist/easylist.txt",
           "https://easylist.to/easylist/easyprivacy.txt"]
-  for url in urls:
-    inURL = urls[url]
+  for i in range(10):
+    inURL = urls[i]
     adList = getAdList(inURL)
-    fileName = "external/" + getFilename(inURL)
-    currDir = os.getcwd()
-    newFile = currDir + "/filters/" + fileName
+    fileName = getFilename(inURL)
+    newFile = "external/" + fileName
     writeList(inURL, adList, newFile)
+    
+main()
