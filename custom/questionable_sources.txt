@@ -421,7 +421,6 @@ lowedeltanews.com
 lucianne.com
 macombjournal.com
 macombtoday.com
-maconreport.com
 maconreporter.com
 macontimes.com
 madworldnews.com
@@ -824,7 +823,6 @@ fr.sputniknews.com
 snanews.de
 it.sputniknews.com
 stjoebentonharbor.com
-stlouisreporter.com
 stpetestandard.com
 stanislausnews.com
 staresattheworld.com
@@ -917,6 +915,7 @@ thehornnews.com
 thejewishvoice.com
 joerogan.com
 theconservativetreehouse.com
+lastresistance.com
 thelaughclub.net
 thelibertydaily.com
 thelibertyloft.com
@@ -1032,6 +1031,7 @@ westpennyroyalnews.com
 westsbvtimes.com
 westsfvtoday.com
 westsgvnews.com
+stlwestnews.com
 westtwincities.com
 westventuranews.com
 westvolusianews.com

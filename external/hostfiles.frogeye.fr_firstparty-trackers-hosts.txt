@@ -772,6 +772,7 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.da1.vip.prod.criteo.com
 0.0.0.0 bidder.jp2.vip.prod.criteo.com
+0.0.0.0 bidder.nl3.vip.prod.criteo.com
 0.0.0.0 bidder.par.vip.prod.criteo.com
 0.0.0.0 bidder.sg1.vip.prod.criteo.com
 0.0.0.0 bidder.va1.vip.prod.criteo.com

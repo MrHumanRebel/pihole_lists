@@ -713,7 +713,6 @@
 0.0.0.0 sitemaps.theqanon.com
 0.0.0.0 store.theqanon.com
 0.0.0.0 test.theqanon.com
-0.0.0.0 www.theqanon.com
 0.0.0.0 theqanons.com
 0.0.0.0 www.theqanons.com
 0.0.0.0 thinkqanon.com
