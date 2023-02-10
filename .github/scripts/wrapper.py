@@ -159,12 +159,12 @@ def main():
     print("Loading jogsertowebaruhazak_1.txt...")
     jogserto_webaruhazak(
         'https://jogsertowebaruhazak.kormany.hu/index.html?potolva=0&sulyos_elerhetoseg=1&sulyos_szallitas=1&page=',
-        range(1, 39), "custom/jogsertowebaruhazak_1.txt"
+        1, 39, "custom/jogsertowebaruhazak_1.txt"
     )
     print("Loading jogsertowebaruhazak_2.txt...")
     jogserto_webaruhazak(
         'https://jogsertowebaruhazak.kormany.hu/?sulyos_csoda=1&sulyos_szallitas=1&page=',
-        range(1, 11), "custom/jogsertowebaruhazak_2.txt"
+        1, 11, "custom/jogsertowebaruhazak_2.txt"
     )
     print("Loading questionable_sources...")
     questionable_sources()
