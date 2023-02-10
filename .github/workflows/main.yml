@@ -21,44 +21,24 @@ jobs:
       - name: Install dependencies
         run: |
           if [ -f .github/workflows/requirements.txt ]; then pip install -r .github/workflows/requirements.txt; fi
-      - name: Execute jogsertowebaruhazak_1.py
+        - name: Execute adlist_converter.py
         run: |
-          python .github/scripts/jogsertowebaruhazak_1.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-      - name: Execute jogsertowebaruhazak_2.py
-        run: |
-          python .github/scripts/jogsertowebaruhazak_2.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-      - name: Execute questionable_sources.py
-        run: |
-          python .github/scripts/questionable_sources.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-      - name: Execute adlist_converter.py
-        run: |
+          git pull
           python .github/scripts/adlist_converter.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-      - name: Execute collector.py
+          git push
+      - name: Execute wrapper.py
         run: |
-          python .github/scripts/collector.py
+          git pull
+          python .github/scripts/wrapper.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-      - name: Execute getraw.py
-        run: |
-          python .github/scripts/getraw.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-               
+          git push            
       - name: Commit all changes
         run: |
+          git pull
           git commit -m "auto refresh"
           git push 
