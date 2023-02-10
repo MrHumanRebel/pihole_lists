@@ -14691,7 +14691,6 @@
 0.0.0.0 forms.onlyfans.com
 0.0.0.0 gateway.onlyfans.com
 0.0.0.0 gateway0-us-east-1.onlyfans.com
-0.0.0.0 greenhouse.onlyfans.com
 0.0.0.0 id.onlyfans.com
 0.0.0.0 join.onlyfans.com
 0.0.0.0 live0.onlyfans.com
@@ -20578,7 +20577,6 @@
 0.0.0.0 nuance.dating
 0.0.0.0 nurmitdir.dating
 0.0.0.0 nuzzle.dating
-0.0.0.0 api.nuzzle.dating
 0.0.0.0 nzl.dating
 0.0.0.0 cdn.nzl.dating
 0.0.0.0 img.nzl.dating

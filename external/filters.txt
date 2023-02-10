@@ -1852,7 +1852,6 @@ spiele.heise.de
 heise.de
 dailygeekshow.com
 yiv.com
-mackungfu.org
 jacquieetmicheltv.net
 easysexe.com
 tawenda-tech.net
@@ -2693,7 +2692,6 @@ mediausamns-a.akamaihd.net
 funimation.com
 autobild.de
 alimaniac.com
-openelec.tv
 hulkshare.com
 proxydocker.com
 springfieldspringfield.co.uk
