@@ -126,6 +126,9 @@ def process_url(url):
 
 
 def complete_blocklist_creator():
+    parent_dir = "final"
+    if not os.path.exists(parent_dir):
+        os.makedirs(parent_dir)
     custom_raw_urls = []
     external_raw_urls = []
     with open("custom_raw_urls.txt") as custom_file:
