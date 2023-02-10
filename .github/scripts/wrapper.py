@@ -114,6 +114,7 @@ def get_addresses_to_block(urls):
         for line in lines:
             if not line.startswith("#") and (re.match(r"^([a-zA-Z0-9]+(-[a-zA-Z0-9]+)*\.)+[a-zA-Z]{2,}$", line) or re.match(r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$", line)):
                 addresses_to_block.add(line)
+                print(line)
     return addresses_to_block
 
 
@@ -141,6 +142,7 @@ def complete_blocklist_creator():
     with open(filename, "w+") as outfile:
         for line in addresses_to_block:
             current_file_size += len(line.encode())
+            print(current_file_size)
             if current_file_size >= 5000000:  # 5 MB
                 file_count += 1
                 current_file_size = 0
