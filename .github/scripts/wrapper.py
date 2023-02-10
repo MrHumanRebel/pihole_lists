@@ -75,6 +75,7 @@ def external_url_collector():
     for url in urls:
         filename = f"{parent_dir}/{url.replace('/', '_')}"
         filename = filename.replace("https:__", "")
+        print(filename)
         with open(filename, "w") as f:
             response = requests.get(url)
             text = response.text.rstrip()
@@ -85,6 +86,7 @@ def external_url_collector():
             for line in lines:
                 if not line.startswith("#") and "." in line:
                     f.write(line)
+                    print(line)
 
 
 def get_raw_urls(folder):
