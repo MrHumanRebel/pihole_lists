@@ -144,7 +144,7 @@ def complete_blocklist_creator():
     filename = f"final/complete_blocklist_{file_count}.txt"
     with open(filename, "w+") as outfile:
         for line in addresses_to_block:
-            current_file_size += len(line.encode())            
+            current_file_size += len(line.encode())
             if current_file_size >= 5000000:  # 5 MB
                 file_count += 1
                 print(current_file_size)
@@ -156,19 +156,27 @@ def complete_blocklist_creator():
 
 
 def main():
+    print("Loading jogsertowebaruhazak_1.txt...")
     jogserto_webaruhazak(
         'https://jogsertowebaruhazak.kormany.hu/index.html?potolva=0&sulyos_elerhetoseg=1&sulyos_szallitas=1&page=',
-        1, 39, "custom/jogsertowebaruhazak_1.txt"
+        range(1, 39), "custom/jogsertowebaruhazak_1.txt"
     )
+    print("Loading jogsertowebaruhazak_2.txt...")
     jogserto_webaruhazak(
         'https://jogsertowebaruhazak.kormany.hu/?sulyos_csoda=1&sulyos_szallitas=1&page=',
-        1, 11, "custom/jogsertowebaruhazak_2.txt"
+        range(1, 11), "custom/jogsertowebaruhazak_2.txt"
     )
+    print("Loading questionable_sources...")
     questionable_sources()
+    print("Loading external_url_collector...")
     external_url_collector()
+    print("Loading complete_blocklist_creator...")
     complete_blocklist_creator()
+    print("Loading raw urls for external...")
     get_raw_urls("external")
+    print("Loading raw urls for custom...")
     get_raw_urls("custom")
+    print("Loading raw urls for final...")
     get_raw_urls("final")
 
 
