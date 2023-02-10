@@ -7,6 +7,7 @@ import os
 
 def jogserto_webaruhazak(base_url, page_start, page_end, file_name):
     texts = []
+    print(base_url)
 
     for page in range(page_start, page_end + 1):
         url = base_url + str(page)
@@ -37,12 +38,12 @@ def jogserto_webaruhazak(base_url, page_start, page_end, file_name):
 
     with open(file_name, "w+") as file:
         for text in cleaned_texts:
-            print(text)
             file.write(text + "\n")
 
 
 def questionable_sources():
     url = 'https://mediabiasfactcheck.com/fake-news/'
+    print(url)
 
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
@@ -59,7 +60,6 @@ def questionable_sources():
                     '(')[-1].replace(')', '').replace('www.', '').lower()
                 if '.' in link_name:
                     link_name = link_name.replace('https://', '')
-                    print(link_name)
                     file.write(link_name + '\n')
 
 
@@ -86,7 +86,6 @@ def external_url_collector():
             for line in lines:
                 if not line.startswith("#") and "." in line:
                     f.write(line)
-                    print(line)
 
 
 def get_raw_urls(folder):
@@ -116,7 +115,6 @@ def get_addresses_to_block(urls):
         for line in lines:
             if not line.startswith("#") and (re.match(r"^([a-zA-Z0-9]+(-[a-zA-Z0-9]+)*\.)+[a-zA-Z]{2,}$", line) or re.match(r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$", line)):
                 addresses_to_block.add(line)
-                print(line)
     return addresses_to_block
 
 
