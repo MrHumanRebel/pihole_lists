@@ -49,7 +49,7 @@ def questionable_sources():
         warnings.simplefilter("ignore")
         response = requests.get(url, verify=False)
 
-    response = requests.get(url)
+    response = requests.get(url, verify=False)
 
     soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -77,7 +77,7 @@ def external_url_collector():
         filename = filename.replace("https:__", "")
         print(filename)
         with open(filename, "w") as f:
-            response = requests.get(url)
+            response = requests.get(url, verify=False)
             text = response.text.rstrip()
             f.write(text)
         with open(filename, "r") as f:
@@ -119,7 +119,7 @@ def get_addresses_to_block(urls):
 
 
 def process_url(url):
-    response = requests.get(url)
+    response = requests.get(url, verify=False)
 
     lines = response.text.split("\n")
     return lines
