@@ -117,7 +117,7 @@ pipeaota.com
 premium-videos.telly.com
 prov.samsungcloudsolution.com
 rd.samsungadhub.com
-rwww.samsungotn.net
+rsamsungotn.net
 samsungacr.com
 samsungadhub.com
 samsungcloudsolution.com
@@ -132,7 +132,7 @@ test.samsungrm.net
 us-api.samsungyosemite.com
 vd.emp.prd.s3.amazonaws.com
 vdterms.samsungcloudsolution.com
-www.samsungrm.net
+samsungrm.net
 samsungelectronics.com
 apu.samsungelectronics.com
 bpu.samsungelectronics.com
@@ -190,7 +190,7 @@ stats-irl.sxp.smartclip.net
 trvdp.com
 tv-static.scdn.co
 xml.opera.com
-api.thetake.com # https://thetake.ai/
+api.thetake.com # thetake.ai/
 ichnaea.netflix.com
 customerevents.netflix.com
 api.distribution.hulu.com

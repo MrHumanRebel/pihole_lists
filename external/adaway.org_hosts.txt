@@ -48,7 +48,7 @@
 127.0.0.1 device.4seeresults.com
 127.0.0.1 replaycontroller.4seeresults.com
 127.0.0.1 51ginkgo.com
-127.0.0.1 www.5rocks.io
+127.0.0.1 5rocks.io
 127.0.0.1 logs.81plug.com
 127.0.0.1 cdn.88-f.net
 127.0.0.1 config.88-f.net
@@ -834,7 +834,7 @@
 127.0.0.1 mtag.adxcore.com
 127.0.0.1 ads.adxpansion.com
 127.0.0.1 servedby.adxpose.com
-127.0.0.1 www.adxserve.com
+127.0.0.1 adxserve.com
 127.0.0.1 adywind.com
 127.0.0.1 app.adywind.com
 127.0.0.1 log.adywind.com
@@ -1935,7 +1935,7 @@
 127.0.0.1 t2.chartboost.com
 127.0.0.1 v-ak.chartboost.com
 127.0.0.1 v2.chartboost.com
-127.0.0.1 www.chartboost.com
+127.0.0.1 chartboost.com
 127.0.0.1 chartboosts.com
 127.0.0.1 ads.chartboosts.com
 127.0.0.1 analysis2.chartboosts.com
@@ -1952,8 +1952,8 @@
 127.0.0.1 prapi.cision.com
 127.0.0.1 cdn.civicscience.com
 127.0.0.1 get.civicscience.com
-127.0.0.1 www.civicscience.com
-127.0.0.1 www.clarity.ms
+127.0.0.1 civicscience.com
+127.0.0.1 clarity.ms
 127.0.0.1 config.claspws.tv
 127.0.0.1 events.claspws.tv
 127.0.0.1 metrics.claspws.tv
@@ -2624,11 +2624,11 @@
 127.0.0.1 addthis.com.edgekey.net
 127.0.0.1 ds-api-public.addthis.com.edgekey.net
 127.0.0.1 ds-s7.addthis.com.edgekey.net
-127.0.0.1 ds-www.addthis.com.edgekey.net
+127.0.0.1 ds-addthis.com.edgekey.net
 127.0.0.1 ds-m.addthisedge.com.edgekey.net
 127.0.0.1 v1.addthisedge.com.edgekey.net
 127.0.0.1 adobetag.com.edgekey.net
-127.0.0.1 san-www.adobetag.com.edgekey.net
+127.0.0.1 san-adobetag.com.edgekey.net
 127.0.0.1 api.agoda.com.edgekey.net
 127.0.0.1 aniview.com.edgekey.net
 127.0.0.1 wildcard.aniview.com.edgekey.net
@@ -3044,7 +3044,7 @@
 127.0.0.1 protect.geoedge.be
 127.0.0.1 rumcdn.geoedge.be
 127.0.0.1 geoplugin.net
-127.0.0.1 www.geoplugin.net
+127.0.0.1 geoplugin.net
 127.0.0.1 sdk.open.talk.gepush.com
 127.0.0.1 in.getclicky.com
 127.0.0.1 static.getclicky.com
@@ -3115,13 +3115,13 @@
 127.0.0.1 secure.gooddata.com
 127.0.0.1 google-analytics.com
 127.0.0.1 ssl.google-analytics.com
-127.0.0.1 www.google-analytics.com
+127.0.0.1 google-analytics.com
 127.0.0.1 ads.google.com
 127.0.0.1 adservice.google.com
 127.0.0.1 s0-2mdn-net.l.google.com
 127.0.0.1 googleadservices.com
 127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 www.googleadservices.com
+127.0.0.1 googleadservices.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 googlesyndication.com
 127.0.0.1 ade.googlesyndication.com
@@ -3841,7 +3841,7 @@
 127.0.0.1 api.leanplum.com
 127.0.0.1 prod.leanplum.com
 127.0.0.1 assets.prod.leanplum.com
-127.0.0.1 www.leanplum.com
+127.0.0.1 leanplum.com
 127.0.0.1 log.lemonpi.io
 127.0.0.1 tracking.lengow.com
 127.0.0.1 lentainform.com
@@ -3895,7 +3895,7 @@
 127.0.0.1 a.ligatus.com
 127.0.0.1 a-ssl.ligatus.com
 127.0.0.1 s3.lightboxcdn.com
-127.0.0.1 www.lightboxcdn.com
+127.0.0.1 lightboxcdn.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 pba.aws.lijit.com
 127.0.0.1 ce.lijit.com
@@ -3971,7 +3971,7 @@
 127.0.0.1 sdk-assets.localytics.com
 127.0.0.1 web.localytics.com
 127.0.0.1 webanalytics.localytics.com
-127.0.0.1 www.localytics.com
+127.0.0.1 localytics.com
 127.0.0.1 api.locately.com
 127.0.0.1 sparkle.locationlabs.com
 127.0.0.1 api.locuslabs.com
@@ -4204,7 +4204,7 @@
 127.0.0.1 matomy.com
 127.0.0.1 maxonclick.com
 127.0.0.1 service.maxymiser.net
-127.0.0.1 www.mczbf.com
+127.0.0.1 mczbf.com
 127.0.0.1 jelly.mdhv.io
 127.0.0.1 karma.mdpcdn.com
 127.0.0.1 track.mdrctr.com
@@ -4799,7 +4799,7 @@
 127.0.0.1 insights-collector.newrelic.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 mobile-collector.newrelic.com
-127.0.0.1 www.newsbreak.com
+127.0.0.1 newsbreak.com
 127.0.0.1 v2.pixel.newscgp.com
 127.0.0.1 us.tags.newscgp.com
 127.0.0.1 nex8.net
@@ -4829,7 +4829,7 @@
 127.0.0.1 stc-nas.nixcdn.com
 127.0.0.1 nmcdn.us
 127.0.0.1 dev.nodle.io
-127.0.0.1 www.npttech.com
+127.0.0.1 npttech.com
 127.0.0.1 nr-data.net
 127.0.0.1 bam.nr-data.net
 127.0.0.1 eu01.nr-data.net
@@ -5060,7 +5060,7 @@
 127.0.0.1 asset.pagefair.com
 127.0.0.1 asset.pagefair.net
 127.0.0.1 sc.pages03.net
-127.0.0.1 www.sc.pages03.net
+127.0.0.1 sc.pages03.net
 127.0.0.1 tracking.pandoiq.com
 127.0.0.1 adserver.pandora.com
 127.0.0.1 pangle.io
@@ -6062,8 +6062,8 @@
 127.0.0.1 vid-io-sin.springserve.com
 127.0.0.1 vpaid.springserve.com
 127.0.0.1 spylog.com
-127.0.0.1 www.srmdata-us.com
-127.0.0.1 www.srmdata.com
+127.0.0.1 srmdata-us.com
+127.0.0.1 srmdata.com
 127.0.0.1 cf.ssacdn.com
 127.0.0.1 v.cf.ssacdn.com
 127.0.0.1 cx.ssacdn.com
@@ -6126,7 +6126,7 @@
 127.0.0.1 update.stickyadstv.com
 127.0.0.1 s.update.stickyadstv.com
 127.0.0.1 mb-cdn.stocard.de
-127.0.0.1 www.storygize.net
+127.0.0.1 storygize.net
 127.0.0.1 analytics.strava.com
 127.0.0.1 tracing-collector.strava.com
 127.0.0.1 ad-im-cmg.streamguys1.com
@@ -6137,7 +6137,7 @@
 127.0.0.1 ssp.streamrail.net
 127.0.0.1 strikeiron.com
 127.0.0.1 static.subiz.com
-127.0.0.1 www.summerhamster.com
+127.0.0.1 summerhamster.com
 127.0.0.1 load.sumo.com
 127.0.0.1 sumome.com
 127.0.0.1 load.sumome.com
@@ -6335,11 +6335,11 @@
 127.0.0.1 t.tailtarget.com
 127.0.0.1 cm.t.tailtarget.com
 127.0.0.1 tags.t.tailtarget.com
-127.0.0.1 www.talkable.com
+127.0.0.1 talkable.com
 127.0.0.1 tdcv3.talkingdata.net
 127.0.0.1 snowplowcollector.talkspace.com
 127.0.0.1 agent.tamedia.com.tw
-127.0.0.1 www.tamgrt.com
+127.0.0.1 tamgrt.com
 127.0.0.1 acme.tango.me
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 adashx4ae.ut.taobao.com
@@ -6376,7 +6376,7 @@
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 track.tappx.com
 127.0.0.1 imp.track.tappx.com
-127.0.0.1 www.tapresearch.com
+127.0.0.1 tapresearch.com
 127.0.0.1 api.taps.io
 127.0.0.1 api.tapsell.ir
 127.0.0.1 plus.tapsell.ir
@@ -6492,7 +6492,7 @@
 127.0.0.1 ap.tnkfactory.com
 127.0.0.1 ar.tns-counter.ru
 127.0.0.1 kz.tns-counter.ru
-127.0.0.1 www.tns-counter.ru
+127.0.0.1 tns-counter.ru
 127.0.0.1 ssl-nrk.tns-cs.net
 127.0.0.1 ad-exchange.toast.com
 127.0.0.1 adlc-exchange.toast.com
@@ -6704,7 +6704,7 @@
 127.0.0.1 puds.ucweb.com
 127.0.0.1 uc.ucweb.com
 127.0.0.1 click.union.ucweb.com
-127.0.0.1 www.ugdturner.com
+127.0.0.1 ugdturner.com
 127.0.0.1 uimserv.net
 127.0.0.1 sweb.ulta.com
 127.0.0.1 umbel.com
@@ -6835,7 +6835,7 @@
 127.0.0.1 app-796db8a17c48a13b.mobileapi.usebutton.com
 127.0.0.1 cdn.usefathom.com
 127.0.0.1 geocode.usefomo.com
-127.0.0.1 www.usefomo.com
+127.0.0.1 usefomo.com
 127.0.0.1 segment.api.useinsider.com
 127.0.0.1 mobileanalytics.useinsider.com
 127.0.0.1 api.userleap.com
@@ -7329,7 +7329,7 @@
 127.0.0.1 mwzeom.zeotap.com
 127.0.0.1 spl.zeotap.com
 127.0.0.1 bms.zeptolab.com
-127.0.0.1 www.zergnet.com
+127.0.0.1 zergnet.com
 127.0.0.1 content.zeronaught.com
 127.0.0.1 us.dev.zeronaught.com
 127.0.0.1 audience.zeustechnology.com

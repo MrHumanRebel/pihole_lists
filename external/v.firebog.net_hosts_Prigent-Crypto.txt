@@ -2282,7 +2282,7 @@
 0.0.0.0jquery-uim.do
 0.0.0.0jquery-uim.download
 0.0.0.0jquerystatistics.org
-0.0.0.0jqwww.download
+0.0.0.0jqdownload
 0.0.0.0jqxrrygqnagn.ru
 0.0.0.0jroqvbvw.info
 0.0.0.0js.ftp0118.info
@@ -4583,9 +4583,9 @@
 0.0.0.0wsp.marketgid.com
 0.0.0.0wty46.com
 0.0.0.0wupdomain.com
-0.0.0.0www.be
-0.0.0.0www.fr
-0.0.0.0www.mu
+0.0.0.0be
+0.0.0.0fr
+0.0.0.0mu
 0.0.0.0wxcoins.info
 0.0.0.0wyn-fyctunnelswc.xyz
 0.0.0.0x-mining.io
@@ -37622,8 +37622,8 @@ jquery-js.com
 jquery-uim.do
 jquery-uim.download
 jquerystatistics.org
-jqwww.do
-jqwww.download
+jqdo
+jqdownload
 jqxrrygqnagn.ru
 jrauyqdbit.bid
 jroqvbvw.info
@@ -41986,7 +41986,7 @@ vwgffbknpgxe.com
 vwimfzntn.bid
 vwpowhxrpdlmtq.bid
 vwugfpktabed.com
-vwxskpufgwww.com
+vwxskpufgcom
 vwyabrecdxxyma.bid
 vwygasjfv.bid
 vxbtrsqjnjpq.com

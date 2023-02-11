@@ -50,7 +50,7 @@ appspot-preview.l.google.com
 m.quantcount.com
 app.adjust.com
 utraffic.engine.adglare.net
-www.googleadservices.com
+googleadservices.com
 googleads.g.doubleclick.net
 securepubads.g.doubleclick.net
 ad.doubleclick.net
@@ -76,5 +76,5 @@ d.applvn.com
 a.applvn.com
 applvn.com
 leanplum.com
-www.leanplum.com
+leanplum.com
 api.leanplum.com

@@ -274,7 +274,7 @@
 0.0.0.0 insideruser.trafficmanager.net
 0.0.0.0 kmwatson.events.data.microsoft.com
 0.0.0.0 kmwatsonc.events.data.microsoft.com
-0.0.0.0 lb1.www.ms.akadns.net
+0.0.0.0 lb1.ms.akadns.net
 0.0.0.0 live.rads.msn.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 mobile.pipe.aria.microsoft.com

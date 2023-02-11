@@ -74,6 +74,6 @@ vhtcomputers.eu
 vonalkoddebrecen.hu
 web-reseau.com
 winnersjudiciary.com
-www.ecorfan.org
-www.ingetic.cl
+ecorfan.org
+ingetic.cl
 zgjexrit.beget.tech

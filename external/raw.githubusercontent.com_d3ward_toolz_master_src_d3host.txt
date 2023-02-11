@@ -1,5 +1,5 @@
-! Homepage: https://github.com/d3ward/toolz
-! Source: https://github.com/d3ward/toolz/blob/master/src/d3host.txt
+! Homepage: github.com/d3ward/toolz
+! Source: github.com/d3ward/toolz/blob/master/src/d3host.txt
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -155,7 +155,7 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
-0.0.0.0 www.cdn.ad.xiaomi.com
+0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.intl.miui.com

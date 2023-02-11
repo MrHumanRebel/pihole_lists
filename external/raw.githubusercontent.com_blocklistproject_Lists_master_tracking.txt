@@ -14920,11 +14920,11 @@
 0.0.0.0 wup.imtt.qq.com
 0.0.0.0 wwa.wipe.de
 0.0.0.0 wwpxl.com
-0.0.0.0 www.audio2.spotify.com
-0.0.0.0 www.gold.smbusinessbiz.com
-0.0.0.0 www.group-metrics.com
-0.0.0.0 www.hypertracker.com
-0.0.0.0 www.rsmtrack.com
+0.0.0.0 audio2.spotify.com
+0.0.0.0 gold.smbusinessbiz.com
+0.0.0.0 group-metrics.com
+0.0.0.0 hypertracker.com
+0.0.0.0 rsmtrack.com
 0.0.0.0 www1.mpnrs.com
 0.0.0.0 www2.a-counter.kiev.ua
 0.0.0.0 www2.mpnrs.com
