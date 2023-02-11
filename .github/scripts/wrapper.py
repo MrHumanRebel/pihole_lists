@@ -85,7 +85,11 @@ def external_url_collector():
         with open(filename, "w") as f:
             for line in lines:
                 if not line.startswith("#") and "." in line:
+                    line = line.replace("www.", "")
+                    line = line.replace("https://", "")
+                    line = line.replace("http://", "")
                     f.write(line)
+
 
 
 def get_raw_urls(folder):
