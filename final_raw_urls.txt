@@ -11,7 +11,17 @@ https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_19.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_2.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_20.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_21.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_22.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_23.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_24.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_25.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_26.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_27.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_28.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_29.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_3.txt
+https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_30.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_4.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_5.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_6.txt
