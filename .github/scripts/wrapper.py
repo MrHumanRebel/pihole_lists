@@ -152,15 +152,19 @@ def complete_blocklist_creator():
     filename = f"final/complete_blocklist_{file_count}.txt"
     with open(filename, "w+") as outfile:
         for line in addresses_to_block:
-            current_file_size += len(line.encode())
-            if current_file_size >= 5000000:  # 5 MB
-                file_count += 1
-                print(current_file_size)
-                current_file_size = 0
-                filename = f"final/complete_blocklist_{file_count}.txt"
-                outfile.close()
-                outfile = open(filename, "w+")
-            outfile.write(line + "\n")
+            if "." in line:
+                line = line.replace("www.", "")
+                line = line.replace("https://", "")
+                line = line.replace("http://", "")
+                current_file_size += len(line.encode())
+                if current_file_size >= 5000000:  # 5 MB
+                    file_count += 1
+                    print(current_file_size)
+                    current_file_size = 0
+                    filename = f"final/complete_blocklist_{file_count}.txt"
+                    outfile.close()
+                    outfile = open(filename, "w+")
+                outfile.write(line + "\n")
 
 
 def main():
