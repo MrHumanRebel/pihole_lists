@@ -145,6 +145,7 @@ def complete_blocklist_creator():
 
     urls = custom_raw_urls + external_raw_urls
     addresses_to_block = get_addresses_to_block(urls)
+    addresses_to_block.sort()  # Sort addresses_to_block alphabetically
 
     file_count = 1
     current_file_size = 0
@@ -160,9 +161,6 @@ def complete_blocklist_creator():
                 outfile.close()
                 outfile = open(filename, "w+")
             outfile.write(line + "\n")
-
-
-
 
 def main():
     print("Loading jogsertowebaruhazak_1.txt...")
