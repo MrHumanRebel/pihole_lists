@@ -117,7 +117,7 @@ def get_addresses_to_block(urls):
     for url in urls:
         lines = process_url(url)
         for line in lines:
-            if not line.startswith("#") and (re.match(r"^([a-zA-Z0-9]+(-[a-zA-Z0-9]+)*\.)+[a-zA-Z]{2,}$", line) or re.match(r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$", line)):
+            if not line.startswith("#"):
                 line = line.replace("www.", "")
                 line = line.replace("https://", "")
                 line = line.replace("http://", "")
