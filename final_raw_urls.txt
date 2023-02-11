@@ -13,7 +13,6 @@ https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_20.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_21.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_22.txt
-https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_23.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_3.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_4.txt
 https://raw.githubusercontent.com/MrHumanRebel/pihole_lists/main/final/complete_blocklist_5.txt
