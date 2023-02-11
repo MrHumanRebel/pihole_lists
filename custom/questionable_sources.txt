@@ -371,7 +371,6 @@ jocotoday.com
 jbs.org
 jonesborotimes.com
 judicialwatch.org
-justthefacts.org
 justthenews.com
 kalamazootimes.com
 kanecountyreporter.com
@@ -1007,6 +1006,7 @@ wcindiananews.com
 wciowanews.com
 wcminnesotanews.com
 wcmissnews.com
+wcmissourinews.com
 weibo.com
 welovetrump.com
 westatlantanews.com

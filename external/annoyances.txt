@@ -64,8 +64,6 @@ impots.gouv.fr
 publico.pt
 gay69.stream
 techonthenet.com
-zatznotfunny.com
-zatznotfunny.com
 html-online.com
 socialblade.com
 m4ufree.com
@@ -2237,7 +2235,6 @@ teamaretuza.com
 musicindustryhowto.com
 paesifantasma.it
 payeer-gift.ru
-uploaded.net
 theepochtimes.com
 reflectim.fr
 ribbelmonster.de
@@ -3405,3 +3402,6 @@ ziare.com
 agrointel.ro
 freefilesync.org
 01.org
+sflix.to
+magiclen.org
+virustotal.com
