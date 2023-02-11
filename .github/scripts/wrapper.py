@@ -114,6 +114,9 @@ def get_addresses_to_block(urls):
         lines = process_url(url)
         for line in lines:
             if not line.startswith("#") and (re.match(r"^([a-zA-Z0-9]+(-[a-zA-Z0-9]+)*\.)+[a-zA-Z]{2,}$", line) or re.match(r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$", line)):
+                line = line.replace("www.", "")
+                line = line.replace("https://", "")
+                line = line.replace("http://", "")
                 addresses_to_block.add(line)
     return addresses_to_block
 
@@ -144,9 +147,6 @@ def complete_blocklist_creator():
     filename = f"final/complete_blocklist_{file_count}.txt"
     with open(filename, "w+") as outfile:
         for line in addresses_to_block:
-            line = line.replace("www.", "")
-            line = line.replace("https://", "")
-            line = line.replace("http://", "")
             current_file_size += len(line.encode())
             if current_file_size >= 5000000:  # 5 MB
                 file_count += 1
