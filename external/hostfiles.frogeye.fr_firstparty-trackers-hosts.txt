@@ -2681,6 +2681,7 @@
 0.0.0.0 gbc1.va.us.criteo.com
 0.0.0.0 gbc2.da.us.criteo.com
 0.0.0.0 gbc2.fr.eu.criteo.com
+0.0.0.0 gbc2.jp2.as.criteo.com
 0.0.0.0 gbc2.nl.eu.criteo.com
 0.0.0.0 gbc2.sg1.as.criteo.com
 0.0.0.0 gbc2.va.us.criteo.com
