@@ -173,7 +173,6 @@
 0.0.0.0 forums.flatearthresearch.com
 0.0.0.0 flatearthresearch.com
 0.0.0.0 fort-russ.com
-0.0.0.0 fort-russ.com
 0.0.0.0 globalclimatescam.com
 0.0.0.0 globalclimatescam.com
 0.0.0.0 godhatesfags.com
