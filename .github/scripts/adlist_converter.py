@@ -118,6 +118,9 @@ def main():
           "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt",
           "https://easylist.to/easylist/easylist.txt",
           "https://easylist.to/easylist/easyprivacy.txt"]
+  parent_dir = "external"
+  if not os.path.exists(parent_dir):
+    os.makedirs(parent_dir)
   for i in range(10):
     inURL = urls[i]
     adList = getAdList(inURL)
