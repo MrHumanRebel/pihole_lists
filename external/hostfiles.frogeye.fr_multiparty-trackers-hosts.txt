@@ -1454,6 +1454,7 @@
 0.0.0.0 caseking01.wt-eu02.net
 0.0.0.0 cas.eu.criteo.com
 0.0.0.0 cas.jp2.vip.prod.criteo.com
+0.0.0.0 cas.nl3.vip.prod.criteo.com
 0.0.0.0 cas.par.vip.prod.criteo.com
 0.0.0.0 cas.sg1.vip.prod.criteo.com
 0.0.0.0 castorama.eulerian.net
@@ -5259,6 +5260,7 @@
 0.0.0.0 gum.criteo.com
 0.0.0.0 gum.da1.vip.prod.criteo.com
 0.0.0.0 gum.jp2.vip.prod.criteo.com
+0.0.0.0 gum.nl3.vip.prod.criteo.com
 0.0.0.0 gum.par.vip.prod.criteo.com
 0.0.0.0 gum.sg1.vip.prod.criteo.com
 0.0.0.0 gumtree.demdex.net
@@ -14864,6 +14866,7 @@
 0.0.0.0 static.criteo.net
 0.0.0.0 static.da1.vip.prod.criteo.net
 0.0.0.0 static.jp2.vip.prod.criteo.net
+0.0.0.0 static.nl3.vip.prod.criteo.net
 0.0.0.0 static.par.vip.prod.criteo.net
 0.0.0.0 static.sg1.vip.prod.criteo.net
 0.0.0.0 static.va1.vip.prod.criteo.net

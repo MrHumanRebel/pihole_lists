@@ -990,7 +990,6 @@
 0.0.0.0 vpn.heartland.org
 0.0.0.0 wiki.heartland.org
 0.0.0.0 heartland.org
-0.0.0.0 www2.heartland.org
 0.0.0.0 iasmembership.org
 0.0.0.0 1.iasmembership.org
 0.0.0.0 ads.iasmembership.org
