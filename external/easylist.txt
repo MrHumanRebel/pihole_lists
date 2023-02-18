@@ -151,14 +151,6 @@ cars.mitula.ae
 trustnet.com
 search.conduit.com
 alluc.org
-advancedrenamer.com
-cdromance.com
-epicbundle.com
-hs-exp.jp
-korail.pe.kr
-phcorner.net
-teemo.gg
-willyoupressthebutton.com
 copart.com
 starbike.com
 live365.com
@@ -366,6 +358,14 @@ cancam.jp
 saitama-np.co.jp
 xdpedia.com
 forums.overclockers.ru
+advancedrenamer.com
+cdromance.com
+epicbundle.com
+hs-exp.jp
+korail.pe.kr
+phcorner.net
+teemo.gg
+willyoupressthebutton.com
 japan-webike.be
 japan-webike.ca
 japan-webike.ch
@@ -414,6 +414,9 @@ webike.sg
 webike.tw
 webike.vn
 spoilertv.com
+apkmirror.com
+browsershots.org
+tf2r.com
 androidrepublic.org
 anonymousemail.me
 apkmirror.com
@@ -421,9 +424,6 @@ demos.krajee.com
 kadinlarkulubu.com
 pixiz.com
 spoilertv.com
-apkmirror.com
-browsershots.org
-tf2r.com
 0-000.store
 004809f9da.com
 00aaa2d81c1d174.com
@@ -1943,6 +1943,7 @@ aerialmistaken.com
 aeroded.com
 aeroplaneversion.com
 aeroselabite.space
+aerotowrefit.com
 aerugosspritz.com
 afbatqo.com
 afcnuchxgo.com
@@ -2074,6 +2075,7 @@ aggestose.com
 aggravateexaggerate.com
 aggregateknowledge.com
 aggressivefrequentneckquirky.com
+aghaneefigurae.com
 agielspick.com
 agilespatter.com
 agisdayra.com
@@ -2113,6 +2115,7 @@ ahaurgoo.net
 ahbdsply.com
 ahcdsply.com
 ahdytiyc.xyz
+aheale.com
 ahedrankslowl.com.ua
 ahedrankslowwe.xyz
 ahemsoku.net
@@ -2610,6 +2613,7 @@ aparvibices.com
 apatheticformingalbeit.com
 apathylahuli.website
 apavskmykcm.xyz
+apdijaug.com
 apearkcan.club
 apeartalb.site
 aperchwagered.com
@@ -2692,6 +2696,7 @@ aqkkoalfpz.com
 aqpogwawr.com
 aquabibchawed.website
 aquavitpathway.com
+aquentlytujim.com
 arabdevastatingpatty.com
 arablucidlygrease.com
 aralomomolachan.com
@@ -4806,6 +4811,7 @@ cheemtoo.com
 cheeradvise.com
 cheerfullycling.com
 cheerlessfunnelconcealed.com
+cheeroredraw.com
 cheerseeftapps.com
 cheerysequelhoax.com
 cheetieaha.com
@@ -5166,6 +5172,7 @@ codeonclick.com
 coderformylife.info
 codesbro.com
 codezap.com
+codsooms.net
 coedmediagroup.com
 coeliacclung.com
 coetusnappers.com
@@ -5394,6 +5401,7 @@ corepsh.top
 corkysegment.com
 corneey.com
 cornuspurfled.com
+corporategarnish.com
 cosatoos.com
 cosenflame.com
 cosetswaragi.website
@@ -7015,6 +7023,7 @@ eooperseducat.xyz
 eooslfyhziubo.com
 eoredi.com
 eosads.com
+eoseurlingeringonl.xyz
 eoseurlingeringont.com.ua
 eoweridus.com
 eozoicfirring.com
@@ -7558,6 +7567,7 @@ fightingleatherconspicuous.com
 figuredcurrantcroak.com
 fiinann.com
 fijekone.com
+fijojwylfxnlvah.com
 filchimpossible.com
 filegrab.xyz
 filehosttds.ru
@@ -7981,6 +7991,7 @@ gaijaupo.com
 gaijiglo.net
 gaimoupy.net
 gainregister.com
+gaiphaud.xyz
 gaisteem.net
 gaiteshu.net
 gaitoath.com
@@ -8197,6 +8208,7 @@ gigacpmserv.com
 giglelazo.pro
 gilarditus.com
 gilgamesh-amu.com
+gilinstruggle.org
 gillotjugful.com
 gillynn.com
 gimiliminibi.com
@@ -8720,6 +8732,7 @@ hamply.com
 hamsterglobins.com
 hamusprecony.com
 handbagcordial.com
+handsenvious.com
 handspiketha.xyz
 handtub.com
 handy-tab.com
@@ -8894,6 +8907,7 @@ herheads.xyz
 herhomeou.xyz
 hermichermicfurnished.com
 hernialbriefer.com
+herodiessujed.org
 heroinslagunes.com
 herthyptal.com
 hesterinoc.info
@@ -9621,6 +9635,7 @@ intro4ads.com
 introfykeeler.tech
 intrudeaccess.com
 intrudesome.com
+intrustplatch.com
 intuitspisan.com
 inuapixndextq.xyz
 inuregestura.com
@@ -9800,6 +9815,7 @@ jambultoxamin.com
 jamdomn.pro
 jame3s67jo9yc4e.com
 jamsoulsfriday.com
+jandaqwe.com
 janendark.life
 janglemysticalpiggy.com
 jangonetwork.com
@@ -9908,6 +9924,7 @@ jincanfohn.website
 jingenfirm.com
 jinjaoathful.uno
 jinterests-1.com
+jiordgxkpglzm.com
 jipo.io
 jipone.xyz
 jissingirgoa.com
@@ -10133,6 +10150,7 @@ karayarillock.cam
 kareaumatzot.com
 karsauwi.xyz
 karshagirdled.com
+kartingsoja.com
 karvarcloit.com
 kasheglesy.pro
 kastafor.com
@@ -10378,6 +10396,7 @@ krjxhvyyzp.com
 krkursist.com
 kronervisile.com
 kronosspell.com
+krsvpobbneyj.com
 ksehinkitw.hair
 kt5850pjz0.com
 ktkjmp.com
@@ -10861,6 +10880,7 @@ lockfireshimself.com
 lockingadmitted.com
 lockramnombles.life
 locomotiveconvenientriddle.com
+locusupsetting.com
 lodder6.biz
 loddingtoto.one
 lodrug.com
@@ -11958,6 +11978,7 @@ naganoadigei.com
 naggingirresponsible.com
 naggingrugcolossal.com
 nagrande.com
+nahccnovft.com
 naigristoa.com
 naisoops.net
 nakamasweb.com
@@ -12179,6 +12200,7 @@ nicertie.com
 nicesthoarfrostsooner.com
 nicheads.com
 nichedlinks.com
+nichegreatunemployment.com
 nichools.com
 nichrnmxrlplt.com
 nickeeha.net
@@ -12425,6 +12447,7 @@ nurno.com
 nurobi.info
 nursecompellingsmother.com
 nuseek.com
+nutattorneyjack.com
 nutlonging.com
 nutrientassumptionclaims.com
 nutritionassureroast.com
@@ -12528,6 +12551,7 @@ obstructionsaint.com
 obtainadopteddeliberately.com
 obtainlylibuk.club
 obtaintrenchhooray.com
+obtrol.com
 obvious-lesson.pro
 oc2tdxocb3ae0r.com
 ocated.com
@@ -13340,6 +13364,7 @@ peaterylebes.guru
 pebadu.com
 peckleooze.com
 pectationselea.xyz
+peculiaritiesdiarrhoeareproduce.com
 peculiaritiesimaginationembankment.com
 pedestalturner.com
 pedestrianneighbourly.com
@@ -13369,6 +13394,7 @@ pegloang.com
 peirs5tbakchios.com
 pejzeexukxo.com
 pelagicmismate.com
+peliomaafb.com
 pemainedperio.com
 pendulumkeg.com
 pengobyzant.com
@@ -13474,6 +13500,7 @@ phantomtheft.com
 pharaohsteven.com
 phardain.xyz
 pharmcash.com
+phartemt.xyz
 phastoag.com
 phaudree.com
 phaurtuh.net
@@ -14250,6 +14277,7 @@ ptookaih.net
 ptoosteg.com
 ptoumsid.net
 ptoushoa.com
+ptousteg.net
 ptoutsexe.com
 ptp22.com
 ptp24.com
@@ -14498,6 +14526,7 @@ qingjiedi.com
 qinvaris.com
 qivaiw.com
 qiyascoolth.com
+qkouawnjejedvno.xyz
 qksrv.biz
 qksrv.cc
 qksrv.net
@@ -15446,6 +15475,7 @@ ryeeffortoccupy.com
 ryminos.com
 ryntmyhahy.com
 rysheatlengthani.com.ua
+rysheatlengthanl.xyz
 rysubmission.biz
 rzneekilff.com
 s-adzone.com
@@ -15552,6 +15582,7 @@ sannupsendysis.uno
 sansaramedulla.website
 santonpardal.com
 saouknatst.com
+sapdealtsalary.com
 sapiaostremma.com
 sapsixysho.pro
 saptiledispatch.com
@@ -16595,6 +16626,7 @@ stentorsaumont.com
 step-step-go.com
 stepkeydo.com
 stepmotherincomingpluck.com
+steppedremold.com
 steppesshirvan.com
 stepsothohe.pro
 sterilecute.com
@@ -16977,6 +17009,7 @@ talkmego.com
 talliedhorrors.digital
 tallyhoquires.com
 tallysaturatesnare.com
+talrahot.net
 talsauve.com
 tamperstationerycultivate.com
 tanandatable.com
@@ -17024,6 +17057,7 @@ tazzasembays.digital
 tberjonk.com
 tbhenherthertindn.xyz
 tbm09.com
+tbnjommwuydfxp.com
 tbplcam.com
 tbv157xq.com
 tcaadwa.com
@@ -17508,6 +17542,7 @@ toprevenuenetwork.com
 topsoftlinks.ru
 topsummerapps.net
 topswp.com
+topvids.info
 topvisitnow.com
 toretimeout.com
 torioluor.com
@@ -17637,6 +17672,7 @@ traveladvertising.com
 travelingturtleharmonious.com
 travelscream.com
 travidia.com
+travropuxonv.com
 trawahdh2hd8nbvy09.com
 trblocked.com
 trc85.com
@@ -17897,6 +17933,7 @@ ucconn.live
 ucdn.website
 ucheephu.com
 uchkzmzehr.com
+uciucpednjmxk.xyz
 uckbrokennailsa.xyz
 ucvscfrtrnbr.xyz
 udarem.com
@@ -18102,6 +18139,7 @@ unruly-addition.pro
 unrulymedia.com
 unrulymorning.pro
 unsaltyalemmal.com
+unsbnvwjn.xyz
 unseenreport.com
 unsigilyphor.com
 unskilfulknowingservers.com
@@ -18916,6 +18954,7 @@ wheeptit.net
 wheers.com
 wheeshoo.net
 wheeshtdooring.com
+wheftouw.xyz
 whefungu.com
 whegrads.com
 whelia.com
@@ -19187,6 +19226,7 @@ wptkoqcnewqnipd.xyz
 wpu.sh
 wpunativesh.com
 wpush.org
+wqjbldnnceroue.com
 wqlkp.com
 wqzyxxrrep.com
 wrathfultower.pro
@@ -22270,6 +22310,7 @@ glimpsemankind.com
 glitteridentifiernavy.com
 glixaing.com
 glizauvo.net
+globaladblocker.com
 globwo.online
 glochykeste.pro
 glookroz.net
@@ -22762,6 +22803,8 @@ nasssmedia.com
 nathanaeldan.pro
 native-track.com
 nauseouschangeable.com
+naveljutmistress.com
+nczjy.com
 ndweandthep.xyz
 nebulouslostpremium.com
 neckshrinevastly.com
@@ -23019,6 +23062,7 @@ postlnk.com
 postponeacademic.com
 potawe.com
 potpourrichordataoscilloscope.com
+potsaglu.net
 pp98trk.com
 prawnsimply.com
 prayersstingy.com
@@ -23667,6 +23711,7 @@ vpnoffers.cc
 vpnoffers.info
 vpnoffers.net
 vq40567.com
+vxzcvks.net
 wackeerd.com
 wadmargincling.com
 waframedia5.com
@@ -25098,6 +25143,7 @@ da3uf5ucdz00u.cloudfront.net
 da5h676k6d22w.cloudfront.net
 dagd0kz7sipfl.cloudfront.net
 dal9hkyfi0m0n.cloudfront.net
+db033pq6bj64g.cloudfront.net
 dba9ytko5p72r.cloudfront.net
 dbcdqp72lzmvj.cloudfront.net
 dby7kx9z9yzse.cloudfront.net
@@ -25981,6 +26027,7 @@ kotaku.com
 cpuid.com
 miniwebtool.com
 gearspace.com
+coinhub.wiki
 modshost.com
 scanboat.com
 allnewspipeline.com
@@ -26277,6 +26324,7 @@ datpiff.com
 logotv.com
 newcartestdrive.com
 news.sky.com
+news.tvguide.co.uk
 onthesnow.ca
 onthesnow.co.nz
 onthesnow.co.uk
@@ -26624,6 +26672,7 @@ searchenginejournal.com
 streams.tv
 dashnet.org
 vk.com
+vk.ru
 gumtree.com
 drivespark.com
 goodreturns.in
@@ -26749,11 +26798,11 @@ oxfordlearnersdictionaries.com
 atomic-robo.com
 google.com
 charlieintel.com
-techpp.com
 pcworld.com
 techhive.com
 trumparea.com
 kuklaskorner.com
+iheart.com
 thequint.com
 my.juno.com
 forum.mobilism.org
@@ -27454,6 +27503,7 @@ vice.com
 7billionworld.com
 9jaflaver.com
 achieveronline.co.za
+canstar.com.au
 canstarblue.co.nz
 climatechangenews.com
 cryptonomist.ch
@@ -27721,6 +27771,7 @@ thecatholicthing.org
 weatherwatch.co.nz
 wheels.ca
 woot.com
+worldofbitco.in
 radiocity.in
 trumparea.com
 radiocity.in
@@ -28224,6 +28275,7 @@ primedia.co.za
 eightieskids.com
 brobible.com
 vaughn.live
+techpp.com
 karachicorner.com
 arydigital.tv
 barakbulletin.com
@@ -28351,7 +28403,6 @@ androidsage.com
 anoopcnair.com
 askpython.com
 bigleaguepolitics.com
-bleachernation.com
 browserhow.com
 charlieintel.com
 chromeunboxed.com
@@ -28446,6 +28497,7 @@ mangakakalot.com
 font-generator.com
 ina.fr
 thejournal-news.net
+coinhub.wiki
 jokersupdates.com
 worldscreen.com
 bbh.cc
@@ -28471,6 +28523,7 @@ technewsworld.com
 discord.me
 searchenginejournal.com
 ancient-origins.net
+nationalmemo.com
 usedcarnews.com
 live-tennis.eu
 imdb.com
@@ -28610,6 +28663,7 @@ protipster.com
 flightconnections.com
 legacy.com
 designtaxi.com
+theodysseyonline.com
 readcomiconline.li
 jpost.com
 tigerdroppings.com
@@ -28965,6 +29019,7 @@ freeads.co.uk
 filecrypt.cc
 filecrypt.co
 daijiworld.com
+miragenews.com
 moneycontrol.com
 windowsreport.com
 johncodeos.com
@@ -29280,6 +29335,7 @@ babynamegenie.com
 forless.com
 worldtimeserver.com
 weatherpro.com
+nationalmemo.com
 gosearchresults.com
 privateproperty.co.za
 researchgate.net
@@ -29804,6 +29860,7 @@ foxbusiness.com
 sassymamahk.com
 vivo.sx
 premiumtimesng.com
+sulekha.com
 pixabay.com
 flobzoo.com
 onlyfungames.com
@@ -29846,6 +29903,7 @@ themarysue.com
 fitnessmagazine.com
 texasmonthly.com
 uxmatters.com
+reviversoft.com
 videobb.com
 animecharactersdatabase.com
 thedailydigest.com
@@ -30034,7 +30092,6 @@ rappler.com
 gobankingrates.com
 mydorpie.com
 forebet.com
-spectrum.ieee.org
 reverso.net
 just-dice.com
 bettycrocker.com
@@ -30064,6 +30121,7 @@ timeextension.com
 idropnews.com
 ranker.com
 timesofindia.indiatimes.com
+miragenews.com
 4shared.com
 runningmagazine.ca
 bbjtoday.com
@@ -30479,6 +30537,7 @@ sbenny.com
 emoneyspace.com
 ucompares.com
 protocol.com
+spectrum.ieee.org
 mdisk.me
 ghanaweb.com
 thefastmode.com
@@ -30705,6 +30764,7 @@ doodrive.com
 igg-games.com
 softarchive.is
 pixhost.to
+hidefninja.com
 bobvila.com
 sciencedaily.com
 gpucheck.com
@@ -31459,6 +31519,7 @@ searchenginereports.net
 hqq.to
 hqq.tv
 megaplay.cc
+plushd.bio
 kroger.com
 facebook.com
 facebookcorewwwi.onion
@@ -31575,6 +31636,9 @@ historycollection.com
 groovypost.com
 technologyreview.com
 localjewishnews.com
+nationalmemo.com
+spectrum.ieee.org
+theodysseyonline.com
 mydramalist.com
 kijiji.ca
 semafor.com
@@ -31661,6 +31725,7 @@ onworks.net
 timeout.com
 javacodegeeks.com
 digg.com
+wikitechy.com
 business2community.com
 competenetwork.com
 titantv.com
@@ -31675,6 +31740,7 @@ gamebyte.com
 progamerage.com
 howtogeek.com
 realtalk933.com
+smallnetbuilder.com
 nytimes.com
 nytimes3xbfgragh.onion
 express.co.uk
@@ -31745,6 +31811,7 @@ google.com
 google.com.bd
 google.com.pk
 unionpedia.org
+bleachernation.com
 thetealmango.com
 lasentinel.net
 point2homes.com
@@ -32743,6 +32810,7 @@ msn.com
 bing.com
 sbs.com.au
 slashdot.org
+imgur.com
 9gag.com
 newsweek.com
 imgur.com

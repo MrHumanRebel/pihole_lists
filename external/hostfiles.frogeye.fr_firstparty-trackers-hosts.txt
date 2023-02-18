@@ -387,6 +387,7 @@
 0.0.0.0 ads.genieessp.com
 0.0.0.0 ads.imbc.com
 0.0.0.0 ads.jp2.vip.prod.criteo.com
+0.0.0.0 ads.nl3.vip.prod.criteo.com
 0.0.0.0 ads.par.vip.prod.criteo.com
 0.0.0.0 ads.sg1.vip.prod.criteo.com
 0.0.0.0 ads.spacenine.biz
@@ -939,6 +940,7 @@
 0.0.0.0 cati.mcad.com
 0.0.0.0 catimini-boutique-com.eulerian.net
 0.0.0.0 cat.jp2.vip.prod.criteo.com
+0.0.0.0 cat.nl3.vip.prod.criteo.com
 0.0.0.0 cat.nl.eu.criteo.com
 0.0.0.0 cat.par.vip.prod.criteo.com
 0.0.0.0 catracking.finning.com
@@ -954,6 +956,7 @@
 0.0.0.0 cbsd.am5.vip.prod.criteo.com
 0.0.0.0 cbsd.da1.vip.prod.criteo.com
 0.0.0.0 cbsdigitalmedia.hb.omtrdc.net
+0.0.0.0 cbsd.nl3.vip.prod.criteo.com
 0.0.0.0 cbsd.par.vip.prod.criteo.com
 0.0.0.0 cbsd.va1.vip.prod.criteo.com
 0.0.0.0 cbs.hb-api.omtrdc.net
@@ -1701,6 +1704,7 @@
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dynamic.da1.vip.prod.criteo.com
 0.0.0.0 dynamic.jp2.vip.prod.criteo.com
+0.0.0.0 dynamic.nl3.vip.prod.criteo.com
 0.0.0.0 dynamic.par.vip.prod.criteo.com
 0.0.0.0 dynamic.sg1.vip.prod.criteo.com
 0.0.0.0 dynamic.va1.vip.prod.criteo.com
@@ -2677,6 +2681,7 @@
 0.0.0.0 gbc1.da.us.criteo.com
 0.0.0.0 gbc1.fr.eu.criteo.com
 0.0.0.0 gbc1.jp2.as.criteo.com
+0.0.0.0 gbc1.nl3.eu.criteo.com
 0.0.0.0 gbc1.nl.eu.criteo.com
 0.0.0.0 gbc1.sg1.as.criteo.com
 0.0.0.0 gbc1.va.us.criteo.com
@@ -7127,6 +7132,7 @@
 0.0.0.0 mug.criteo.com
 0.0.0.0 mug.da1.vip.prod.criteo.com
 0.0.0.0 mug.jp2.vip.prod.criteo.com
+0.0.0.0 mug.nl3.vip.prod.criteo.com
 0.0.0.0 mug.par.vip.prod.criteo.com
 0.0.0.0 mug.sg1.vip.prod.criteo.com
 0.0.0.0 mug.va1.vip.prod.criteo.com
@@ -13765,6 +13771,7 @@
 0.0.0.0 widget.as.criteo.com
 0.0.0.0 widget.da1.vip.prod.criteo.com
 0.0.0.0 widget.jp2.vip.prod.criteo.com
+0.0.0.0 widget.nl3.vip.prod.criteo.com
 0.0.0.0 widget.par.vip.prod.criteo.com
 0.0.0.0 widget.sg1.vip.prod.criteo.com
 0.0.0.0 widget.us.criteo.com

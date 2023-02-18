@@ -370,7 +370,6 @@ adsdk.yandex.ru #Yandex - Advertising
 adservd.com #Unknown - Advertising
 adserve.work #Unknown - Advertising
 adserve.zone #Adserve - Advertising
-adserver.automobilwoche.de #Revive Adserver - Advertising
 adserver.boersen-zeitung.de #Revive Adserver - Advertising
 adserver.diariodosertao.com.br #Revive Adserver - Advertising
 adserver.doccheck.com #doccheck.com - Advertising
@@ -560,7 +559,6 @@ allawnos.com #Unknown - Advertising
 alleviatepracticableaddicted.com #AdMeasures - Advertising
 allotupwardmalicious.com #AdMeasures - Advertising
 allvideometrika.com #Unknown - Tracker
-almostspend.com #AdMeasures - Advertising
 alooma.com #Google - Tracker
 alphonso.tv #Alphonso - Advertising
 alternativecpmgate.com #AdMeasures - Advertising
@@ -13830,7 +13828,6 @@ oatmeallump.com #AdMeasures - Advertising
 obashwmzrfofi.com #Unknown - Advertising
 obituaryfuneral.com #AdMeasures - Advertising
 obnoxiouspatrolassault.com #AdMeasures - Advertising
-obnoxiousstackderide.com #AdMeasures - Advertising
 occurclaimed.com #AdMeasures - Advertising
 oclaserver.com #Unknown - Tracker
 oclasrv.com #Unknown - Advertising
@@ -14304,7 +14301,6 @@ r7ls.net #Impact Radius - Tracker
 rad.live.com #Microsoft - Tracker
 radarwitch.com #AdMeasures - Advertising
 radiantsands.com #Unknown Chinese - Tracker
-radiantskilled.com #cloud-dns-tech - Advertising
 radiumone.com #RadiumOne - Tracker
 raggedstriking.com #AdMeasures - Advertising
 railroadheroicgold.com #AdMeasures - Advertising

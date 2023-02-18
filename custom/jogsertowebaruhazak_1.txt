@@ -127,4 +127,3 @@ sega-trade.hu
 outletmax.hu
 reisser.hu
 abagumi.hu
-notebook.hu
