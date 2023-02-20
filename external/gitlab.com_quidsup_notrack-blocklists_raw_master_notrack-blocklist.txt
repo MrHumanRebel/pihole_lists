@@ -875,6 +875,7 @@ attn.tv #Attentive - Tracker
 attributedminded.com #AdMeasures - Advertising
 attributionapp.com #Attribution - Tracker
 atwola.com #AOL - Advertising
+audaciousdefault.com #AdMeasures - Advertising
 audienceinsights.net #Adthink - Tracker
 audiencemanager.de #Nano Interactive - Tracker
 audioeye.com #AudioEye - Tracker
@@ -1028,6 +1029,7 @@ bis-dic15.com #Lead Forensics - Tracker
 bisrv.com #Unknown - Tracker
 bitmedia.io #Bitmedia - Advertising
 bitmovin.com #Bitmovin - Tracker
+bittygravely.com #AdMeasures - Advertising
 bizible.com #Bizible - Tracker
 bizographics.com #Bizographics - Advertising
 bkrtx.com #Oracle - Tracker
@@ -1517,6 +1519,7 @@ datatracking.zeddit.com #First Party - Tracker
 datawrapper.de #Datawrapper - Tracker
 datingshall.life #Unknown - Advertising
 daudejuw.com #Unknown - Advertising
+daughtersanything.com #AdMeasures - Advertising
 dauup.com #DAU-UP - Advertising
 dazeads1.online #Unknown - Advertising
 dazedengage.com #AdMeasures - Advertising
@@ -1646,7 +1649,6 @@ dowjoneson.com #Unknown - Tracker
 dpmsrv.com #Unknown - Tracker
 draggedgram.com #AdMeasures - Advertising
 draggedindicationconsiderable.com #cloud-dns-tech - Advertising
-dragonspontaneous.com #cloud-dns-tech - Advertising
 drawingwheels.com #AdMeasures - Advertising
 dressipi.com #Unknown - Tracker
 drift.com #Drift - Tracker
@@ -1882,7 +1884,6 @@ face3media.com #Face3 Media - Advertising
 facesnotebook.com #AdMeasures - Advertising
 facetz.net #Exebid DCA - Tracker
 facilitategovernor.com #AdMeasures - Advertising
-facilitatevoluntarily.com #AdMeasures - Advertising
 fadsimz.com #AdMeasures - Advertising
 failover-telemetry-eu.tradingview.com #First Party - Tracker
 faintestlogic.com #AdMeasures - Advertising
@@ -4435,6 +4436,7 @@ mkt11459.com #IBM Silverpop - Advertising
 mkt1146.com #IBM Silverpop - Advertising
 mkt11460.com #IBM Silverpop - Advertising
 mkt11462.com #IBM Silverpop - Advertising
+mkt11463.com #IBM Silverpop - Advertising
 mkt11464.com #IBM Silverpop - Advertising
 mkt11465.com #IBM Silverpop - Advertising
 mkt11466.com #IBM Silverpop - Advertising
@@ -4493,6 +4495,7 @@ mkt11521.com #IBM Silverpop - Advertising
 mkt11522.com #IBM Silverpop - Advertising
 mkt11523.com #IBM Silverpop - Advertising
 mkt11524.com #IBM Silverpop - Advertising
+mkt11527.com #IBM Silverpop - Advertising
 mkt1153.com #IBM Silverpop - Advertising
 mkt1154.com #IBM Silverpop - Advertising
 mkt11544.com #IBM Silverpop - Advertising
@@ -4504,6 +4507,7 @@ mkt1155.com #IBM Silverpop - Advertising
 mkt11550.com #IBM Silverpop - Advertising
 mkt11551.com #IBM Silverpop - Advertising
 mkt11552.com #IBM Silverpop - Advertising
+mkt11553.com #IBM Silverpop - Advertising
 mkt11554.com #IBM Silverpop - Advertising
 mkt11557.com #IBM Silverpop - Advertising
 mkt11558.com #IBM Silverpop - Advertising
@@ -4513,8 +4517,10 @@ mkt11561.com #IBM Silverpop - Advertising
 mkt11563.com #IBM Silverpop - Advertising
 mkt11565.com #IBM Silverpop - Advertising
 mkt11567.com #IBM Silverpop - Advertising
+mkt11568.com #IBM Silverpop - Advertising
 mkt11569.com #IBM Silverpop - Advertising
 mkt1157.com #IBM Silverpop - Advertising
+mkt11573.com #IBM Silverpop - Advertising
 mkt11576.com #IBM Silverpop - Advertising
 mkt1158.com #IBM Silverpop - Advertising
 mkt11588.com #IBM Silverpop - Advertising
@@ -13627,7 +13633,6 @@ mobilexpression.com #MobileXpression - Tracker
 mobpartner.mobi #MobPartner - Advertising
 mobytrks.com #Unknown - Tracker
 mocean.mobi #PubMatic - Advertising
-moderatepartsindependently.com #AdMeasures - Advertising
 modificationdispatch.com #AdMeasures - Advertising
 modifiedseem.com #AdMeasures - Advertising
 modoro360.com #Unknown - Advertising
@@ -14026,7 +14031,6 @@ piano.io #Piano - Tracker
 picanalysis.vivo.com.cn #Vivo - Tracker
 picreel.com #Picreel - Tracker
 pictela.net #AOL - Advertising
-pierremarkeraffliction.com #AdMeasures - Advertising
 piksel.com #Unknown - Tracker
 ping.staticmoly.me #First Party - Tracker
 ping.ublock.org #ublock.org - Tracker
@@ -15652,6 +15656,7 @@ srmdata-eur.com #Unknown - Advertising
 srvpub.com #RevenueHits - Tracker
 ssacdn.com #Supersonic Mobile - Advertising
 ssite.waitrose.com #waitrose.com - Tracker
+ssl2anyone3.com #AdMeasures - Advertising
 ssp.rambler.ru #First Party - Tracker
 ssrwndhvtijmdtr.com #Unknown - Advertising
 sstats.adobe.com #Adobe CNAME - Tracker
@@ -16324,7 +16329,6 @@ vihub.ru #Between Exchange - Advertising
 viiadr.com #Unknown - Tracker
 vilynx.com #Vilynx - Tracker
 vindicosuite.com #Unknown - Tracker
-vinegarfactorelevator.com #AdMeasures - Advertising
 vintagerespectful.com #AdMeasures - Advertising
 viqeo.tv #Viqeo - Tracker
 viral782.com #Unknown - Tracker
