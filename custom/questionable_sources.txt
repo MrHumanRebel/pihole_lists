@@ -409,6 +409,7 @@ libertybell.com
 libertyhangout.org
 libertytalk.fm
 libertywire.net
+libsoftiktok.com
 lifenews.com
 lifesitenews.com
 lindelltv.com
@@ -593,6 +594,7 @@ northsfvtoday.com
 northsgvnews.com
 northshorelanews.com
 northstlnews.com
+nwmontananews.com
 nwwaynenews.com
 nwlaketimes.com
 northwichitanews.com
@@ -1047,6 +1049,7 @@ wichitastandard.com
 willcountygazette.com
 winecountrytimes.com
 wiregrasstimes.com
+wisconsindailystar.com
 wisconsinlaketimes.com
 thepublicdiscourse.com
 wndnewscenter.org
