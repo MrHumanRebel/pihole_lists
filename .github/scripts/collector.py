@@ -1,8 +1,11 @@
+import re
 import requests
+import warnings
+from bs4 import BeautifulSoup
 import os
 
-def external_url_collector():
 
+def external_blocklist_collector():
     with open("docs/urls.txt") as file:
         urls = [line.strip() for line in file]
 
@@ -13,8 +16,9 @@ def external_url_collector():
     for url in urls:
         filename = f"{parent_dir}/{url.replace('/', '_')}"
         filename = filename.replace("https:__", "")
+        print(filename)
         with open(filename, "w") as f:
-            response = requests.get(url)
+            response = requests.get(url, verify=False)
             text = response.text.rstrip()
             f.write(text)
         with open(filename, "r") as f:
@@ -22,4 +26,13 @@ def external_url_collector():
         with open(filename, "w") as f:
             for line in lines:
                 if not line.startswith("#") and "." in line:
+                    line = line.replace("www.", "")
+                    line = line.replace("https://", "")
+                    line = line.replace("http://", "")
                     f.write(line)
+
+
+def main():
+    external_blocklist_collector()
+
+main()

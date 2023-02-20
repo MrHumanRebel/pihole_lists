@@ -7,7 +7,6 @@ on:
   schedule:
     - cron: "30 11 * * *"
     
-   
 jobs:
   WebScraper:
     runs-on: ubuntu-latest
@@ -21,16 +20,82 @@ jobs:
       - name: Install dependencies
         run: |
           if [ -f .github/workflows/requirements.txt ]; then pip install -r .github/workflows/requirements.txt; fi
-      - name: Execute wrapper.py
+      - name: Execute jogsertowebaruhazak
         run: |
           git pull
-          python .github/scripts/wrapper.py
+          python .github/scripts/jogsertowebaruhazak.py
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git push            
+          git push        
+      - name: Execute questionable_sources
+        run: |
+          git pull
+          python .github/scripts/questionable_sources.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git push     
+      - name: Execute collector
+        run: |
+          git pull
+          python .github/scripts/collector.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git push  
       - name: Commit all changes
         run: |
           git pull
           git commit -m "auto refresh"
           git push 
+  Complete Blocklist:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout repo content
+          uses: actions/checkout@v3
+        - name: Setup python
+          uses: actions/setup-python@v4
+          with:
+            python-version: 3.8
+        - name: Install dependencies
+          run: |
+            if [ -f .github/workflows/requirements.txt ]; then pip install -r .github/workflows/requirements.txt; fi
+        - name: Execute wrapper
+          run: |
+            git pull
+            python .github/scripts/wrapper.py
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add .
+            git push        
+        - name: Commit all changes
+          run: |
+            git pull
+            git commit -m "auto refresh"
+            git push 
+  GitRaw:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Checkout repo content
+            uses: actions/checkout@v3
+          - name: Setup python
+            uses: actions/setup-python@v4
+            with:
+              python-version: 3.8
+          - name: Install dependencies
+            run: |
+              if [ -f .github/workflows/requirements.txt ]; then pip install -r .github/workflows/requirements.txt; fi
+          - name: Execute getraw
+            run: |
+              git pull
+              python .github/scripts/getraw.py
+              git config user.name github-actions
+              git config user.email github-actions@github.com
+              git add .
+              git push        
+          - name: Commit all changes
+            run: |
+              git pull
+              git commit -m "auto refresh"
+              git push 
