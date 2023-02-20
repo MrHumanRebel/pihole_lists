@@ -49,7 +49,7 @@ jobs:
           git pull
           git commit -m "auto refresh"
           git push 
-  Complete Blocklist:
+  CompleteBlocklist:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout repo content
