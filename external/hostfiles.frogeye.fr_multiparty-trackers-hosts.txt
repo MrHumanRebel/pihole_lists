@@ -1222,6 +1222,7 @@
 0.0.0.0 bmwag.demdex.net
 0.0.0.0 bmwit.demdex.net
 0.0.0.0 bmwmini.demdex.net
+0.0.0.0 b.nl3.vip.prod.criteo.com
 0.0.0.0 bnpsharekhan.demdex.net
 0.0.0.0 b.ns1p.net
 0.0.0.0 boardriders.demdex.net
@@ -3975,6 +3976,7 @@
 0.0.0.0 gbc0.da.us.criteo.com
 0.0.0.0 gbc0.fr.eu.criteo.com
 0.0.0.0 gbc0.jp2.as.criteo.com
+0.0.0.0 gbc0.nl3.eu.criteo.com
 0.0.0.0 gbc0.nl.eu.criteo.com
 0.0.0.0 gbc0.sg1.as.criteo.com
 0.0.0.0 gbc0.va.us.criteo.com
@@ -3988,12 +3990,14 @@
 0.0.0.0 gbc2.da.us.criteo.com
 0.0.0.0 gbc2.fr.eu.criteo.com
 0.0.0.0 gbc2.jp2.as.criteo.com
+0.0.0.0 gbc2.nl3.eu.criteo.com
 0.0.0.0 gbc2.nl.eu.criteo.com
 0.0.0.0 gbc2.sg1.as.criteo.com
 0.0.0.0 gbc2.va.us.criteo.com
 0.0.0.0 gbc3.da.us.criteo.com
 0.0.0.0 gbc3.fr.eu.criteo.com
 0.0.0.0 gbc3.jp2.as.criteo.com
+0.0.0.0 gbc3.nl3.eu.criteo.com
 0.0.0.0 gbc3.nl.eu.criteo.com
 0.0.0.0 gbc3.sg1.as.criteo.com
 0.0.0.0 gbc3.va.us.criteo.com
