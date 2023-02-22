@@ -449,6 +449,7 @@ en.mehrnews.com
 mercedtimes.com
 en.mercopress.com
 merrimackvalleynews.com
+mesatimes.com
 en.metapedia.org
 metricmedianews.com
 metroeastsun.com
@@ -822,6 +823,7 @@ southsfbaynews.com
 southsgvnews.com
 southstlnews.com
 swillinoisnews.com
+swmontanatimes.com
 southwichitanews.com
 springfieldcitywire.com
 springfieldstandard.com
@@ -919,6 +921,7 @@ freetelegraph.com
 thefrisky.com
 thegatewaypundit.com
 thegrayzone.com
+thehayride.com
 thehornnews.com
 thejewishvoice.com
 joerogan.com
