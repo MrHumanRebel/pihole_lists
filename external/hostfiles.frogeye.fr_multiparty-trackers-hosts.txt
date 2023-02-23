@@ -1496,6 +1496,7 @@
 0.0.0.0 cbn.hb.omtrdc.net
 0.0.0.0 cbsd.am5.vip.prod.criteo.com
 0.0.0.0 cbsd.da1.vip.prod.criteo.com
+0.0.0.0 cbsd.eu.criteo.com
 0.0.0.0 cbsdigitalmedia.hb.omtrdc.net
 0.0.0.0 cbsd.nl3.vip.prod.criteo.com
 0.0.0.0 cbsd.par.vip.prod.criteo.com
