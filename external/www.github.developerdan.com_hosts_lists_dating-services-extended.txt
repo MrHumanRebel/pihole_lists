@@ -281,6 +281,7 @@
 0.0.0.0 blog.chathub.cam
 0.0.0.0 stg.chathub.cam
 0.0.0.0 chathub.cam
+0.0.0.0 skipthegames.cam
 0.0.0.0 ayala.chat
 0.0.0.0 boo.chat
 0.0.0.0 bemoji.boo.chat
@@ -6223,6 +6224,7 @@
 0.0.0.0 datemyschool.com
 0.0.0.0 3860008483142942596.datemyschool.com
 0.0.0.0 activate.datemyschool.com
+0.0.0.0 analytics.datemyschool.com
 0.0.0.0 android.datemyschool.com
 0.0.0.0 assets.datemyschool.com
 0.0.0.0 assets0.datemyschool.com
@@ -6272,6 +6274,7 @@
 0.0.0.0 sjsu.datemyschool.com
 0.0.0.0 smtp01.datemyschool.com
 0.0.0.0 st.datemyschool.com
+0.0.0.0 staging.datemyschool.com
 0.0.0.0 stanford.datemyschool.com
 0.0.0.0 stanforddev.datemyschool.com
 0.0.0.0 static.datemyschool.com

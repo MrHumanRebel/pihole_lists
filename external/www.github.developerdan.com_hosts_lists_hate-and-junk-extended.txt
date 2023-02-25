@@ -46,15 +46,6 @@
 0.0.0.0 old.qresear.ch
 0.0.0.0 relaunch.qresear.ch
 0.0.0.0 qresear.ch
-0.0.0.0 niggermania.co
-0.0.0.0 autodiscover.niggermania.co
-0.0.0.0 cpanel.niggermania.co
-0.0.0.0 cpcalendars.niggermania.co
-0.0.0.0 cpcontacts.niggermania.co
-0.0.0.0 mail.niggermania.co
-0.0.0.0 webdisk.niggermania.co
-0.0.0.0 webmail.niggermania.co
-0.0.0.0 niggermania.co
 0.0.0.0 stateofthenation.co
 0.0.0.0 admin.stateofthenation.co
 0.0.0.0 cpanel.stateofthenation.co

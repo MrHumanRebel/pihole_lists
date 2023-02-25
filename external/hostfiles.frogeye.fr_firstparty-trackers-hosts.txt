@@ -2718,6 +2718,7 @@
 0.0.0.0 gbc6.da.us.criteo.com
 0.0.0.0 gbc6.fr.eu.criteo.com
 0.0.0.0 gbc6.jp2.as.criteo.com
+0.0.0.0 gbc6.nl3.eu.criteo.com
 0.0.0.0 gbc6.nl.eu.criteo.com
 0.0.0.0 gbc6.sg1.as.criteo.com
 0.0.0.0 gbc6.va.us.criteo.com
