@@ -2267,7 +2267,6 @@
 0.0.0.0 mail.bangla.net
 0.0.0.0 mail.cyberh.fr
 0.0.0.0 mail.hallym.ac.kr
-0.0.0.0 mail.hz.zh.cn
 0.0.0.0 mail.imamu.edu.sa
 0.0.0.0 mail.interq.or.jp
 0.0.0.0 mail.ioc.ac.ru
@@ -2275,10 +2274,8 @@
 0.0.0.0 mail.pmo.ac.cn
 0.0.0.0 mail.siom.ac.cn
 0.0.0.0 mail.tropmet.res.in
-0.0.0.0 mail.tsinghua.edu.cn
 0.0.0.0 mail1.371.net
 0.0.0.0 maillots-ffoot-actu.fr
-0.0.0.0 mails.cneic.com.cn
 0.0.0.0 mailtrack.fr
 0.0.0.0 main.exosrv.com
 0.0.0.0 maisonstravaux.fr
@@ -3020,7 +3017,6 @@
 0.0.0.0 shinilchurch.net	# domain was hacked and had a trojan installed
 0.0.0.0 simplyhelper.com
 0.0.0.0 sinera.org
-0.0.0.0 siom.ac.cn
 0.0.0.0 stellarium.fr
 0.0.0.0 stopphoulplay.com
 0.0.0.0 tanger.com.br

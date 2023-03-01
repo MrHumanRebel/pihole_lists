@@ -4918,8 +4918,6 @@
 0.0.0.0 email.catholicsingles.com
 0.0.0.0 outgoing.catholicsingles.com
 0.0.0.0 signup.catholicsingles.com
-0.0.0.0 staging.catholicsingles.com
-0.0.0.0 staging-api.catholicsingles.com
 0.0.0.0 staging-auth.catholicsingles.com
 0.0.0.0 staging2.catholicsingles.com
 0.0.0.0 support.catholicsingles.com
@@ -14063,15 +14061,12 @@
 0.0.0.0 live0-eu-central-1.onlyfans.com
 0.0.0.0 live0-sa-east-1.onlyfans.com
 0.0.0.0 live0-us-east-1.onlyfans.com
-0.0.0.0 live1.onlyfans.com
 0.0.0.0 live1-ap-southeast-2.onlyfans.com
 0.0.0.0 live1-dc2.onlyfans.com
 0.0.0.0 live1-dc3.onlyfans.com
 0.0.0.0 live1-eu-central-1.onlyfans.com
 0.0.0.0 live1-sa-east-1.onlyfans.com
 0.0.0.0 live1-us-east-1.onlyfans.com
-0.0.0.0 live10.onlyfans.com
-0.0.0.0 live11.onlyfans.com
 0.0.0.0 live2.onlyfans.com
 0.0.0.0 live2-us-east-1.onlyfans.com
 0.0.0.0 live3.onlyfans.com
@@ -14080,9 +14075,6 @@
 0.0.0.0 live4-us-east-1.onlyfans.com
 0.0.0.0 live5.onlyfans.com
 0.0.0.0 live6.onlyfans.com
-0.0.0.0 live7.onlyfans.com
-0.0.0.0 live8.onlyfans.com
-0.0.0.0 live9.onlyfans.com
 0.0.0.0 mail.onlyfans.com
 0.0.0.0 thumbs.media.onlyfans.com
 0.0.0.0 monit.onlyfans.com
@@ -14115,7 +14107,6 @@
 0.0.0.0 stream1-eu-central-1.onlyfans.com
 0.0.0.0 stream1-sa-east-1.onlyfans.com
 0.0.0.0 stream1-us-east-1.onlyfans.com
-0.0.0.0 stream2.onlyfans.com
 0.0.0.0 stream2-us-east-1.onlyfans.com
 0.0.0.0 stream3.onlyfans.com
 0.0.0.0 stream3-us-east-1.onlyfans.com
