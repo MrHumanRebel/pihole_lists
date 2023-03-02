@@ -11659,6 +11659,7 @@
 0.0.0.0 staff.lewdchat.com
 0.0.0.0 stats.lewdchat.com
 0.0.0.0 talk.lewdchat.com
+0.0.0.0 test2.lewdchat.com
 0.0.0.0 vip.lewdchat.com
 0.0.0.0 vps.lewdchat.com
 0.0.0.0 webchat.lewdchat.com
@@ -19239,7 +19240,6 @@
 0.0.0.0 projects.djspeed.dating
 0.0.0.0 dna.dating
 0.0.0.0 dna.dating
-0.0.0.0 dns.dating
 0.0.0.0 dog.dating
 0.0.0.0 doggpoundgangstaz.dating
 0.0.0.0 doggpoundgangstaz.dating
@@ -20071,7 +20071,6 @@
 0.0.0.0 sbt.dating
 0.0.0.0 sbt.dating
 0.0.0.0 schwarzwald.dating
-0.0.0.0 scott.dating
 0.0.0.0 secret.dating
 0.0.0.0 seeyou.dating
 0.0.0.0 serialkillerspeed.dating
