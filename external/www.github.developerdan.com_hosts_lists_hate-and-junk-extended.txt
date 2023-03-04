@@ -74,7 +74,9 @@
 0.0.0.0 cms.americanthinker.com
 0.0.0.0 comments.americanthinker.com
 0.0.0.0 email.americanthinker.com
+0.0.0.0 images.americanthinker.com
 0.0.0.0 origin.americanthinker.com
+0.0.0.0 published.americanthinker.com
 0.0.0.0 subscriptions.americanthinker.com
 0.0.0.0 tmp.americanthinker.com
 0.0.0.0 americanthinker.com
@@ -844,6 +846,7 @@
 0.0.0.0 pray.afa.net
 0.0.0.0 pulseway.afa.net
 0.0.0.0 resources.afa.net
+0.0.0.0 api.resources.afa.net
 0.0.0.0 shareathonwebhook.afa.net
 0.0.0.0 shipstationwebhook.afa.net
 0.0.0.0 site2.afa.net
