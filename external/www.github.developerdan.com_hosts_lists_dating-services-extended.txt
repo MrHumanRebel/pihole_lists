@@ -461,6 +461,9 @@
 0.0.0.0 wichitadating.dateworld.co
 0.0.0.0 winnipegdating.dateworld.co
 0.0.0.0 feeld.co
+0.0.0.0 dev-api.feeld.co
+0.0.0.0 core.dev-api.feeld.co
+0.0.0.0 get.feeld.co
 0.0.0.0 mail.feeld.co
 0.0.0.0 open.feeld.co
 0.0.0.0 staging.feeld.co
@@ -10978,7 +10981,6 @@
 0.0.0.0 tracking.internationalcupid.com
 0.0.0.0 internationalcupid.com
 0.0.0.0 intothelifestyle.com
-0.0.0.0 podcast.intothelifestyle.com
 0.0.0.0 intothelifestyle.com
 0.0.0.0 isexychat.com
 0.0.0.0 blog.isexychat.com

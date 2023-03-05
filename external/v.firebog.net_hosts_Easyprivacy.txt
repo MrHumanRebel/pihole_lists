@@ -2213,6 +2213,7 @@ analytics.daasrv.net
 analytics.dashboard.fingerprint.com
 analytics.datahc.com
 analytics.data.lloydsbankinggroup.com
+analytics.dealer.com
 analytics.dephibank.com
 analytics.designspiration.com
 analytics.deutscher-apotheker-verlag.de
@@ -8790,6 +8791,7 @@ possessivebucket.com
 possibleboats.com
 postgraduate2.smu.edu.sg
 postgraduate.smu.edu.sg
+potatoinvention.com
 powderprofit.com
 p.pagesjaunes.fr
 p.placed.com
@@ -9364,6 +9366,7 @@ sadbmetrics.zendalibros.com
 sadb.superrtl.de
 sadb.toggo.de
 sadb.toggoeltern.de
+sadloaf.com
 sadobeanalytics.geico.com
 sadobeanalytics.medline.com
 s-adobeanalytics.vice.com
@@ -9647,6 +9650,7 @@ scout.bergfreunde.nl
 scout.bergfreunde.se
 sc.paramountnetwork.com
 s.crackedthecode.co
+scrapesleep.com
 scratchsofa.com
 sc.rbs.co.uk
 screechingfurniture.com
