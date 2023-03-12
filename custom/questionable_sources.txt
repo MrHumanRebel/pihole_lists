@@ -144,6 +144,7 @@ chinadaily.com.cn
 america.cgtn.com/
 christianaction.org
 churchmilitant.com
+citizengo.org
 citizensjournal.us
 clarionproject.org
 clashdaily.com
@@ -247,6 +248,7 @@ eastventuranews.com
 eastvolusianews.com
 eastwitchitatimes.com
 easternwaynetoday.com
+ebaumsworld.com
 echocheck.org
 ecgeorgianews.com
 ecindiananews.com
@@ -271,6 +273,7 @@ farsnews.ir
 fashthenation.com
 fayettevillestandard.com
 fdahealthnews.com
+fdareporter.com
 federalistpress.com
 femalista.com
 filmingcops.com
@@ -343,6 +346,7 @@ hendersontimes.org
 hereistheevidence.com
 hernandoreporter.com
 heartland.org
+highereducationtribune.com
 hindustantimes.com
 hoggwatch.com
 honolulureporter.com
@@ -353,6 +357,7 @@ hotspringstimes.com
 houmathibodauxnews.com
 housatonicvalleynews.com
 howardconews.com
+hrdailywire.com
 huntsvilleleader.com
 hutchtoday.com
 iharare.com
@@ -371,9 +376,11 @@ informer.rs
 infoscum.com
 innerstrength.zone
 ihr.org
+insuranceratereporter.com
 interioralaskanews.com
 profam.org
 iowacitytoday.com
+theiowastar.com
 ipatriot.com
 ivmmeta.com
 jacksonpurchasenews.com
@@ -422,6 +429,7 @@ libertywire.net
 libsoftiktok.com
 lifenews.com
 lifesitenews.com
+lifezette.com
 lindelltv.com
 litchfieldhillstoday.com
 littleappletimes.com
@@ -479,6 +487,7 @@ mena.org.eg/en
 memri.org
 midmassnews.com
 midmichiganstd.com
+milehighsentinel.com
 militarywatchmagazine.com
 minneapolisreview.com
 mnbusinessdaily.com

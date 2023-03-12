@@ -4786,10 +4786,7 @@
 0.0.0.0 camvirt.com
 0.0.0.0 camvirt.com
 0.0.0.0 camvoice.com
-0.0.0.0 chat.camvoice.com
 0.0.0.0 mail.camvoice.com
-0.0.0.0 signup.camvoice.com
-0.0.0.0 webmail.camvoice.com
 0.0.0.0 camvoice.com
 0.0.0.0 canwehatch.com
 0.0.0.0 admin.canwehatch.com
@@ -11752,6 +11749,7 @@
 0.0.0.0 tv.livejasmin.com
 0.0.0.0 ui.livejasmin.com
 0.0.0.0 updatehd.livejasmin.com
+0.0.0.0 lubet.vast.livejasmin.com
 0.0.0.0 wiki.livejasmin.com
 0.0.0.0 livejasmin.com
 0.0.0.0 lubet.livejasmin.com
@@ -12142,7 +12140,6 @@
 0.0.0.0 speed-dating.lovestruck.com
 0.0.0.0 staging.lovestruck.com
 0.0.0.0 test2.lovestruck.com
-0.0.0.0 test3.lovestruck.com
 0.0.0.0 test4.lovestruck.com
 0.0.0.0 lovestruck.com
 0.0.0.0 www-uat.lovestruck.com
@@ -13597,6 +13594,8 @@
 0.0.0.0 webdisk.mythaidating.com
 0.0.0.0 webmail.mythaidating.com
 0.0.0.0 mythaidating.com
+0.0.0.0 mytransdating.com
+0.0.0.0 mytransdating.com
 0.0.0.0 mytransgenderdating.com
 0.0.0.0 mytransgenderdating.com
 0.0.0.0 natalydate.com
@@ -15001,7 +15000,6 @@
 0.0.0.0 real-analdating.com
 0.0.0.0 real-hookup-sites.com
 0.0.0.0 reclusechatserver.com
-0.0.0.0 m.reclusechatserver.com
 0.0.0.0 recon.com
 0.0.0.0 ads.recon.com
 0.0.0.0 ads-console.recon.com
@@ -18826,7 +18824,6 @@
 0.0.0.0 info.amazilia.dating
 0.0.0.0 new.amazilia.dating
 0.0.0.0 amouramour.dating
-0.0.0.0 amwf.dating
 0.0.0.0 anal.dating
 0.0.0.0 anal.dating
 0.0.0.0 anima.dating
@@ -18921,7 +18918,6 @@
 0.0.0.0 local.atheist.dating
 0.0.0.0 staging.atheist.dating
 0.0.0.0 web.attraction.dating
-0.0.0.0 augmentedreality.dating
 0.0.0.0 authenticconnections.dating
 0.0.0.0 authenticconnections.dating
 0.0.0.0 autos.dating
@@ -19592,8 +19588,6 @@
 0.0.0.0 staging.jobspeed.dating
 0.0.0.0 tsfiles.jobspeed.dating
 0.0.0.0 johnlasseter.dating
-0.0.0.0 joinme.dating
-0.0.0.0 joinme.dating
 0.0.0.0 joyful.dating
 0.0.0.0 joyful.dating
 0.0.0.0 justsex.dating
@@ -19738,8 +19732,6 @@
 0.0.0.0 mend.dating
 0.0.0.0 meta-sex.dating
 0.0.0.0 metagay.dating
-0.0.0.0 metagay.dating
-0.0.0.0 metalesbian.dating
 0.0.0.0 metalesbian.dating
 0.0.0.0 crfprofile.metalhead.dating
 0.0.0.0 crmprofile.metalhead.dating
@@ -19749,7 +19741,6 @@
 0.0.0.0 gay.metalhead.dating
 0.0.0.0 local.metalhead.dating
 0.0.0.0 staging.metalhead.dating
-0.0.0.0 metaonline.dating
 0.0.0.0 metaonline.dating
 0.0.0.0 metaversesex.dating
 0.0.0.0 metrics.dating
@@ -19924,7 +19915,6 @@
 0.0.0.0 faf.onlinechristian.dating
 0.0.0.0 fam.onlinechristian.dating
 0.0.0.0 staging.onlinechristian.dating
-0.0.0.0 dan.onlinejob.dating
 0.0.0.0 onlyonline.dating
 0.0.0.0 app.oooo.dating
 0.0.0.0 orbit.dating
@@ -20217,6 +20207,7 @@
 0.0.0.0 tamu.dating
 0.0.0.0 teamo.dating
 0.0.0.0 teaser.dating
+0.0.0.0 search.technicallylegal.dating
 0.0.0.0 tele.dating
 0.0.0.0 tele.dating
 0.0.0.0 en.telelove.dating
@@ -21097,7 +21088,6 @@
 0.0.0.0 dev.theparadiseclub.net
 0.0.0.0 ftp.theparadiseclub.net
 0.0.0.0 mail.theparadiseclub.net
-0.0.0.0 old.theparadiseclub.net
 0.0.0.0 test.theparadiseclub.net
 0.0.0.0 webdisk.theparadiseclub.net
 0.0.0.0 webmail.theparadiseclub.net

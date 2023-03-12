@@ -349,15 +349,11 @@
 0.0.0.0 webmail.knowingthetruth.com
 0.0.0.0 knowingthetruth.com
 0.0.0.0 leagueofthesouth.com
-0.0.0.0 802342794173233527.leagueofthesouth.com
-0.0.0.0 aaa.leagueofthesouth.com
 0.0.0.0 blog.leagueofthesouth.com
 0.0.0.0 direct.leagueofthesouth.com
 0.0.0.0 dixie.leagueofthesouth.com
-0.0.0.0 forum.leagueofthesouth.com
 0.0.0.0 ftp.leagueofthesouth.com
 0.0.0.0 lists.leagueofthesouth.com
-0.0.0.0 lync.leagueofthesouth.com
 0.0.0.0 mail.leagueofthesouth.com
 0.0.0.0 mail2.leagueofthesouth.com
 0.0.0.0 messenger.leagueofthesouth.com
@@ -369,7 +365,6 @@
 0.0.0.0 vpn.leagueofthesouth.com
 0.0.0.0 vps.leagueofthesouth.com
 0.0.0.0 leagueofthesouth.com
-0.0.0.0 wleagueofthesouth.com
 0.0.0.0 lewrockwell.com
 0.0.0.0 archive.lewrockwell.com
 0.0.0.0 docs.lewrockwell.com
@@ -582,6 +577,7 @@
 0.0.0.0 web.prisonplanet.com
 0.0.0.0 prisonplanet.com
 0.0.0.0 projectcamelotportal.com
+0.0.0.0 23.projectcamelotportal.com
 0.0.0.0 backup1.projectcamelotportal.com
 0.0.0.0 beta.projectcamelotportal.com
 0.0.0.0 betatest.projectcamelotportal.com
@@ -638,6 +634,9 @@
 0.0.0.0 qanonbin.com
 0.0.0.0 code.qanonbin.com
 0.0.0.0 test.qanonbin.com
+0.0.0.0 ww11.qanonbin.com
+0.0.0.0 ww25.qanonbin.com
+0.0.0.0 ww38.qanonbin.com
 0.0.0.0 qanonbin.com
 0.0.0.0 www2.qanonbin.com
 0.0.0.0 qanonfaq.com
@@ -821,7 +820,6 @@
 0.0.0.0 backup.adserver.afa.net
 0.0.0.0 dev.adserver.afa.net
 0.0.0.0 afapledge.afa.net
-0.0.0.0 nickdev.afapledge.afa.net
 0.0.0.0 pre.afapledge.afa.net
 0.0.0.0 test.pre.afapledge.afa.net
 0.0.0.0 aml.afa.net
