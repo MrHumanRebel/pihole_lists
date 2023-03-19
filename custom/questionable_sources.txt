@@ -418,6 +418,7 @@ larimernews.com
 lastfrontiernews.com
 laxleader.com
 leftaction.com
+legalnewsline.com
 lehighnews.org
 lewistontimes.com
 lewrockwell.com
@@ -444,7 +445,6 @@ macombjournal.com
 macombtoday.com
 maconreporter.com
 macontimes.com
-madworldnews.com
 magadailyreport.com
 magicvalleytimes.com
 magnoliastatenews.com
@@ -488,7 +488,9 @@ memri.org
 midmassnews.com
 midmichiganstd.com
 milehighsentinel.com
+topwar.ru
 militarywatchmagazine.com
+milwaukeemetrotimes.com
 minneapolisreview.com
 mnbusinessdaily.com
 minnesotastatewire.com
@@ -657,6 +659,7 @@ palmcoasttimes.com
 panamacityreporter.com
 parler.com
 pascoreporter.com
+patientdaily.com
 patriotfetch.com
 patriotjournal.org
 patrioticpost.com
@@ -689,6 +692,8 @@ politicalflare.com
 thepoliticalinsider.com
 politicalstate.org/
 politifact.news
+politnavigator.net
+politros.com
 polktimes.com
 pomonavalleynews.com
 pontiacttimes.com
@@ -984,6 +989,7 @@ unz.com
 warrensun.com
 wisconsinindependent.com
 thumbreporter.com
+tobacconewswire.com
 toofab.com
 topekasun.com
 townhall.com
