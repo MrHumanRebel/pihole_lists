@@ -1,8 +1,7 @@
-import re
 import requests
 import warnings
 from bs4 import BeautifulSoup
-import os
+
 
 
 def questionable_sources():

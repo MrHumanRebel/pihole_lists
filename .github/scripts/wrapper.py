@@ -1,7 +1,5 @@
 import re
 import requests
-import warnings
-from bs4 import BeautifulSoup
 import os
 
 def process_url(url):
@@ -15,10 +13,12 @@ def get_addresses_to_block(urls):
     for url in urls:
         lines = process_url(url)
         for line in lines:
-            if not line.startswith("#"):
+            # only add if it's a valid domain by ip or domain name and not a comment
+            if not line.startswith("#") and "." in line:
                 line = line.replace("www.", "")
                 line = line.replace("https://", "")
                 line = line.replace("http://", "")
+                line = re.sub(r"[^a-zA-Z0-9.]", "", line)
                 addresses_to_block.add(line)
     return addresses_to_block
 
@@ -36,6 +36,7 @@ def complete_blocklist_creator():
     urls = custom_raw_urls + external_raw_urls
     addresses_to_block = list(get_addresses_to_block(urls))
     addresses_to_block.sort()
+    addresses_to_block = list(dict.fromkeys(addresses_to_block))
 
     file_count = 1
     current_file_size = 0

@@ -1,9 +1,6 @@
-import re
 import requests
 import warnings
 from bs4 import BeautifulSoup
-import os
-
 
 def jogserto_webaruhazak(base_url, page_start, page_end, file_name):
     texts = []
