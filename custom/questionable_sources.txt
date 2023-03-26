@@ -447,7 +447,6 @@ macombjournal.com
 macombtoday.com
 maconreporter.com
 macontimes.com
-magadailyreport.com
 magicvalleytimes.com
 magnoliastatenews.com
 mainedailynews.com
@@ -552,6 +551,7 @@ nekentuckynews.com
 nelouisiananews.com
 nemissnews.com
 nemissourinews.com
+nenebraskanews.com
 nesacramentonews.com
 nevalleytimes.com
 journal-neo.org
