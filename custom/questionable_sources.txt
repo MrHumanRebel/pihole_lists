@@ -482,7 +482,6 @@ mibusinessdaily.com
 micatholictribune.com
 themichiganstar.com
 midcoasttoday.com
-middleamericandemocrat.com
 meforum.org
 mena.org.eg/en
 memri.org
@@ -593,6 +592,7 @@ northcooknews.com
 northdsmnews.com
 northeastherald.org
 nemontananews.com
+northernclarkcountyherald.com
 northernwitimes.com
 northegyptnews.com
 northfultontoday.com
@@ -767,6 +767,7 @@ tass.com
 ruthinstitute.org
 sacramentostandard.com
 salemnewswire.com
+sandhillstoday.com
 sandiegocitywire.com
 sanfransun.com
 sangamonsun.com
@@ -785,6 +786,7 @@ sckansasnews.com
 scminnesotanews.com
 scmissnews.com
 scmissourinews.com
+scnebraskanews.com
 sealaskanews.com
 searizonanews.com
 secureamericanow.org
@@ -803,6 +805,7 @@ sekentuckynews.com
 selatimes.com
 seminnesotanews.com
 semissourinews.com
+senebraskanews.com
 seoaklandnews.com
 setwincities.com
 sfvtoday.com
@@ -847,6 +850,7 @@ southmainenews.com
 southmianews.com
 southmichigannews.com
 southnewcastlenews.com
+southomahatimes.com
 southorlandonews.com
 southpalmbeachtoday.com
 southpinellastimes.com
@@ -974,6 +978,7 @@ other98.com
 thepatriotnation.net
 thepostemail.com
 theproudliberal.org
+publishedreporter.com
 theragingpatriot.org
 rebelnews.com
 thereligionofpeace.com
@@ -1023,6 +1028,7 @@ unitynewsnetwork.co.uk
 unmuzzlednews.com
 upgazette.com
 upperdeltanews.com
+urdupoint.com
 usbacklash.org
 usareally.com
 usasupreme.com
