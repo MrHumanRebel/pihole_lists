@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter-pihole.txt
+https://raw.githubusercontent.com/InAUGral/pihole-blocklist-gametrackers/main/pihole-blocklist-gametrackers.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST
 https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware-malicious.txt
