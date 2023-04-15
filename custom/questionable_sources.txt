@@ -224,6 +224,7 @@ dubuquetimes.com
 dupagepolicyjournal.com
 duvaltimes.com
 eaglerising.com
+eaglevalleytimes.com
 eastalamedanews.com
 eastarapahoenews.com
 eastarizonanews.com
@@ -418,6 +419,7 @@ lancastercourier.com
 lansingsun.com
 larimernews.com
 lastfrontiernews.com
+lasvegascitywire.com
 laxleader.com
 leftaction.com
 legalnewsline.com
@@ -556,6 +558,7 @@ nenebraskanews.com
 nesacramentonews.com
 nevalleytimes.com
 journal-neo.org
+nvbusinessdaily.com
 newmexicosun.com
 newnation.org
 news18.com
@@ -609,6 +612,7 @@ northkentuckynews.com
 northlaketimes.com
 northlittlerocktimes.com
 northmianews.com
+northnevadanews.com
 northoctimes.com
 northomahatimes.com
 northorlandonews.com
@@ -650,6 +654,7 @@ nwriversidenews.com
 nwvalleytimes.com
 mydailyfreedom.com
 oaklandcitywire.com
+oaklandtimes.org
 oathkeepers.org
 objectivist.co
 ocalastandard.com
