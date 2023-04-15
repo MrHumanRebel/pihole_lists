@@ -39,8 +39,8 @@ jobs:
       - name: Commit all changes
         run: |
           git pull
-          git commit -m "auto refresh"
-          git push 
+          git commit -m "auto refresh" || true
+          git push || true 
   CompleteBlocklist:
       runs-on: ubuntu-latest
       needs: [WebScraper]
@@ -65,5 +65,5 @@ jobs:
         - name: Commit all changes
           run: |
             git pull
-            git commit -m "auto refresh"
-            git push 
+            git commit -m "auto refresh" || true
+            git push || true
