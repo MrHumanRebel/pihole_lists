@@ -51,6 +51,8 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracki
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+https://raw.githubusercontent.com/Snota418/Youtube-spam-host-list/main/Crypto%20streams
+https://raw.githubusercontent.com/Snota418/Youtube-spam-host-list/main/General%20phishing
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/generated/hosts
