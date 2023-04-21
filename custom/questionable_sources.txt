@@ -517,7 +517,6 @@ mtonews.com
 munciereporter.com
 muskegonsun.com
 nwiowanews.com
-myrightamerica.com
 naplesstandard.com
 naturecoasttimes.com
 natall.com
@@ -642,6 +641,7 @@ nwalabamanews.com
 nwarkansasnews.com
 nwatlantanews.com
 nwconnnews.com
+nwclarknews.com
 nwgeorgianews.com
 nwillinoisnews.com
 nwkansasnews.com
@@ -746,6 +746,7 @@ reedcooper.net
 reformedmedia.net
 renewamerica.com
 renewedright.com
+renoreporter.com
 republicandaily.net
 gop.com
 resistthemainsteam.org
