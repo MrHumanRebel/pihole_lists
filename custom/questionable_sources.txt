@@ -663,6 +663,7 @@ occupydemocrats.com
 okeechobeetimes.com
 origo.hu
 orlandostandard.com
+otptribune.com
 outragedpatriot.com
 overpassesforamerica.com
 oxfordreporter.com
@@ -815,6 +816,7 @@ semissourinews.com
 senebraskanews.com
 seoaklandnews.com
 setwincities.com
+sevegasnews.com
 sfvtoday.com
 sgvstandard.com
 shafaaq.com
@@ -825,6 +827,7 @@ showmestatetimes.com
 shreveportreporter.com
 shtfplan.com
 sickchirpse.com
+silverstatetimes.com
 siouxcitytimes.com
 skepticink.com
 sloreporter.com
@@ -922,6 +925,7 @@ swminnesotatoday.com
 swmissnews.com
 swriversidenews.com
 swvalleytimes.com
+swvegasnews.com
 syriana-analysis.com
 takimag.com
 tallahasseesun.com
