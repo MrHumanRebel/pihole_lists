@@ -351,6 +351,7 @@ hereistheevidence.com
 hernandoreporter.com
 heartland.org
 highereducationtribune.com
+hillsboroughsun.com
 hindustantimes.com
 hoggwatch.com
 honolulureporter.com
@@ -386,6 +387,7 @@ profam.org
 iowacitytoday.com
 theiowastar.com
 ipatriot.com
+israelunwired.com
 ivmmeta.com
 jacksonpurchasenews.com
 jeffcitynews.com
@@ -415,6 +417,7 @@ lafayettereporter.com
 lafayettetimes.com
 laharbornews.com
 lakecountygazette.com
+lakeregionnews.com
 laketahoesun.com
 lancastercourier.com
 lansingsun.com
@@ -559,6 +562,7 @@ nesacramentonews.com
 nevalleytimes.com
 journal-neo.org
 nvbusinessdaily.com
+nhbusinessdaily.com
 newmexicosun.com
 newnation.org
 news18.com
@@ -592,6 +596,7 @@ northbrowardnews.com
 ncarkansasnews.com
 northcoastcanews.com
 northcooknews.com
+northcountryreporter.com
 northdsmnews.com
 northeastherald.org
 nemontananews.com
@@ -691,6 +696,7 @@ peoriastandard.com
 perezhilton.com
 personalinterpretation.com
 phxreporter.com
+piedmonttribune.com
 pinaltoday.com
 pinebelttimes.com
 pinellastimes.com
