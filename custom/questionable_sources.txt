@@ -58,6 +58,7 @@ arizonasuntimes.com
 aroostooknews.com
 aapsonline.org
 athensreporter.com
+atlanticcotimes.com
 atlstandard.com
 auburntimes.com
 augustarichmondherald.com
@@ -102,6 +103,7 @@ brevardsun.com
 bridgeporttimes.com
 bristolreporter.com
 buckscountystandard.com
+burlingtonreview.com
 caixinglobal.com
 caldronpool.com
 canadafreepress.com
@@ -697,6 +699,7 @@ perezhilton.com
 personalinterpretation.com
 phxreporter.com
 piedmonttribune.com
+pimatimes.com
 pinaltoday.com
 pinebelttimes.com
 pinellastimes.com
@@ -769,6 +772,7 @@ riverparishnews.com
 riverregiontimes.com
 rivervalleytoday.com
 rockfordsun.com
+rockinghamtimes.com
 rockislandtoday.com
 roguereview.net
 romereporter.com
@@ -906,6 +910,7 @@ southsfvtoday.com
 speech-point.com
 stclairtoday.com
 stlrecord.com
+straffordnews.com
 strategic-culture.org
 trumpstudents.org
 sturgiscoldwaternews.com
@@ -930,6 +935,7 @@ swkansasnews.com
 swlouisiananews.com
 swminnesotatoday.com
 swmissnews.com
+swnewhampshirenews.com
 swriversidenews.com
 swvalleytimes.com
 swvegasnews.com
