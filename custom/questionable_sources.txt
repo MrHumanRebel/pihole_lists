@@ -308,6 +308,7 @@ ftwaynetimes.com
 news.gab.com
 gadsdentoday.com
 galesburgreporter.com
+gardenstatetimes.com
 gatestoneinstitute.org
 gbnews.uk
 pamelageller.com
@@ -321,6 +322,7 @@ gettr.com
 girlsjustwannahaveguns.com
 glaciercountrynews.com
 globemagazine.com
+gloucestertoday.com
 gnews.org
 goldcountrytoday.com
 goldenstatetoday.com
@@ -365,6 +367,7 @@ houmathibodauxnews.com
 housatonicvalleynews.com
 howardconews.com
 hrdailywire.com
+hudsontoday.com
 huntsvilleleader.com
 hutchtoday.com
 iharare.com
@@ -474,6 +477,7 @@ mcleancountytimes.com
 mecklenburgherald.com
 en.mehrnews.com
 mercedtimes.com
+mercertimes.com
 en.mercopress.com
 merrimackvalleynews.com
 mesatimes.com
@@ -772,6 +776,7 @@ riverparishnews.com
 riverregiontimes.com
 rivervalleytoday.com
 rockfordsun.com
+rockinghamjournal.com
 rockinghamtimes.com
 rockislandtoday.com
 roguereview.net
