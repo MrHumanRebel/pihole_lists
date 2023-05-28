@@ -515,6 +515,7 @@ mixi.media
 mobilecourant.com
 mohavetoday.com
 mondoweiss.net
+monmouthtimes.com
 monroereview.com
 mybusinessdaily.com
 montereytimes.com
@@ -522,11 +523,13 @@ montgomerymdnews.com
 moonbattery.com
 moonofalabama.org
 morningpoll.com
+morrisleader.com
 front.moveon.org
 mtonews.com
 munciereporter.com
 muskegonsun.com
 nwiowanews.com
+njbusinessdaily.com
 naplesstandard.com
 naturecoasttimes.com
 natall.com
@@ -549,6 +552,7 @@ ncminnesotanews.com
 ncmissnews.com
 nealabamanews.com
 neatlantanews.com
+nebergennews.com
 nebraskabusinessdaily.com
 nepanhandlenews.com
 necalinews.com
@@ -1143,4 +1147,4 @@ analyzingamerica.org/youngconservatives
 yc.news
 yubasuttertimes.com
 z3news.com
-foxnews.com
+foxnews.com - bias and credibility
