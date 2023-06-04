@@ -113,6 +113,3 @@ drkrem.hu
 webgenerator.hu
 doktormatrac.hu
 cityroll.hu
-csillamwebaruhaz.hu
-hajapolok.hu
-sylvestris.hu

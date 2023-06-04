@@ -572,6 +572,7 @@ nesacramentonews.com
 nevalleytimes.com
 journal-neo.org
 nvbusinessdaily.com
+newarkreporter.com
 nhbusinessdaily.com
 newmexicosun.com
 newnation.org
@@ -613,6 +614,7 @@ nemontananews.com
 northernclarkcountyherald.com
 northernwitimes.com
 northegyptnews.com
+northessexnews.com
 northfultontoday.com
 northgwinnettnews.com
 northhennepinnews.com
@@ -627,6 +629,7 @@ northkentuckynews.com
 northlaketimes.com
 northlittlerocktimes.com
 northmianews.com
+northmiddlesextimes.com
 northnevadanews.com
 northoctimes.com
 northomahatimes.com
@@ -783,6 +786,7 @@ rockfordsun.com
 rockinghamjournal.com
 rockinghamtimes.com
 rockislandtoday.com
+rockvalleytimes.com
 roguereview.net
 romereporter.com
 de.rt.com
