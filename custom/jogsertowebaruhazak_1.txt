@@ -110,6 +110,3 @@ nokoartdesign.hu
 netpiac.hu
 penzesegeszseg.hu
 drkrem.hu
-webgenerator.hu
-doktormatrac.hu
-cityroll.hu

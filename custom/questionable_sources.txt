@@ -104,6 +104,7 @@ bridgeporttimes.com
 bristolreporter.com
 buckscountystandard.com
 burlingtonreview.com
+buzzloving.com
 caixinglobal.com
 caldronpool.com
 canadafreepress.com
@@ -514,6 +515,7 @@ mobusinessdaily.com
 mixi.media
 mobilecourant.com
 mohavetoday.com
+momsforliberty.org
 mondoweiss.net
 monmouthtimes.com
 monroereview.com
@@ -659,10 +661,12 @@ ntd.tv
 nwalabamanews.com
 nwarkansasnews.com
 nwatlantanews.com
+nwbergennews.com
 nwconnnews.com
 nwclarknews.com
 nwgeorgianews.com
 nwillinoisnews.com
+nwjerseynews.com
 nwkansasnews.com
 nwkentuckynews.com
 nwlatimes.com
@@ -679,6 +683,7 @@ oathkeepers.org
 objectivist.co
 ocalastandard.com
 occupydemocrats.com
+oceancountyleader.com
 okeechobeetimes.com
 origo.hu
 orlandostandard.com
@@ -811,6 +816,7 @@ sanmateosun.com
 smobserved.com
 sarasotareview.com
 savannahstandard.com
+savannahsuntimes.com
 scalaskanews.com
 seatlantanews.com
 scconnnews.com
@@ -1153,4 +1159,3 @@ yc.news
 yubasuttertimes.com
 z3news.com
 foxnews.com - bias and credibility
-topwar.ru – bias and credibility
