@@ -18,7 +18,6 @@ almasdarnews.com
 alohastatenews.com
 alphanewsmn.com
 youm7.com
-americamaxnews.com
 americaoutloud.com
 americanactionnews.com
 americancatholictribune.com
@@ -270,6 +269,7 @@ elkharttimes.com
 emeraldcoasttimes.com
 emirates247.com
 en-volve.com
+enchantmentstatenews.com
 endthefed.org
 europe-israel.org
 everetttimes.com 
@@ -434,6 +434,7 @@ larimernews.com
 lastfrontiernews.com
 lasvegascitywire.com
 laxleader.com
+theleadingreport.com
 leftaction.com
 legalnewsline.com
 lehighnews.org
@@ -573,12 +574,14 @@ nelouisiananews.com
 nemissnews.com
 nemissourinews.com
 nenebraskanews.com
+nenewmexiconews.com
 nesacramentonews.com
 nevalleytimes.com
 journal-neo.org
 nvbusinessdaily.com
 newarkreporter.com
 nhbusinessdaily.com
+nmbusinessdaily.com
 newmexicosun.com
 newnation.org
 news18.com
@@ -681,7 +684,6 @@ nwvalleytimes.com
 mydailyfreedom.com
 oaklandcitywire.com
 oaklandtimes.org
-oathkeepers.org
 objectivist.co
 ocalastandard.com
 occupydemocrats.com
@@ -879,6 +881,7 @@ southbergennews.com
 southbrowardnews.com
 southcentralreporter.com
 southcooknews.com
+southerncoloradotimes.com
 silnews.com
 southernindianatoday.com
 southdsmnews.com
@@ -917,6 +920,7 @@ springstimes.com
 sputniknews.com
 fr.sputniknews.com
 snanews.de
+sputniknews.in
 it.sputniknews.com
 stjoebentonharbor.com
 stpetestandard.com
