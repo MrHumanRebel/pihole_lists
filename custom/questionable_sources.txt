@@ -534,6 +534,7 @@ front.moveon.org
 mtonews.com
 munciereporter.com
 muskegonsun.com
+mutembeitv.com
 nwiowanews.com
 njbusinessdaily.com
 naplesstandard.com
@@ -679,6 +680,7 @@ nwlouisiananews.com
 nwminnesotanews.com
 nwmissnews.com
 nwmissouritimes.com
+nwnewmexiconews.com
 nwriversidenews.com
 nwvalleytimes.com
 mydailyfreedom.com
@@ -811,6 +813,7 @@ sacramentostandard.com
 salemnewswire.com
 sandhillstoday.com
 sandiegocitywire.com
+sandovalnews.com
 sanfransun.com
 sangamonsun.com
 sanjoaquintimes.com
@@ -818,6 +821,7 @@ sanjosestandard.com
 santaclaratoday.com
 santacruzstandard.com
 sanmateosun.com
+santafestandard.com
 smobserved.com
 sarasotareview.com
 savannahstandard.com
@@ -867,9 +871,11 @@ sickchirpse.com
 silverstatetimes.com
 siouxcitytimes.com
 skepticink.com
+slaynews.com
 sloreporter.com
 solanosun.com
 somersettimes.com
+southabqnews.com
 southafricatoday.net
 southalamedanews.com
 southatlantanews.com
@@ -932,7 +938,6 @@ stcloudsun.com
 steadfastandloyal.com
 steadfastclash.com
 steadfastdaily.com
-stonecoldtruth.com
 stoppingsocialism.com
 stpaulreporter.com
 southbirminghamtimes.com
@@ -947,6 +952,7 @@ straffordnews.com
 strategic-culture.org
 trumpstudents.org
 sturgiscoldwaternews.com
+summerlinreporter.com
 sumtertimes.com
 sunflowerstatenews.com
 sunshinesentinel.com
