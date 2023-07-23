@@ -103,6 +103,7 @@ brevardsun.com
 bridgeporttimes.com
 bristolreporter.com
 buckscountystandard.com
+buffaloledger.com
 burlingtonreview.com
 buzzloving.com
 caixinglobal.com
@@ -110,6 +111,7 @@ caldronpool.com
 canadafreepress.com
 cap-news.com
 capecodledger.com
+capitaldistricttimes.com
 micapitolnews.com
 capemonews.com
 capstonereport.com
@@ -730,7 +732,6 @@ pinestatenews.com
 pjmedia.com
 plattenews.com
 plymouthreporter.com
-pmnightlynews.com
 pocatellotimes.com
 politicalanimalnews.com
 political-discussion.com
@@ -975,6 +976,7 @@ swlouisiananews.com
 swminnesotatoday.com
 swmissnews.com
 swnewhampshirenews.com
+swnewmexiconews.com
 swriversidenews.com
 swvalleytimes.com
 swvegasnews.com
@@ -1014,6 +1016,7 @@ theepochtimes.com
 thefederalist.com
 thefederalistpapers.org
 fairus.org
+theflstandard.com
 thefreedomtimes.com
 freetelegraph.com
 thefrisky.com
@@ -1063,6 +1066,7 @@ theunionjournal.com
 unz.com
 warrensun.com
 wisconsinindependent.com
+threeriversgazette.com
 thumbreporter.com
 tobacconewswire.com
 toofab.com
@@ -1122,6 +1126,7 @@ wciowanews.com
 wcminnesotanews.com
 wcmissnews.com
 wcmissourinews.com
+wcnewmexiconews.com
 wealthmanagementwire.com
 weibo.com
 welovetrump.com
