@@ -617,6 +617,7 @@ en.newsner.com
 newsview.gr
 newswars.com
 nybusinessdaily.com
+niagaraleader.com
 nolareporter.com
 noqreport.com
 nordicmonitor.com
@@ -1088,6 +1089,7 @@ tplnews.com
 treasurecoastsun.com
 treasurevalleytimes.com
 trendingpolitics.com
+trianglenews.org
 tri-cityrecord.org
 tricitysun.com
 truthexam.com
@@ -1197,5 +1199,6 @@ yaliberty.org
 analyzingamerica.org/youngconservatives
 yc.news
 yubasuttertimes.com
+theyucatanpost.com
 z3news.com
 foxnews.com - bias and credibility
