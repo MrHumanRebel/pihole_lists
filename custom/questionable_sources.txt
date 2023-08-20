@@ -109,6 +109,7 @@ buzzloving.com
 caixinglobal.com
 caldronpool.com
 canadafreepress.com
+thecancunpost.com
 cap-news.com
 capecodledger.com
 capitaldistricttimes.com
@@ -637,6 +638,7 @@ northdsmnews.com
 northeastherald.org
 nemontananews.com
 northernclarkcountyherald.com
+northcountryleader.com
 northernwitimes.com
 northegyptnews.com
 northessexnews.com
@@ -699,6 +701,7 @@ nwmissouritimes.com
 nwnewmexiconews.com
 nwriversidenews.com
 nwvalleytimes.com
+nycgazette.com
 mydailyfreedom.com
 oaklandcitywire.com
 oaklandtimes.org
@@ -759,7 +762,6 @@ pomonavalleynews.com
 pontiacttimes.com
 pop.org
 portlandmainenews.com
-powderedwigsociety.com
 prageru.com
 prairiestatewire.com
 pravdareport.com
