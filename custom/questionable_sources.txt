@@ -29,6 +29,7 @@ americasfreedomfighters.com
 americangulag.org
 americanlibertyreport.com
 americanlookout.com
+americanmediaperiscope.com
 americanpartisan.org
 americanpatriotdaily.com
 americanpeopledaily.com
@@ -62,6 +63,7 @@ atlanticcotimes.com
 atlstandard.com
 auburntimes.com
 augustarichmondherald.com
+bajacaliforniapost.com
 baldwintimes.com
 baltimorecitywire.com
 barenakedislam.com
@@ -194,6 +196,7 @@ councilforthenationalinterest.org
 c19early.com
 cowgernation.com
 creativedestructionmedia.com
+capforcanada.com
 culturewatchnews.com
 currentsciencedaily.com
 dagospia.com
@@ -710,6 +713,7 @@ ocalastandard.com
 occupydemocrats.com
 oceancountyleader.com
 okeechobeetimes.com
+oneidatimes.com
 origo.hu
 orlandostandard.com
 otptribune.com
@@ -810,10 +814,12 @@ riverbendtimes.com
 riverparishnews.com
 riverregiontimes.com
 rivervalleytoday.com
+rochesterreporter.com
 rockfordsun.com
 rockinghamjournal.com
 rockinghamtimes.com
 rockislandtoday.com
+rocklandreporter.com
 rockvalleytimes.com
 roguereview.net
 romereporter.com
@@ -996,6 +1002,7 @@ swriversidenews.com
 swvalleytimes.com
 swvegasnews.com
 syriana-analysis.com
+tabascopost.com
 takimag.com
 tallahasseesun.com
 tamparepublic.com
@@ -1106,6 +1113,7 @@ tucsonstandard.com
 tularetimes.com
 tpusa.com
 tuscaloosaleader.com
+tworiversnews.org
 understandingthethreat.com
 unioncountyreview.com
 uniteamericafirst.com
