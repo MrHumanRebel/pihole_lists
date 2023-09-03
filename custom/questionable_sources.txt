@@ -110,6 +110,7 @@ burlingtonreview.com
 buzzloving.com
 caixinglobal.com
 caldronpool.com
+campechepost.com
 canadafreepress.com
 thecancunpost.com
 cap-news.com
@@ -193,6 +194,7 @@ cornhuskerstatenews.com
 corona-transition.org
 cair.com
 councilforthenationalinterest.org
+covertactionmagazine.com
 c19early.com
 cowgernation.com
 creativedestructionmedia.com
@@ -713,6 +715,7 @@ ocalastandard.com
 occupydemocrats.com
 oceancountyleader.com
 okeechobeetimes.com
+okeefemediagroup.com
 oneidatimes.com
 origo.hu
 orlandostandard.com
@@ -778,7 +781,6 @@ projectveritas.com
 en.protothema.gr
 protrumpnews.com/
 pulaskitimes.com
-puppetstringnews.com
 quillette.com
 quincyreporter.com
 rairfoundation.com
@@ -846,6 +848,7 @@ sanmateosun.com
 santafestandard.com
 smobserved.com
 sarasotareview.com
+saratogastandard.com
 savannahstandard.com
 savannahsuntimes.com
 scalaskanews.com
@@ -856,6 +859,7 @@ scminnesotanews.com
 scmissnews.com
 scmissourinews.com
 scnebraskanews.com
+scnewyorknews.com
 seacoaststandard.org
 sealaskanews.com
 searizonanews.com
@@ -955,6 +959,7 @@ stpetestandard.com
 stanislausnews.com
 staresattheworld.com
 stateofthenation.co
+statenislandreporter.com
 stcharlestimes.com
 stcloudsun.com
 steadfastandloyal.com
@@ -1121,6 +1126,7 @@ unitynewsnetwork.co.uk
 unmuzzlednews.com
 upgazette.com
 upperdeltanews.com
+upperpeninsulatimes.com
 urdupoint.com
 usbacklash.org
 usareally.com
