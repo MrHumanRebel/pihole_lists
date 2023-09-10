@@ -18,6 +18,7 @@ almasdarnews.com
 alohastatenews.com
 alphanewsmn.com
 youm7.com
+americafirstreport.com
 americaoutloud.com
 americanactionnews.com
 americancatholictribune.com
@@ -107,7 +108,9 @@ bristolreporter.com
 buckscountystandard.com
 buffaloledger.com
 burlingtonreview.com
+businessday.ng
 buzzloving.com
+byoblu.com
 caixinglobal.com
 caldronpool.com
 campechepost.com
@@ -228,6 +231,7 @@ deplorablekel.com
 desmoinessun.com
 desantisdaily.com
 detroitcitywire.com
+discernreport.com
 disclose.tv
 discoverthenetworks.org
 disntr.com
@@ -335,9 +339,11 @@ geneseenews.com
 genzconservative.com
 geologyin.com
 georgiamountainnews.com
+georgiarecord.com
 georgiastarnews.com
 gettr.com
 girlsjustwannahaveguns.com
+givesendgo.com
 glaciercountrynews.com
 globemagazine.com
 gloucestertoday.com
@@ -710,6 +716,7 @@ nycgazette.com
 mydailyfreedom.com
 oaklandcitywire.com
 oaklandtimes.org
+theoaxacapost.com
 objectivist.co
 ocalastandard.com
 occupydemocrats.com
@@ -785,7 +792,6 @@ quillette.com
 quincyreporter.com
 rairfoundation.com
 rationalground.com
-realconservativesunite.com
 realnewsnow.com
 goodsciencing.com
 redacted.inc
@@ -835,6 +841,7 @@ tass.com
 ruthinstitute.org
 sacramentostandard.com
 salemnewswire.com
+sancristobalpost.com
 sandhillstoday.com
 sandiegocitywire.com
 sandovalnews.com
@@ -979,6 +986,7 @@ straffordnews.com
 strategic-culture.org
 trumpstudents.org
 sturgiscoldwaternews.com
+suffolkreporter.com
 summerlinreporter.com
 sumtertimes.com
 sunflowerstatenews.com
@@ -1006,6 +1014,7 @@ swnewmexiconews.com
 swriversidenews.com
 swvalleytimes.com
 swvegasnews.com
+syracusesun.com
 syriana-analysis.com
 tabascopost.com
 takimag.com
@@ -1059,6 +1068,7 @@ thelaughclub.net
 thelibertydaily.com
 thelibertyloft.com
 thelibertyrevolution.com
+newsrnd.com
 eng.majalla.com
 michiganindependent.com
 themillenniumreport.com
@@ -1172,6 +1182,7 @@ westcooknews.com
 westdsmnews.com
 westeldoradonews.com
 westessexnews.com
+westhudvalleynews.com
 westernwaynetoday.com
 westflnews.com
 westhillsboroughnews.com
