@@ -214,6 +214,8 @@ dailystar.co.uk
 dailystormer.name
 dailysurge.com
 dakotatimes.com
+dailyveracity.com
+darntons.com
 dcdirtylaundry.com
 debka.com
 decaturtimes.com
@@ -788,6 +790,7 @@ projectveritas.com
 en.protothema.gr
 protrumpnews.com/
 pulaskitimes.com
+thequeretaropost.com
 quillette.com
 quincyreporter.com
 rairfoundation.com
@@ -804,7 +807,6 @@ redstatenation.com
 redstatewatcher.com
 redvoicemedia.com
 redwoodempirenews.com
-reedcooper.net
 reformedmedia.net
 renewamerica.com
 renewedright.com
@@ -965,6 +967,7 @@ stjoebentonharbor.com
 stpetestandard.com
 stanislausnews.com
 staresattheworld.com
+thestarnewsnetwork.com
 stateofthenation.co
 statenislandreporter.com
 stcharlestimes.com
@@ -1143,6 +1146,7 @@ usareally.com
 usasupreme.com
 usanetwork.info
 ussanews.com
+valleygazette.org
 vancouvertimes.org
 bloodandsoil.org
 vdare.com
@@ -1177,6 +1181,7 @@ westbanklanews.com
 wcalabamanews.com
 wcmichigannews.com
 westcentralreporter.com
+westchesterreporter.com
 westcontracostanews.com
 westcooknews.com
 westdsmnews.com
@@ -1190,6 +1195,7 @@ westindynews.com
 westernjournal.com
 westlatimes.com
 westmassnews.com
+westnynews.com
 westoctimes.com
 westpennyroyalnews.com
 westsbvtimes.com
