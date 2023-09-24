@@ -58,6 +58,7 @@ archaeology-world.com
 arizonaindependent.com
 arizonasuntimes.com
 aroostooknews.com
+ashevillereporter.com
 aapsonline.org
 athensreporter.com
 atlanticcotimes.com
@@ -107,10 +108,12 @@ bridgeporttimes.com
 bristolreporter.com
 buckscountystandard.com
 buffaloledger.com
+burlingtonreporter.com
 burlingtonreview.com
 businessday.ng
 buzzloving.com
 byoblu.com
+cabarrustoday.com
 caixinglobal.com
 caldronpool.com
 campechepost.com
@@ -170,6 +173,7 @@ coastalganews.com
 cobbnewsga.com
 cobbreporter.com
 coconinonews.com
+coloradofreepress.com
 columbianews.com
 colonews.org
 columbusstandard.com
@@ -241,6 +245,7 @@ djhjmedia.com
 dnyuz.com
 downeasttimes.com
 downrivertoday.com
+druthers.net
 dubuquetimes.com
 dupagepolicyjournal.com
 duvaltimes.com
@@ -367,6 +372,7 @@ greatreject.org
 grundyreporter.com
 gtrtimes.com
 guardian.ng
+theguerreropost.com
 gulfnews.com
 gunsternews.com
 hagmannreport.com
@@ -814,6 +820,7 @@ renoreporter.com
 republicandaily.net
 gop.com
 resistthemainsteam.org
+restoreamericanglory.com
 ria.ru
 righterway.com
 rightnewswire.com
@@ -1030,6 +1037,7 @@ teapartypatriots.org
 techstartups.com
 teddystick.com
 telesurtv.net
+tellerreport.com
 theamericanmirror.com
 angrypatriotmovement.com
 thebeardedpatriot.com
@@ -1162,6 +1170,7 @@ warnerrobinstoday.com
 warroom.org
 washingtonsources.org
 washingtontimes.com
+washoegazette.com
 washoenews.com
 waterfordtoday.com
 waterlootimes.com
