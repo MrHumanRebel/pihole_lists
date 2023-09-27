@@ -1,9 +1,9 @@
 name: Auto refresh
 
 on:
-  push:
-      branches:
-        - main
+  #push:
+      #branches:
+        #- main
   #schedule:
     #- cron: "30 0 * * 0"
     
