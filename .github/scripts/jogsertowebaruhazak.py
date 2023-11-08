@@ -5,6 +5,10 @@ def extract_urls_from_server_response(base_url, page_start, file_name):
 
     while page_end is None or page_start <= page_end:
         url = f"{base_url}&page={page_start}"
+        
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
+        response = requests.get(url, headers=headers)
+
 
         response = requests.get(url)
 
