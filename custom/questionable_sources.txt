@@ -1,20 +1,18 @@
 secondamendmentdaily.com
 100percentfedup.com
-us24news.com/
 2020conservative.com
 avoiceformen.com
 abqtimes.com
-acting-man.com
 activistmommy.com
 adareporter.com
 adamscountytimes.com
+aguascalientesdailypost.com
 english.alarabiya.net
 albanystandard.com
 albawaba.com
 allnewspipeline.com
 adflegal.org
 english.almanar.com.lb
-almasdarnews.com
 alohastatenews.com
 alphanewsmn.com
 youm7.com
@@ -42,7 +40,6 @@ tfp.org
 americanthinker.com
 awm.com
 americansarepissed.com
-americansfortruth.com
 americasnewssource.com
 amestoday.com
 amoskeagtimes.com
@@ -57,6 +54,7 @@ arabnews.com
 archaeology-world.com
 arizonaindependent.com
 arizonasuntimes.com
+armedforces.press
 aroostooknews.com
 ashevillereporter.com
 aapsonline.org
@@ -154,6 +152,7 @@ centralstlnews.com
 cernovich.com
 chambabasun.com
 1tv.ru
+chapelhillreview.com
 chicagocitywire.com
 chicotimes.com
 chinadaily.com.cn
@@ -180,6 +179,8 @@ columbusstandard.com
 cei.org
 concernedwomen.org
 concordledger.com
+congressionalagenda.com
+connecticutsentinal.com
 theconnecticutstar.com
 conservapedia.com
 conservativeammo.com/
@@ -248,6 +249,8 @@ downrivertoday.com
 druthers.net
 dubuquetimes.com
 dupagepolicyjournal.com
+durangopost.com
+durhamreporter.com
 duvaltimes.com
 eaglerising.com
 eaglevalleytimes.com
@@ -263,6 +266,7 @@ eastidahotimes.com
 eastindynews.com
 eciowanews.com
 eastkentuckytimes.com
+eastlakenormannews.com
 eastlittlerocktimes.com
 eastlouisvillenews.com
 eastmichigannews.com
@@ -273,9 +277,11 @@ eastsandiegonews.com
 eastsbvtimes.com
 eastsfvtoday.com
 eastsierranews.com
+eastongazette.com
 easttwincities.com
 eastventuranews.com
 eastvolusianews.com
+eastwaketimes.com
 eastwitchitatimes.com
 easternwaynetoday.com
 ebaumsworld.com
@@ -285,6 +291,7 @@ ecindiananews.com
 eckansasnews.com
 ecmissnews.com
 ecnebraskanews.com
+ecnorthcarolinanews.com
 educationdailywire.com
 elizabethtowntimes.com
 elkharttimes.com
@@ -299,12 +306,14 @@ everetttimes.com 
 everytown.org/
 eviemagazine.com
 factcheckingturkey.com
+fairporteducationalalliance.org
 frc.org
 familysurvivalheadlines.com
 farminsurancenews.com
 farsnews.ir
 fashthenation.com
 fayettevillestandard.com
+fayettevilletoday.com
 fdahealthnews.com
 fdareporter.com
 federalistpress.com
@@ -319,6 +328,7 @@ usafortrumponline.com
 floridacapitalstar.com
 floridaparishnews.com
 focusonthefamily.com
+foothillsreview.com
 bannedbook.org
 foreignpolicyi.org
 fortherightnews.com
@@ -333,11 +343,13 @@ freewestmedia.com
 fresnoleader.com
 friatider.se
 frontpagemag.com
+frontpagenewspaper.com
 ftwaynetimes.com
 news.gab.com
 gadsdentoday.com
 galesburgreporter.com
 gardenstatetimes.com
+gastoniatimes.com
 gatestoneinstitute.org
 gbnews.uk
 pamelageller.com
@@ -369,8 +381,11 @@ en.granma.cu
 greatamericandaily.com
 greatlakeswire.com
 greatreject.org
+greensbororeporter.com
+greenvillereporter.com
 grundyreporter.com
 gtrtimes.com
+theguadalajarapost.com
 guardian.ng
 theguerreropost.com
 gulfnews.com
@@ -387,6 +402,9 @@ hendersontimes.org
 hereistheevidence.com
 hernandoreporter.com
 heartland.org
+hickorysun.com
+hidalgodailypost.com
+highcountrytimes.com
 highereducationtribune.com
 hillsboroughsun.com
 hindustantimes.com
@@ -403,6 +421,7 @@ hrdailywire.com
 hudsontoday.com
 huntsvilleleader.com
 hutchtoday.com
+ibxnews.com
 iharare.com
 ihatethemedia.com
 ihypocrite.net
@@ -433,6 +452,7 @@ jeffcotimes.com
 jeffersonreporter.com
 jocotoday.com
 jbs.org
+johnstonreporter.com
 jonesborotimes.com
 judicialwatch.org
 justthenews.com
@@ -506,6 +526,7 @@ mdstatewire.com
 mabusinessdaily.com
 matsutimes.com
 mauireporter.com
+themazatlanpost.com
 mchenrytimes.com
 mcleancountytimes.com
 mecklenburgherald.com
@@ -521,13 +542,16 @@ metroeastsun.com
 metrolexnews.com
 metrowesttimes.com
 mexicobusinessdaily.com
+themexicocitypost.com
 mexicodailypost.com
 miamicourant.com
+miamiindependent.com
 miamistandard.news
 micdroppolitics.com
 mibusinessdaily.com
 micatholictribune.com
 themichiganstar.com
+michoacanpost.com
 midcoasttoday.com
 meforum.org
 mena.org.eg/en
@@ -557,9 +581,11 @@ monroenynews.com
 monroereview.com
 mybusinessdaily.com
 montereytimes.com
+monterreydailypost.com
 montgomerymdnews.com
 moonbattery.com
 moonofalabama.org
+morelosdailypost.com
 morningpoll.com
 morrisleader.com
 front.moveon.org
@@ -569,6 +595,7 @@ muskegonsun.com
 mutembeitv.com
 nwiowanews.com
 njbusinessdaily.com
+nantahalanews.com
 naplesstandard.com
 nassaustandard.com
 naturecoasttimes.com
@@ -582,6 +609,7 @@ nationalzero.com
 nationandstate.com
 naturalstatenews.com
 naugatucktimes.com
+ncbusinessdaily.com
 ncfloridanews.com
 ncgeorgianews.com
 nckansasnews.com
@@ -590,6 +618,7 @@ nckentuckynews.com
 ncmassnews.com
 ncminnesotanews.com
 ncmissnews.com
+ncncnews.com
 nealabamanews.com
 neatlantanews.com
 nebergennews.com
@@ -610,6 +639,7 @@ nemissourinews.com
 nenebraskanews.com
 nenewmexiconews.com
 nenewyorktoday.com
+nepiedmontnews.com
 nesacramentonews.com
 nevalleytimes.com
 journal-neo.org
@@ -639,6 +669,7 @@ newswars.com
 nybusinessdaily.com
 niagaraleader.com
 nolareporter.com
+noleftturn.us
 noqreport.com
 nordicmonitor.com
 norfolkreporter.com
@@ -650,6 +681,7 @@ northbluegrassnews.com
 northbostonnews.com
 northbrowardnews.com
 ncarkansasnews.com
+northcharlottetoday.com
 northcoastcanews.com
 northcooknews.com
 northcountryreporter.com
@@ -662,6 +694,7 @@ northernwitimes.com
 northegyptnews.com
 northessexnews.com
 northfultontoday.com
+northguilfordnews.com
 northgwinnettnews.com
 northhennepinnews.com
 northmichigannews.com
@@ -799,6 +832,7 @@ pulaskitimes.com
 thequeretaropost.com
 quillette.com
 quincyreporter.com
+radaronline.com
 rairfoundation.com
 rationalground.com
 realnewsnow.com
@@ -825,7 +859,6 @@ ria.ru
 righterway.com
 rightnewswire.com
 rsbnetwork.com
-rightwingnews.com
 ripostelaique.com
 riverbendtimes.com
 riverparishnews.com
@@ -858,6 +891,7 @@ sanfransun.com
 sangamonsun.com
 sanjoaquintimes.com
 sanjosestandard.com
+sanmiguelpost.com
 santaclaratoday.com
 santacruzstandard.com
 sanmateosun.com
@@ -1081,6 +1115,7 @@ thelibertyloft.com
 thelibertyrevolution.com
 newsrnd.com
 eng.majalla.com
+themanhattan.press
 michiganindependent.com
 themillenniumreport.com
 thenationalpatriot.com
@@ -1154,6 +1189,7 @@ usareally.com
 usasupreme.com
 usanetwork.info
 ussanews.com
+valeursactuelles.com
 valleygazette.org
 vancouvertimes.org
 bloodandsoil.org
@@ -1161,6 +1197,7 @@ vdare.com
 verdugosnews.com
 victorvalleytimes.com
 vidmax.com
+vigilantnews.com
 viralcocaine.com
 thevirginiastar.com
 visiontimes.com
@@ -1174,6 +1211,7 @@ washoegazette.com
 washoenews.com
 waterfordtoday.com
 waterlootimes.com
+wayneherald.org
 wcgeorgianews.com
 wcindiananews.com
 wciowanews.com
@@ -1224,12 +1262,16 @@ wisconsindailystar.com
 wisconsinlaketimes.com
 wisevoter.com
 thepublicdiscourse.com
+wltreport.com
 wndnewscenter.org
 womenarehuman.com
 facebook.com/womensrightsnews/
 wnd.com
 wn.com
+worldnewsera.com
+worldofbuzz.com
 worldstarhiphop.com
+worldtimetodays.com
 worldtribune.com
 wyandottetimes.com
 news.cn
@@ -1242,5 +1284,6 @@ analyzingamerica.org/youngconservatives
 yc.news
 yubasuttertimes.com
 theyucatanpost.com
+yumastandard.com
 z3news.com
 foxnews.com - bias and credibility
