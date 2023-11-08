@@ -1,24 +1,16 @@
 import requests
-import warnings
 from bs4 import BeautifulSoup
 
-def jogserto_webaruhazak(base_url, page_start, page_end, file_name):
+def jogserto_webaruhazak(base_url, file_name):
     texts = []
-    print(base_url)
 
-    for page in range(page_start, page_end + 1):
-        url = base_url + str(page)
+    response = requests.get(base_url)
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-        with warnings.catch_warnings():
-            warnings.simplefilter("ignore")
-            response = requests.get(url, verify=False)
-
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        for link in soup.find_all('a'):
-            if "www." in link.text:
-                texts.append(link.text.replace(
-                    "www.", "").replace("https://", ""))
+    for link in soup.find_all('a'):
+        href = link.get("href")
+        if href and href.startswith("http://www."):
+            texts.append(href.replace("http://www.", "").replace("https://", ""))
 
     cleaned_texts = []
     for text in texts:
@@ -37,18 +29,12 @@ def jogserto_webaruhazak(base_url, page_start, page_end, file_name):
         for text in cleaned_texts:
             file.write(text + "\n")
 
-
 def main():
-    print("Loading jogsertowebaruhazak_1.txt...")
-    jogserto_webaruhazak(
-        'https://jogsertowebaruhazak.kormany.hu/index.html?potolva=0&sulyos_elerhetoseg=1&sulyos_szallitas=1&page=',
-        1, 39, "custom/jogsertowebaruhazak_1.txt"
-    )
-    print("Loading jogsertowebaruhazak_2.txt...")
-    jogserto_webaruhazak(
-        'https://jogsertowebaruhazak.kormany.hu/?sulyos_csoda=1&sulyos_szallitas=1&page=',
-        1, 11, "custom/jogsertowebaruhazak_2.txt"
-    )
+    base_url = 'https://jogsertowebaruhazak.kormany.hu/'
+    file_name = "custom/jogsertowebaruhazak.txt"
+    
+    print(f"Loading {file_name}...")
+    jogserto_webaruhazak(base_url, file_name)
 
-
-main()
+if __name__ == "__main__":
+    main()
