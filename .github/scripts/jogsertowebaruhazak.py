@@ -1,16 +1,17 @@
 import requests
-from bs4 import BeautifulSoup
 
-def jogserto_webaruhazak(base_url, file_name):
+def extract_urls_from_server_response(base_url, page_start, page_end, file_name):
     texts = []
 
-    response = requests.get(base_url)
-    soup = BeautifulSoup(response.text, 'html.parser')
+    for page in range(page_start, page_end + 1):
+        url = f"{base_url}&page={page}"
 
-    for link in soup.find_all('a'):
-        href = link.get("href")
-        if href and href.startswith("http://www."):
-            texts.append(href.replace("http://www.", "").replace("https://", ""))
+        response = requests.get(url)
+
+        if response.status_code == 200:
+            data = response.json()
+            urls = [entry['url'] for entry in data['content']]
+            texts.extend(urls)
 
     cleaned_texts = []
     for text in texts:
@@ -30,11 +31,13 @@ def jogserto_webaruhazak(base_url, file_name):
             file.write(text + "\n")
 
 def main():
-    base_url = 'https://jogsertowebaruhazak.kormany.hu/'
+    base_url = 'https://jogsertowebaruhazak.kormany.hu/api/ios/search?page=40&size=10'
+    page_start = 1
+    page_end = 45  # Adjust the page range as needed
     file_name = "custom/jogsertowebaruhazak.txt"
-    
+
     print(f"Loading {file_name}...")
-    jogserto_webaruhazak(base_url, file_name)
+    extract_urls_from_server_response(base_url, page_start, page_end, file_name)
 
 if __name__ == "__main__":
     main()
